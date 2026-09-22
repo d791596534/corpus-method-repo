@@ -1,0 +1,20 @@
+# 发布 pipelines/ + data/ 两个目录，其余一律留本地。
+# 注意：gitignore 不认行尾 # 注释，注释必须单独占一行。
+
+# 实跑代码的逐字原件：细碎、含被撤销的中间版，只用于核对出处
+pipeline-archive/
+
+# 复现契约、发布层↔归档件映射、过程中发现的问题
+_worklog/
+
+# 从 pipeline-archive 装配发布层的本地工具，依赖不发布的归档目录，使用者跑不起来
+build_unit.py
+
+# 装配过程的中间清单
+needs_human_fix.txt
+junk_candidates.txt
+skipped_binary.txt
+
+__pycache__/
+*.pyc
+.reasonix/

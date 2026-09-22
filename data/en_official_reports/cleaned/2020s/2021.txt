@@ -1,0 +1,1064 @@
+This document explains how the Department of Labor (DOL) improves the lives of American workers through the management of its agencies and programs.
+As required by the Government Performance and Results Modernization Act of 2010 (GPRMA), it provides information on planned and actual performance and progress in achieving goals and objectives identified in the DOL FY 2018-2022 Strategic Plan, which was developed and executed by the Trump Administration.
+Also as required by GPRMA, it includes a Strategic Review Summary of Progress (Summary) that assesses evidence of progress, challenges, and risks for each objective at one of three levels: Noteworthy Progress, Adequate Progress, or Area for Improvement.
+The next four chapters present the Summary, an Analysis and Future Plans section, and measure tables with targets and results for three Strategic Goals and one Management Goal.
+These four goals are supported by eighteen Strategic and Management Objectives (1.1, etc.—each the responsibility of one DOL component agency) that reflect DOL’s vision and mission.
+This report, which also serves as DOL’s FY 2022 Annual Performance Plan, updates measures and targets for FY 2021 and establishes targets consistent with those reflected in the FY 2022 Congressional Budget Justification.
+Some measures are deleted or modified between annual updates.
+To present the most current information, this plan provides complete information for the budget year measures only—in this case, those retained or added in FY 2022—including actual performance for the five preceding years, if available.
+Strategic objective measure tables list applicable measures, targets, results, and status (whether or not results reached or exceed the target, indicated by Y or N).
+Where “baseline” appears in the target cell for new indicators, no data were available for establishing a numerical target.
+If results improved over the prior year but did not reach the target, “I” appears in the status cell.
+The last column identifies the level of success and plans to improve results.
+Vision: Helping American workers gain and hold good, safe jobs.
+Mission: To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.
+1.1 Create customer-focused workforce solutions for American workers.
+1.2 Provide veterans, service members, and their spouses with resources and tools to gain and maintain employment.
+1.3 Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+1.4 Provide timely, accurate, and relevant information on labor market activity, working conditions, and price changes in the economy.
+1.5 Formulate policies and initiatives to promote the interests of working women.
+2.1 Secure safe and healthful working conditions for America’s workers.
+2.2 Prevent fatalities, disease, and injury from mining, and secure safe and healthful working conditions for America’s miners.
+2.3 Secure lawful wages and working conditions for America’s workers.
+2.4 Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+2.5 Promote fair and diverse workplaces for America’s federal contractor employees.
+2.6 Promote a fair global playing field for American workers and businesses by effectively enforcing U.S. trade agreements and combating global child labor and modern slavery.
+2.7 Promote union financial integrity, transparency, and democracy.
+3.1 Provide workers’ compensation benefits for workers who are injured or become ill on the job.
+3.2 Support states’ timely and accurate benefit payments for unemployed workers.
+Improve human resources efficiency, effectiveness, and accountability.
+Provide modern technology solutions that empower the DOL mission and serve the American public through collaboration and innovation.
+Maximize DOL’s federal buying power through effective procurement management.
+Safeguard fiscal integrity, and promote the effective and efficient use of resources.
+The Employment and Training Administration (ETA) oversees the provision of employment assistance, labor market information, and education through programs authorized by the Workforce Innovation and Opportunity Act of 2014 (WIOA)—for adults, dislocated workers, youth, Job Corps, employment services authorized by the Wagner-Peyser Act, amended by title III of WIOA, and National Programs; Trade Adjustment Assistance (TAA) authorized by the Trade Act of 1974, as amended; Foreign Labor Certification activities authorized by the Immigration and Nationality Act; the Senior Community Service Employment Program authorized by the Older Americans Act; and Apprenticeship programs authorized by the National Apprenticeship Act.
+Additionally, ETA oversees the federal-state Unemployment Insurance (UI) program, authorized under the Federal Unemployment Tax Act and Title III of the Social Security Act (see Strategic Objective 3.2).
+By Sept 30, 2021, the Department of Labor (DOL) will have enrolled one million new apprentices.
+The public workforce system contributes to our nation’s global competitiveness and economic productivity by providing lifelong learning opportunities and a wide range of employment services.
+The workforce system provides critical services to a broad array of customers at all skill levels.
+These services include career counseling, case management, assessments that identify transferable skills, and skill development.
+ETA and the workforce system are committed to expanding access to apprenticeships; providing and improving strategies and tools that help connect employers and skilled workers; and continuously improving the effectiveness and efficiency of workforce development programs by providing flexibilities, ensuring accountability, and building and applying evidence of what works in these programs.
+This objective has been a focus area for improvement for three consecutive fiscal years.
+Therefore, following the summary of progress and as required by GPRMA are milestones for actions being taken to improve performance.
+ETA successfully collaborated with states to leverage staff-assisted services.
+Because staff-assisted employment services (such as career guidance and job search assistance) have repeatedly been found effective, ETA communicated that these services be included in virtually all of its competitive employment and training grants, and are required by statute in nearly all formula-funded employment and training programs.
+As employers need to rapidly hire, the public workforce system will play an important role in re-engaging workers who were sidelined through no fault of their own, and quickly and efficiently match jobseekers with businesses that need to fill openings.
+The OIG was concerned about training-related employment under the Workforce Investment Act.
+Under WIOA, ETA continues to provide guidance and technical assistance that addresses this concern, including enhanced reporting of the occupation/industry of employment, and emphasis on expanding employer-driven apprenticeship opportunities across industry sectors, which is significantly expanding training-related opportunities to all job-seeker customers.
+ETA continues to promote training-related employment, help customers better understand the availability and value of skill based training offered through formula-funded and discretionary grant programs, and encourage all employment and training programs to deliver training that is directly responsive to the skill needs in their regional economy.
+However, there are different approaches to determining what is and isn’t training-related, and in judging and classifying skills in training and skills used in a job.
+Several external initiatives include components that will contribute to a better understanding of mappings between skills, credentials, and occupations, including Credential Engine and the Credential Registry and T3 Innovation Network’s Open Competency Framework Collaborative.
+ETA continues to make its data publicly available, including data on program outcomes through TrainingProviderResults.gov and occupational information contained in O*NET, and will continue to review its program outcomes in the context of an evolving skills data landscape.
+ETA and the DOL Chief Evaluation Office completed three studies of American Job Centers (AJCs).
+Generally, customers appear to have positive experiences at the AJCs.
+With some exceptions, customers were satisfied with center staff and services.
+Individual, one-on-one interactions with staff can shape a customer’s whole experience.
+Program registration and enrollment processes and requirements can feel overwhelming or arbitrary to customers.
+New customers spend time registering online and filling out paperwork—activities that may feel distant from their immediate needs.
+Most employer customers have one point of contact at the center who caters to their specific needs.
+Employer customers have said that they had established rapport with a specific AJC staff member who understands their needs and minimizes their administrative burden.
+The customer experience will be critical as more AJCs move to a virtual experience and away from the bricks and mortar setting.
+Strengthened partnerships with other programs will be essential to serve all customers.
+To this end, ETA has incorporated the concept of One Workforce into guidance documents, funding opportunity announcements, and inter-agency agreements.
+Key aspects of this “One Workforce” vision are, systematic collaboration, integrated service delivery, leveraging resources, sharing data, and focusing on outcomes for business and job seeker.
+ETA has been working with the Department’s OCIO to build a new performance reporting and case management system for all of its competitive grantees.
+Such a system would enhance reliability and validity of performance information.
+Until those systems are available, grantees’ ability to report and ETA’s ability to observe data trends and performance outcomes are hindered, which makes it hard to detect program performance issues Grantees continue to use a patchwork of legacy systems and manual reporting, leaving room for error and confusion.
+ETA has taken several steps to improve reporting of training-related employment: (1) delivered technical assistance to states with low reporting/obvious collection issues; (2) implemented data integrity checks to improve reporting of training-related employment; and (3) proposed revisions to the Information Collection Request (ICR) definition to accurately measure only the incidence of training-related employment for those participants who received training and were employed.
+To better inform ETA monitoring and technical assistance activities, ETA developed the Quarterly Report Analysis (QRA) to serve as a technical assistance tool for states that will help them identify areas in their reported data that may require additional attention or correction.
+Coupled with the formal guidance on data validation, the QRA supports grantees’ data validation processes by offering an additional tool to inform data quality assurance activities, thus ensuring that grantees are aware of potentially significant data reporting errors.
+Measures reflecting employment related to training were added to the QRA results shared with states in an effort to provide the results more frequently (quarterly as opposed to annually) and will help ETA staff to engage with state grantees on employment related to training results.
+ETA will also continue to promote the use of linked open data formats, such as CTDL, to increase the comparability and transparency of available information relating to factors, such as credentials, that impact training-related employment.
+ETA has made O*NET occupational information available as open linked data in CTDL format and will be making the 26 industry competency models available in that format.
+ETA will continue to provide the tools necessary for grantees to deliver relevant and useful career counseling to participants so that participants can choose a training program and intended occupation based on an understanding of the jobs available in their local economy and the training necessary to obtain those jobs.
+These tools include clear and actionable labor market information produced by states’ Workforce Information Grants to States, data-driven career exploration sites such as MyNextMove.org, and information about training providers’ outcomes and quality in the TrainingProviderResults.gov website.
+ETA will also continue to require in WIOA State Plan requirements and in Funding Opportunity Announcements that labor market information about jobs in demand or growing must be the foundation of all services and training, that grantees must provide labor market information to participants as part of their service delivery strategy; and, in competitive grants, that applicants must partner with businesses to, among other things, validate that the training offered to participants meets their skill needs.
+In FY 2021, ETA will continue to provide training to the workforce system on customer centered design and accessibility of AJCs.
+Additionally, ETA will continue to take steps to increase and encourage maximum flexibility for states and local areas in designing service delivery and aligning integrated services into One Workforce, across WIOA, TAA, Wagner Peyser, TANF, SNAP, and other partner programs.
+ETA along with HHS’s Administration for Children and Families and Department of Agriculture’s Food and Nutrition Service has invited states to adjust their service delivery strategies so that federally-funded programs jointly contribute to customers’ economic mobility, and will continue to provide technical assistance to states aiming to align services.
+Several states are adapting their services to continue to operate virtually, and ETA has provided grantees with flexibilities to operate in a virtual environment during the COVID-19 pandemic.
+The Department has taken several steps to improve progress on the competitive grantees’ performance and case management system.
+These include adjusting contract provisions to strengthen contractors’ accountability, increasing federal oversight of the project, ensuring thorough quality assurance procedures, and accelerating project deliverables through better scope management.
+All of these measures resulted in completing three modules in 2020.
+The first module for the new system was made available to Indian and Native American grantees in November 2020.
+A second module for use by YouthBuild grantees is scheduled for deployment in early 2021.
+In addition, work on a module for Reentry Employment Opportunity grantees begins in the first quarter of 2021, and a replacement system for the Senior Community Service Employment Program grantees system for case management and performance will be developed before the end of 2021.
+To improve data reporting on Eligible Training Provider performance results, the Department developed technical assistance tools to assist state grantees to identify common Eligible Training Provider reporting issues and implemented an error report in the grantee reporting system – the Workforce Integrated Performance System (WIPS).
+The Department issued Training and Employment Notice (TEN) 24-19, “Eligible Training Provider Reporting and Data Publication” in May 2020 to announce its intent to publish the ETA-9171 Eligible Training Provider Performance Report results on the TrainingProviderResults.gov website in December 2020, which was subsequently completed.
+ETA was working with the Office of Management and Budget (OMB) by representing the Department on the Executive Steering Committee and participating in two workgroups to support the previous Administration’s Cross-Agency Priority Goal 8: Results-Oriented Accountability for Grants.
+Since Program Year 2016,2 the WIOA core programs and ETA’s other WIOA-authorized and partner programs have been required to report on six WIOA primary indicators of performance: employment in the 2nd quarter after exit, employment in the 4th quarter after exit, median earnings in the 2nd quarter after exit, credential attainment, measurable skill gains, and effectiveness in serving employers.
+For PY 2020 and PY 2021, ETA established national targets for employment in the 2nd quarter after exit, median earnings in the 2nd quarter after exit, and measurable skill gains performance indicators for WIOA Adult, WIOA Dislocated Worker, WIOA Youth, and TAA, as well as establishing national targets for employment in the 2nd quarter after exit and median earnings in the 2nd quarter after exit for the Wagner-Peyser Act Employment Service.
+ETA has aligned performance reporting definitions and calculations and implemented a streamlined performance reporting system for WIOA and other DOL partner programs.
+Eighteen workforce grant programs use a common record layout (the Participant Individual Record Layout or PIRL) to report program participant service and outcome information.
+Using one system enhances data reliability and accuracy.
+Under the previous administration, ETA was working to: (1) make apprenticeship a “go-to” and valued solution to enable a greater number and variety of industries to hire skilled workers and increase the skills of incumbent workers to meet their needs; and (2) advance modern work-based learning solutions to provide high-quality alternatives to college for youth and adults.
+Nationwide, 713,754 individuals began a registered apprenticeship program in FYs 2018-2020.
+For participants engaged in work-based learning, ETA has provided extensive technical assistance to state workforce practitioners, including apprenticeship and business outreach staff.
+Apprenticeship Directors also share information on how resources like WIOA formula grants and TAA funds can be used to support work experience, pre-apprenticeship programs, on-the-job training, and supports for apprentices.
+One outcome from this technical assistance was the development of an apprenticeship toolkit for workforce practitioners and dissemination of a Fact Sheet explaining the TAA program represents another funding vehicle to support Apprenticeship participation.
+In FY 2020, ETA provided technical assistance documents and webinars to help states leverage apprenticeships in serving TAA recipients.
+The President’s 2017 Executive Order, Buy American and Hire American, touched on three temporary worker programs for which DOL shares administrative or enforcement responsibilities: H-1B, H-2B, and H-2A.
+Within the “Hire American” directive, the Order called on DOL to fully enforce the protections in the laws governing temporary worker visas and to prevent any abuse of these programs.
+Additionally, the previous Administration directed federal agencies to review all nonimmigrant visa programs and propose new rules and guidance to eliminate fraud and abuse A continuing challenge for the foreign labor certification programs has been balancing the quality review of applications while meeting statutory and regulatory processing timeframes in the context of shifting volumes and legislative changes.
+As a result of the significant increases in the filing of H-2B (temporary non-agricultural) applications in the first few weeks of calendar year 2016, only 25.5 percent of applications were resolved within 30 days before the date of need.
+In response, in FY 2017, ETA implemented an Interoperability Plan designed to facilitate reassignment of staff to respond to shifts in application filing – leading to an improvement in timely H-2B processing to 78.4 percent by the end of FY 2018.
+Rising demand for a limited number of H-2B visas continued to condense the peak H-2B filing season during FYs 2019-2020, as an increasing number of employers submitted their applications within a few hours or days of January 1 for workers needed to start work on April 1.
+Despite implementing a modernized FLAG system and timely processing H-2B applications covering more than twice the statutory cap by March 1 (i.e., 30 days before April 1), the larger and more condensed workload slightly reduced overall performance in each of the last two fiscal years to 73.9 percent (FY 2019) and 70.8 percent (FY 2020).
+For example, during the first 6 months of FY 2020, the period in which 80 percent of the entire annual workload is received, ETA processed more than 7,200 H-2B applications certifying more than 126,656 worker positions at an average timely processing rate of 86 percent per week; nearly two times larger than the annual statutory cap of 66,000 H-2B visas.
+Although a large portion of the remaining H-2B workload was processed outside the established performance target due to the condensed filings of more than 5,700 applications in early January, employers could not use those certifications anyway without the statutory visa cap being raised, which did not occur during FY 2020 due to the economic disruptions caused by the COVID-19 pandemic.
+VETS Strategic Objective 1.2 – Provide veterans, service members, and their spouses with resources and tools to gain and maintain employment.
+The Veterans’ Employment and Training Service (VETS) oversees programs that assist veterans seeking employment and provides outreach to employers seeking skilled workers.
+These efforts are focused on enabling all veterans to reach their full potential in the workplace.
+VETS administers several programs to meet the employment and education needs of veterans, transitioning service members, and eligible spouses.
+The Jobs for Veterans State Grants (JVSG) program provides funding to states for Disabled Veterans’ Outreach Program (DVOP) specialists and Local Veterans’ Employment Representative (LVER) staff.
+The Homeless Veterans’ Reintegration Program (HVRP) addresses one of the most vulnerable populations by reintegrating homeless veterans into society and the workforce.
+DOL’s Transition Assistance Program (TAP) provides workshops to support a successful transition from military to civilian employment.
+Pursuant to the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA) and the Veterans’ Employment Opportunities Act of 1998, VETS investigates complaints received from individuals who believe their employment or reemployment rights under USERRA and federal employment preference rights under Veterans’ Preference were violated.
+Also, VETS operates the Honoring Investments in Recruiting and Employing (HIRE) Veterans Medallion Program—the only federal-level veterans’ employment award that recognizes a company or organization’s commitment to recruiting, employing, and retaining veterans.
+VETS is finalizing its Memorandum of Understanding (MOU) between the Departments of Labor and Health and Human Services to receive wage information from the National Directory of New Hires (NDNH), as well as receiving social security numbers from the Department of Defense in order to match these two data sets.
+Once these MOUs are effective, the information gathered will assist VETS in measuring military to civilian employment transition outcomes (job placement, wages, and retention) for transitioning service members.
+This is a priority as there are limited sources that can provide reliable post-TAP employment outcome data.
+VETS has seen a consistent increase in the percent of closed cases that meet the quality standard – from 83 percent in FY 2013 to 96 percent in FY 2020.
+VETS continuously reviews the quality standards of USERRA cases to ensure the highest level of claimant satisfaction.
+In FY 2020, VETS designated one full-time USERRA investigator in each of the six regions to further professionalize the program.
+These specialized investigators wil handle complex cases, as well as conduct employer outreach designed to lower USERRA violations.
+Based on an initial regulatory analysis, VETS estimated that approximately 4,000 applications are needed each year for the HIRE Vets Medallion Program to be an entirely fee-funded program, as prescribed in statute.
+It may take an additional three or more years of employer engagement to receive that number of applications in a given year.
+VETS continues to promote partnerships with other government agencies and private organizations with stakeholder interest in the program through increased outreach and communications.
+DVOP specialists provide individualized career services to veterans with significant barriers to employment, transitioning service members, and wounded, ill, or injured service members and their caretakers.
+VETS tracks the employment outcomes for those served by DVOP specialists, such as the employment rate in the second quarter after exit.
+VETS manages its USERRA investigations to ensure each complaint is appropriately investigated in terms of quality and timely completion.
+The quality is determined by measuring how well VETS developed and investigated the allegations in each complaint.
+A sample of closed cases is reviewed quarterly; in FY 2020, 96 percent of the closed USERRA cases met VETS’ quality standard.
+ODEP Strategic Objective 1.3 – Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+The Office of Disability Employment Policy (ODEP) promotes policies and practices and coordinates to increase the number and quality of employment opportunities for individuals with disabilities.
+ODEP employs strategies to help employers meet their business objectives by fully integrating the skills and talents of job seekers and employees with disabilities.
+Additionally, ODEP uses data and evidence to promote the adoption and implementation of policy strategies and effective practices to increase the number and quality of job opportunities for people with disabilities.
+ODEP awarded RETAIN Phase 1demonstration projects jointly with ETA to pilot evidence-based solutions designed to improve stay-at-work/returnto-work outcomes.
+To mitigate the risk of grantees not making adequate progress due to the COVID-19 pandemic, ODEP engaged subject matter experts to support each grantee.
+In FY 2020, SEED added new state intermediary organizations and expanded its scope to include initial lessons from ODEP’s RETAIN initiative.
+Through SEED, ODEP will provide disability employment policy expertise to proposed new state task forces.
+Recent SEED methods were some of ODEP’s most effective policy adoption mechanisms to date.
+They have generated more new laws, executive orders, task forces, and senior state official collaborations.
+ODEP has difficulty obtaining accurate, self-reported information from employers about disability employment barriers.
+Consequently, ODEP contracted with a third party researcher to conduct a survey of employers on their disability employment policies and practices.
+ODEP’s employer technical assistance center, the Employer Assistance and Resource Network on Disability Inclusion (EARN), which helps employers recruit, hire, retain, and advance people with disabilities, reviewed the results and is updating work plans to address employer concerns.
+ODEP presented findings at various venues, including the Annual Disability Statistics Compendium and the President’s Committee for People with Intellectual Disabilities.
+The findings will provide more accurate information and statistics on the specific employment barriers faced by people with disabilities.
+In FY 2020, ODEP focused its investments on initiatives of higher priority such as the RETAIN Demonstration Projects that will test the impact of early intervention strategies on stay-at-work/return-to-work outcomes of individuals who experience an injury or illness that could result in a work disability while employed.
+ODEP also funded SEED to promote adoption and implementation of ODEP’s policies and practices at the state level, and to advance ODEP’s policy development and dissemination efforts.
+ODEP produced 51 policy outputs which exceeded the target of 35.
+The Bureau of Labor Statistics (BLS) is the principal federal statistical agency responsible for measuring labor market activity, working conditions, price changes, and productivity in the economy.
+Its mission is to collect, analyze, and disseminate some of the nation’s most sensitive and importan economic data to support public and private decision-making.
+BLS executes its mission with independence from partisan interests while protecting the confidentiality of data providers and strives to meet the needs of a diverse set of customers for accurate, objective, relevant, timely, and accessible information and analysis.
+BLS serves the general public, the U.S. Congress, DOL and other federal agencies, state and local governments, and business and labor.
+Policies and decisions based on BLS data affect virtually all Americans, and the wide range of BLS data products is necessary to fulfill the diverse needs of a broad customer base.
+BLS is committed to maintaining the highest level of scientific integrity in producing official statistics.
+BLS complies with the Statistical Policy Directives and the Standards and Information Quality Guidelines from OMB, as well as the National Research Council’s Principles and Practices for a Federal Statistical Agency.
+Together, these form the foundation for achieving and maintaining scientific integrity within and among the principal statistical agencies.
+BLS also conforms to the conceptual framework of the Interagency Council on Statistical Policy’s Guidelines for Reporting Performance by Statistical Agencies and the “Strengthening Federal Statistics” chapter of the Analytical Perspectives volume in the President’s Budget.
+BLS reports the full cost to produce its data products.
+BLS also measures accuracy, timeliness, relevance, dissemination, and mission achievement.
+These six criteria are common among statistical agencies because they represent critical aspects of a statistical program’s performance.
+Using these common concepts as a basis for measuring and reporting on statistical agency outcomes helps inform decision-makers more consistently about the performance of statistical agencies.
+From 2009 to 2019, BLS has more than doubled the number of indexes, estimates, and other published information produced each year.
+In FY 2020, BLS produced several new products.
+The Producer Price Index published experimental indexes in the net inputs to industry data series; the National Compensation Survey published data series, consolidated benefits tables, and released factsheets to improve customer access to benefits data; and the Employment Projections program published the inaugural annual employment projections (2019-2020) to replace the biennial release.
+In response to the COVID-19 pandemic, BLS added questions to the Current Population Survey to help data users understand the effects of the pandemic on the labor market.
+BLS engages regularly with agencies across the federal government to leverage opportunities for sharing data to reduce respondent burden and improve the quality of the economic statistics it produces.
+While barriers exist to sharing economic data across federal statistical agencies, BLS continues to promote the sharing of existing economic data among BLS, the Census Bureau, and the Bureau of Economic Analysis (BEA), as well as with other federal agencies, where feasible.
+The passage of the Foundations for Evidence-based Policymaking Act of 2018 affords statistical agencies, including BLS, the ability to request data assets from any federal agency for statistical purposes, provided the data is otherwise statutorily allowed to be shared.
+BLS continues to explore opportunities to use this new provision to improve its data.
+Communication and collaboration were enhanced during the pandemic, as statistical agencies worked together to find solutions to the measurement challenges created by the unprecedented downturn in economic activity that began in March of 2020.
+In order to understand changes in employment, BLS created special tabulations of the Department of Labor’s Employment and Training Administration weekly reports of initial claims for unemployment insurance benefits, by industry.
+These special tabulations were shared across federal agencies (i.e., BLS, BEA, and the Federal Reserve) in order to improve estimates of essential economic data, including GDP, productivity, and industrial production.
+In FY 2020, BLS achieved 100 percent of its underlying timeliness and accuracy targets, and reached 86 percent (6 out of 7 measures) of the underlying relevance targets for all of its PFEIs, missing the Consumer Price Index (CPI) Indexes published monthly.
+The CPI program missed its target because fewer average price series met publication standards due to the impacts of COVID-19 on collection.
+In FY 2020, BLS continued investigating how customers access its data products.
+As its website is the primary mode of dissemination, BLS used Google Analytics to track the average number of BLS website page views each month.
+The website experienced a decline in page views compared to previous years.
+Technology trends and data accessibility via modern methods, such as Application Programming Interfaces (APIs), potentially impacted this figure.
+BLS began including API requests in the Dissemination measure in FY 2020.
+BLS achieved its target for the FY 2020 year-end customer satisfaction score of 75 through the ForeSee Experience Index, which was the same as the FY 2019 BLS result of 75.
+WB Strategic Objective 1.5 – Formulate policies and initiatives to promote the interests of working women.
+The Women’s Bureau (WB) conducts research to formulate practices and policies aimed at increasing economic and employment opportunities and advancement for the 75 million working women and their families in the U.S. WB identifies trends, data gaps, policy and programmatic needs, and strategic mechanisms to safeguard the interest of working women.
+These efforts allow WB to inform and educate individuals and organizations at the local, state, and national levels about the issues facing women in the labor force.
+Over $26 million in grants have been awarded through the Women in Apprenticeship and Nontraditional Occupations (WANTO) grant program since 1994.
+Results of a 2001 independent evaluation of programs designed to increase women’s participation in nontraditional occupations found that women who had access to the WANTO program were 5 percent to 15 percent more likely to work in a nontraditional occupation compared to women who did not have access to a WANTO project in their community.
+Grant applications have increased each year, particularly since the program was transferred to the WB.
+In four years of administering the WANTO program, applications for the grants have increased significantly, growing from 10 in 2016 (the year prior to WB taking over) to 82 in 2020.
+However, due to changes in grant reporting over time and across grantees, the outcomes of the WANTO program are difficult to aggregate across the life of the program.
+In FY 2018, WB conducted a historical review of the WANTO grant program, developed recommendations for program improvements/modifications, and began gathering data to better quantify the outcomes of the WANTO program.
+WB has played a key role in advancing research and the national dialogue around the need for paid leave through grants and stakeholder meetings.
+In July 2020, WB announced a Request for Information (RFI) on the impact of paid family and medical leave on employees and employers.
+WB collected public comments concerning the effectiveness of current state- and employer-provided paid leave programs, and how access or lack of access to paid leave programs has affected women and their families.
+The information provided will help the Department identify promising practices related to eligibility requirements, related costs, and administrative models of existing paid leave programs.
+In FY 2014-2016, WB awarded a total of $3.15 million in grants to 17 states and municipalities to conduct research and analyze how paid leave programs can be developed and implemented.
+Over the past three years, there has been a variety of legislation or gubernatorial actions implemented to provide paid leave for state employees.
+As of January 2020, there were 20 states with paid leave for state workers.
+Additionally, the 2020 National Defense Authorization Act legislation includes provisions to provide federal workers up to 12 weeks of paid parental leave in connection with the birth, adoption, or foster car placement of a child occurring after October 1, 2020.
+In FY 2018, WB initiated a project to produce a National Database of Childcare Costs based on local area data that will facilitate a better understanding of the effects of childcare prices on women’s labor force participation.
+Pilot data was collected in 2019 from 11 states that publicly report childcare market price data at the county level.
+Data collection was completed in February 2020, and the final database, which includes a public-use data set that draws data from state childcare market price surveys, in addition to county-level demographic and labor market data from the American Community Survey, was completed in September 2020.
+In FY 2020, WB conducted research and developed new products to help expand opportunities for women to access and thrive in apprenticeship programs; assist women affected by opioid abuse in enhancing their skills and obtaining family-sustaining jobs; reduce occupational licensing barriers to employment for military spouses; assess working families’ access to affordable, quality child care; and expand opportunities for women in entrepreneurship.
+WB exceeded its target for the number of policy and research deliverables, producing a total of 17 issue briefs, reports, and other resources.
+In FY 2020, WB celebrated its 100th anniversary and continued to highlight the work done to advance opportunities for women and serve as a reliable and up-to-date source of information and research on women and the workforce.
+The Occupational Safety and Health Administration (OSHA) was established by the Occupational Safety and Health Act of 1970 with the mission to ensure employers provide American workers safe and healthful working conditions.
+OSHA ensures the safety and health of America’s workers by setting and enforcing workplace safety and health standards; delivering effective enforcement; providing training, outreach, and education; and encouraging continual improvement in workplace safety and health.
+Through these efforts, OSHA aims to reduce the number of worker illnesses, injuries, and fatalities and contribute to DOL’s broader goals.
+During FY 2018, OSHA created the new OSHA Weighting System (OWS).
+By September 30, 2021, increase trenching and excavation hazards abated by 12 percent compared to FY 2017 through inspections and compliance assistance at workplaces covered by the Occupational Safety and Health Administration (OSHA).
+In FY 2019, the agency finalized the Enforcement Unit values and received clearance to implement the new OWS beginning FY 2020.
+On February 5, 2020, OSHA issued a National Emphasis Program (NEP) for respirable crystalline silica (RCS) to identify and reduce or eliminate worker exposures to RCS.
+This NEP covers exposures in general industry, maritime, and construction.
+At least 2 percent of inspections in each OSHA region were to include targeted inspections of sites within industries that are expected to have the highest exposures to RCS; however, the impact of the COVID-19 pandemic in FY 2020 prevented this action.
+In FY 2020, OSHA completed 227 Voluntary Protection Program (VPP) approvals and re-approvals.
+VPP recognizes employers and workers in the private industry and federal agencies who maintain injury and illness rates below the Bureau of Labor Statistics averages for their respective industries by implementing effective safety and health management systems.
+New approvals decreased by 30 percent and re-approvals by 39 percent compared to FY 2019 results.
+For FY 2020, due to the implementation of strict social distancing and state stay-at-home orders to address COVID-19 across multiple regions and jurisdictions, OSHA has been unable to perform many of the required on-site evaluations for participation in VPP.
+Some worksites have closed or are restricting outside persons.
+Employees (SGEs) that normally assist during on-site evaluations.
+In addition to the impact on FY 2020 approvals and re-approvals, this creates a backlog of re-approvals, which OSHA anticipates will have a significant ongoing impact into FY2022.
+On June 19, 2020, OSHA released “Temporary Policy Revisions to OSHA’s Voluntary Protection Programs (VPP) During the COVID-19 Pandemic” modifying some of the programs’ policies and procedures to allow VPP to maintain normal functions to the greatest extent possible, including recognizing the VPP status of applicants and participants and processing evaluation reports.
+As the COVID-19 response continues to evolve, OSHA will continue to review and revise its activities to support VPP applicants and participants.
+For the APG in FY 2020, OSHA, together with its state plan partners, conducted a combination of enforcement, compliance assistance, and outreach activities focused on reducing hazards associated with trenching and excavation activities.
+The effort is on track to exceed the associated performance goal.
+OSHA will continue this initiative through the current APG cycle, which ends in September 30, 2021.
+The volume of workplace retaliation complaints received under the Whistleblower Protection Program has steadily increased, from 7,557 new complaints in FY 2014 to 11,865 in FY 2020, due in large part to new complaints filed related to the COVID-19 pandemic.
+The number of new cases docketed for investigation also increased significantly to 3,469, again due to the COVID-19 pandemic.
+In FY 2020, as part of the previous Administration’s Cross-Agency Priority Goal 4 on improving customer experience, OSHA worked with OMB to implement a Customer Experience Plan related to the VPP that included a public-facing dashboard.
+In FY 2020, OSHA began testing a new online VPP application and re-approval portal.
+OSHA’s multi-year Recalibration Plan for FY 2020 also included ongoing improvements to VPP such as the digitization of VPP processes and documentation (e.g., online VPP application), redesigning VPP Corporate, and increasing customer service and responsiveness through the use of an online customer service dashboard.
+OSHA’s regional and area offices strategically prioritize enforcement resources to target high hazard industries and irresponsible employers.
+Corporate Wide Settlement Agreements and the Severe Violator Enforcement Program are additional tools OSHA uses to target establishments that require improvement across a number of locations.
+In FY 2020, OSHA abated 1,981 trenching/excavation hazards.
+OSHA sought to reduce injuries and fatalities by targeting workplaces where there were potential trenching/excavation hazards for inspections in addition to outreach.
+OSHA worked with industry associations and the public utilities who hire a significant portion of the workers to create a public-private effort to reduce these fatalities.
+Safety training is a critical piece of OSHA’s strategic effort to prevent workplace fatalities, injuries, and illnesses.
+OSHA conducts training programs at the OSHA Training Institute (OTI), administers the OTI Education Centers Program, and administers the Outreach Training Program.
+In FY 2020, OSHA provided training for 1,336,246 individuals based on preliminary results.
+OSHA also administers and enforces 23 whistleblower protection statutes that protect workers who experience retaliation for reporting violations of the law.
+Principally, this includes Section 11(c) of the Occupational Safety and Health Act, which prohibits employers from retaliating against employees who bring workplace hazards to the attention of the employer or the Agency.
+The additional 22 whistleblower protection provisions protect workers in a variety of industries who speak out against unsafe and/or unlawful behavior, including violations of transportation, consumer protection, or financial reform laws.
+In FY 2020, final results show that OSHA completed 3,122 docketed whistleblower investigations, awarding more than $30 million to complainants, including 56 reinstatements.
+The Mine Safety and Health Administration (MSHA) protects the safety and health of the nation’s miners through enforcement of the Federal Mine Safety and Health Act of 1977 (Mine Act), as amended by the Mine Improvement and New Emergency Response Act of 2006.
+MSHA’s mission is to prevent death, disease, and injury from mining and to promote safe and healthful workplaces for the nation’s miners.
+This mission is carried out through the promulgation and enforcement of mandatory safety and health standards; mandated inspections, which require four complete inspections annually at active underground mines and two complete inspections annually at active surface mines; miner training; and technical compliance assistance activities.
+By September 30, 2021, reduce the reportable injury rate associated with powered haulage equipment, the primary cause of miners’ injuries, by four percent per year based on a rolling five-year average per 200,000 hours worked.
+MSHA has undertaken several measures to prevent mining deaths including: increased monitoring and strategic enforcement through targeted inspections at mines with identified problem areas; a Pattern of Violations program; special initiatives such as focusing on inexperienced miners and miners working alone; and outreach efforts such as “Safety Pro in a Box,” which provides guidance to the metal/nonmetal mining industry on best practices and compliance responsibilities.
+In FY 2020, the preliminary five-year fatality rate per 200,000 hours worked was 0.0095, a 49 percent decrease from FY 2010 when the measure was first reported, and the lowest in mining history.
+MSHA also reached its target of reducing injury rates.
+The five-year rolling average rate fell from 2.44 injuries per 200,000 hours worked in FY 2016 to an estimated 2.08 in FY 2020.
+The reportable injury rate associated with powered haulage equipment decreased four percent in FY 2020 based on a rolling five-year average.
+MSHA completed 100 percent of its mandated regular inspections in FY 2020.
+In FY 2018, MSHA revised and began to vigorously enforce its Scofflaw Program that seeks to improve health and safety conditions at mines by leveraging the legal actions available when civil penalties are not being paid.
+At the end of FY 2020, MSHA has collected $4.5 million with an additional $850,000 still to be collected under installment plans.
+The OIG identified management and performance challenges facing MSHA in “Protecting the Safety and Health of Workers,” a DOL Top Management and Performance Challenge in FY 2019.
+MSHA needs to evaluate the effectiveness and implementation of the Respirable Coal Dust rule as new information becomes available.
+MSHA strictly enforces its regulatory standards for respirable dust and quartz.
+MSHA will continue to conduct targeted health inspections and to review the quality of coal mine dust controls in mine ventilation and dust control plans to foster continued improvement.
+MSHA reviews dust sampling quarterly and monitors operator sampling equipment during regular inspections.
+MSHA targets mine operators who fail to keep hazardous contaminant exposures below established limits.
+MSHA’s Agency Priority Goal reflected efforts to reduce workplace hazards that represent a primary cause of fatalities and injuries.
+In FY 2020, accidents caused by powered haulage equipment, which is a category of moving machines used to transport miners or haul materials in mines, contributed to 17 percent of fatalities and 9 percent of total injuries.
+MSHA continued to promote best practices to prevent injuries and fatalities associated with powered haulage accidents.
+The Powered Haulage Initiative website included pages highlighting large equipment blind spots, seat belt usage, and conveyor safety.
+Inspectors at all field offices continued to focus on conveyor safety during mine visits, discussing best practices and distributing hardhat stickers and brochures.
+MSHA identified fatalities related to contractors and provided compliance assistance to address causes of these deaths.
+MSHA continued to promote its outreach efforts through social media, the Agency’s public website, msha.gov, and quarterly stakeholder calls.
+MSHA also awarded $400,000 in grant funding through its Brookwood-Sago grant program to support education and training opportunities for miners that focused on powered haulage safety.
+The Wage and Hour Division (WHD) is responsible for administering and enforcing laws that establish the minimum standards for wages and working conditions.
+WHD enforces and administers the minimum wage, overtime pay, and child labor provisions of the Fair Labor Standards Act (FLSA); the prevailing wage requirements and wage determination provisions of the Davis-Bacon Act and Related Acts, Service Contract Act, Contract Work Hours and Safety Standards Act, Walsh-Healey Act, and Copeland Act; the wages and working conditions under the Migrant and Seasonal Agricultural Worker Protection Act; the Family and Medical Leave Act; the Employee Polygraph Protection Act; the garnishment provisions of the Consumer Credit Protection Act; the Labor Value Content requirements of the United States-Mexico-Canada Implementation Act; and the paid sick leave and expanded family and medical leave requirements of the Families First Coronavirus Response Act (FFCRA).
+WHD also enforces the field sanitation and temporary labor camp standards in agriculture, and certain employment standards and worker protections of the Immigration and Nationality Act.
+Collectively, these labor standards cover most private, state, and local government employment.
+They protect over 148 million of America’s workers in more than 10.2 million establishments throughout the U.S. and its territories.
+WHD focuses its enforcement and compliance assistance efforts to achieve the greatest impact.
+The agency uses data and evidence to identify areas and industries in which serious violations may be widespread and often organizes educational and enforcement initiatives in those areas.
+WHD complements enforcement with outreach and education to employers.
+By partnering with industry and employers to produce meaningful compliance assistance, WHD can increase compliance with the laws it enforces.
+By combining enforcement with education, more workers in this country can obtain stable and secure income and responsible businesses can succeed.
+Responding to the COVID-19 pandemic remains a top priority for WHD.
+The agency’s response throughout this continuing crisis has been swift and comprehensive.
+WHD has simultaneously addressed the critical need to provide information to workers about their rights and benefits available under the FFCRA, while enforcing the new law to ensure workers receive the protections they need and deserve.
+In addition, WHD is ensuring the safety and wellbeing of agency staff and the uninterrupted continuation of the agency’s mission.
+WHD continues to take steps to monitor the impact on operations and performance, and to employ innovative strategies to mitigate effects on performance while emphasizing and supporting quality investigations.
+In the last 5 years, WHD has recovered more than $1.4 billion dollars in back wages for over 1.3 million workers.
+In FY 2020 alone, WHD recovered over $250 million in back wages and found, on average, more than $1,120 for each employee due back wages.
+For several years, WHD has relied on two “no violation” measures to track the number of complaint and agency-initiated cases without a violation, as a measure of whether the agency-initiated investigations were well-targeted.
+These long-standing measures were effective in driving down the number of cases without a violation, demonstrating good investigation targeting, and for several years, performance results have exceeded the targets.
+In evaluating goals for continuous improvement, WHD considered the extent to which non-monetary findings played a role in that decline.
+Rather than continue pressing for lower rates, WHD will internally track the “no violation” rate, but will place a greater focus on the severity of violations in its performance measures.
+The WHD FLSA severity index incentivizes the agency to investigate the most egregious violators and to bring those investigations to successful conclusion.
+The FLSA severity index was built to inform decision-making about resource allocation and give credit to offices for investing time and resources in more impactful investigations.
+WHD continues to maintain a high percentage of “Agency-Initiated Investigations” within high violation industries that employ low-wage workers.
+In FY 2020, WHD conducted 47 percent of its investigative work in agency-initiated investigations, excluding conciliations.
+WHD continued to perform both enforcement and compliance assistance.
+The goal was to increase their impact through direct engagement with industry leaders and the use of more modern compliance assistance methods.
+WHD continued to track the percent of agency-initiated investigations and the total number of compliance actions to emphasize data-driven enforcement and manage productivity in a changing an environment.
+In FY 2020, WHD underwent a significant hiring effort to restore staffing levels.
+While the agency employed innovative strategies to mitigate COVID-19 effects on performance, such as increased flexibilities in the use of investigative and compliance assistance tools, the FY 2021 target was reduced to align with current enforcement staff levels, which reflect a combination of experienced and newly hired investigators, and the unprecedented challenges from the pandemic.
+The Employee Benefits Security Administration (EBSA) is charged with protecting nearly 154 million workers, retirees, and their families who are covered by approximately 722,000 private retirement plans, 2.5 million health plans, and similar numbers of other welfare benefit plans.
+Together, these plans hold estimated assets of $10.7 trillion.
+EBSA employs a comprehensive, integrated approach encompassing programs for enforcement, compliance assistance, interpretive guidance, legislation, and research.
+In FY 2020, the agency recovered over $3.1 billion for direct payment to plans, participants, and beneficiaries.
+EBSA’s enforcement program seeks to detect and correct violations that result in monetary recoveries for employee benefit plans, participants, and beneficiaries or secure other corrective remedies including, but not limited to, significant broad-based reforms for large plans or common service providers.
+In FY 2014, EBSA changed its performance measures when it initiated its Major Case Program.
+This method of strategic enforcement focuses on the identification and pursuit of investigations that have the greatest potential to correct ERISA violations for a large number of plans and plan participants.
+Case Staff Day and Monetary Recoveries on Major Cases Closed per Staff Day.
+These measures are designed to give EBSA a fuller understanding of the efficiency and effectiveness of the Major Case priority.
+With EBSA’s prioritization of Major Cases, monetary recoveries increased in each of the previous six years (FY 2015-2020).
+Major Case Monetary Recoveries per Major Case Staff Day increased from $108,807 in FY 2019 to $135,288 in FY 2020.
+A significant portion of FY 2020 Major Case recoveries, over $1.5 billion or 57 percent, is attributable to the Terminated Vested Participant Program (TVPP).
+However, even if one excludes results from the TVPP, EBSA still exceeded its targets for the Major Case efficiency and effectiveness measures.
+Before FY 2018, EBSA used a Gallup customer satisfaction survey to track customer satisfaction.
+In FY 2018 and FY 2019, EBSA lacked funding to continue the Gallup customer satisfaction survey.
+As a result, EBSA was not able to objectively measure customer satisfaction.
+EBSA renewed its contract with Gallup for FY 2020 and began work to establish a benchmark.
+In the past, EBSA used the data obtained through the survey and worked with the contractor to identify areas to improve its score from a customer satisfaction rating in the low 60 percent range to 71 percent in 2017.
+Since FY 2016, EBSA has placed special emphasis on reviewing the audit work of Certified Public Accountant (CPA) firms that audit fewer than 100 employee benefit plans yearly, because analysis has shown that these firms have higher audit deficiency rates.
+EBSA’s targeted reviews of audi work papers from these CPA firms provided coverage in FY 2020 for $289.9 billion in plan assets and 5.727 million participants, as the agency continued to surpass its targets each year since FY 2016.
+Prior to FY 2016, case targeting was not based on “coverage” of the overall asset and participant universe, but on identifying cases that coincided with EBSA’s overall enforcement activities.
+Consequently, case targeting did not provide a minimum level of coverage to the overall universe of plan assets or plan participants.
+In FY 2020, EBSA continued to concentrate a significant portion of its enforcement resources on the Major Case Enforcement Priority which focused on cases likely to have the greatest impact on the protection of plan assets and participants’ benefits.
+EBSA also employed metrics to evaluate the efficiency and effectiveness of investigative time.
+Because Major Case results can be highly volatile from year to year, EBSA based its enforcement measures on careful consideration of historical data.
+The majority of FY 2020 recoveries came from a single initiative, the TVPP.
+The TVPP cases obtained unusually large recoveries for participants and beneficiaries while expending minimal investigative resources.
+In EBSA’s view, the TVPP results are anomalous, and TVPP recoveries will begin to decline over the next two to three years, as plan fiduciaries and sponsors improve their recordkeeping and notification practices with respect to “missing” terminated vested participants, and as EBSA increasingly directs its limited enforcement resources to other categories of violations.
+OFCCP recognizes the value of performing both enforcement and compliance assistance activities.
+The agency is strengthening contractor engagement through the use of additional compliance resources, tools, national training, and education and outreach activities.
+GAO-18-69: Federal Agencies Could Improve Oversight of Equal Employment Opportunity Requirements recommended OFCCP address delays during compliance evaluations.
+In response, in 2019, OFCCP issued guidance on early resolution procedures to encourage contractors to pursue early resolutions where OFCCP identifies possible violations in compliance evaluations.
+These efforts helped reduce the aged case rate from 27.7 percent in FY 2017 to 7.8 percent in FY 2020, and in the same period, the median number of days to complete a desk audit dropped from 140 days to 40 days.
+The “aged case” is a case that remain unresolved after two years from the issuance of the scheduling letter.
+During the same period, the median number of days to complete a desk audit dropped from 140 days to 40 days.
+The report also recommended that OFCCP assess its method for selecting contractors for evaluation to identify the establishments at greater risk of noncompliance.
+In FY 2019, OFCCP changed its scheduling methodology, focusing one third of scheduled evaluations on the three industries with the highest discrimination violation rates.
+Evaluations of cases selected with this methodology started in May of 2019.
+In a 2016 study of OFCCP compliance evaluations (GAO-16-750 Equal Employment Opportunity: Strengthening Oversight Could Improve Federal Contractor Nondiscrimination Compliance), the GAO recommended OFCCP assess existing contractor guidance for clarity.
+OFCCP issued the Educational Institutions and Construction Technical Assistance Guides, and conducted seven town halls with different industry sectors and stakeholder groups to clarify guidance for contractors.
+In FY 2019, OFCCP launched new compliance assistance tools and resources to help federal contractors better understand nondiscrimination and affirmative action requirements.
+OFCCP completed revisions to the Federal Contractor Compliance Manual (last updated in 2014).
+The agency also established an Ombuds Service for external stakeholders to provide feedback.
+OFCCP implemented a strategy of conducting more focused reviews compared to full compliance evaluations, prioritizing larger systemic cases, and maximizing remedies to reach more contractors - and achieve timelier resolutions with larger, corporate wide conciliations.
+In FY 2020, OFCCP experienced significant performance improvements, such as completing desk audits in 40 days, reducing the aged case rate to 7.8 percent, timely completing complaint investigations at the rate of 86 percent, identifying discrimination at the rate of 5 percent, and collecting the second highest amount of financial remedy for affected workers.
+OFCCP continued this activity in FY 2020 during the pandemic, with recoveries of $35.6 million.
+At the same time, the agency completed 683 technical assistance events.
+In addition, OFCCP produced a neutral and centralized scheduling list of construction contractors and included contractor establishments at a higher risk of noncompliance in the Supply & Service and Construction scheduling lists.
+The Bureau of International Labor Affairs (ILAB) promotes a fair global playing field for workers and businesses in the United States and around the world by enforcing trade commitments, strengthening labor standards, and combating international child labor and forced labor.
+ILAB encourages countries to enforce their labor laws and adhere to internationally recognized worker rights so as to prevent exploitation of workers abroad and any risk that American workers are harmed by global competition based on such exploitation.
+The majority of ILAB’s work involves engagement with other U.S. government agencies; foreign governments; and employers, workers, and other civil society organizations to strengthen the rule of law with respect to labor rights globally and support the creation of quality jobs in the United States.
+Since 2002, ILAB’s targeted initiatives have rescued and provided education to close to two million children, and supported over 200,000 families to meet basic needs without relying on child labor.
+In FY 2020, ILAB monitored and analyzed labor rights conditions, including child labor and forced labor, in 154 countries and published timely and rigorous information for public use.
+ILAB also engaged with 48 countries to provide technical assistance, technical exchanges, or other forms of collaboration on labor rights.
+Additionally, ILAB engaged with over 30 trade partner countries to improve the protection of labor rights.
+Despite the significant disruption of the COVID-19 pandemic, which precluded most travel during the second half of FY 2020, ILAB’s engagement contributed to concrete actions taken by over 20 trade partner countries (representing more than 70 percent of high engagement trade partner countries) to improve protection of labor rights.
+Among these, nine countries3 took action to strengthen the legal framework for protection of labor rights; 12 countries4 took policy or programmatic actions to improve protection of labor rights; and 15 countries5 took action to improve labor law enforcement.
+In FY 2020, three trade partner countries took actions in all three of these domains (Armenia, Jordan, and Uzbekistan); and seven trade partner countries took action in two of these domains (Colombia, Costa Rica, Dominican Republic, Haiti, Ethiopia, Georgia and Vietnam).
+In FY 2019, ILAB conducted a series of in-depth consultations to review its performance measures and to develop a new measure that would better capture outcomes of ILAB’s policy engagement and technical assistance activities.
+As a result of these consultations, ILAB developed a data collection process and tool for tracking and analyzing its engagements with trade partner countries and multilateral institutions.
+Additionally, ILAB developed a metric to report data on significant actions taken to improve protection of labor rights by countries or multilateral institutions as a result of these engagements.
+In FY 2020, the United States-Mexico-Canada Agreement (USMCA) was formed.
+ILAB was instrumental in drafting the USMCA Labor Chapter provisions and a first-of-its-kind enforcement annex for facility-specific enforcement, the Rapid Response Labor Mechanism, which allows the United States to pursue remedies against Mexican factories that are unfairly competing in trade through violating certain labor laws.
+From FY 2018-2020, ILAB provided more than $80 million in grant funding to help Mexico raise labor standards consistent with its labor obligations under the USMCA.
+With the passage of the USMCA Implementation Act (the Act), ILAB received $210 million in supplementa funding to support Mexico in its labor reform and to provide ILAB sufficient staffing to monitor enforcement of the USMCA labor provisions.
+Of this supplemental funding, ILAB received $180 million to support labor law reform implementation in Mexico, including grants to support worker focused capacity building, efforts to reduce workplace discrimination, as well as efforts to reduce child labor, forced labor, and human trafficking.
+ILAB’s intensive engagement with governments, civil society, employers, and workers throughout FY 2020 contributed to significant actions taken to improve labor rights in trade partner countries, particularly in key export sectors such as the automobile sector in Mexico, sugarcane sector in the Dominican Republic, the vanilla sector in Madagascar, cotton harvesting in Uzbekistan, and the garment sector in Jordan and Haiti.
+Severa countries also reformed their labor laws and systems to provide or restore the government’s authority to inspect workplaces and enforce labor laws (e.g., Armenia and Georgia), and empowered their labor inspectorates to conduct OSH inspections, particularly in light of new health risks posed by COVID-19.
+A number of trade partner governments established new institutions and protocols for labor enforcement, such as local labor courts and conciliation centers (Mexico), and mediation and conciliation services (Costa Rica and Jordan).
+Afghanistan, Mauritania, and Uzbekistan stiffened criminal prosecutions, convictions and penalties for severe labor rights abuses such as slave labor, child sexual exploitation and human trafficking, while several countries took actions to strengthen laws and enforcement of labor rights in the mining sector (Afghanistan, Colombia and DRC).
+A number of countries also improved knowledge of labor rights issues by conducting and publishing research, such as the first national child labor survey conducted in Mexico and the comprehensive statistics on human trafficking published by Thailand.
+The Office of Labor-Management Standards (OLMS) administers the Labor-Management Reporting and Disclosure Act of 1959, as amended, and related laws.
+These laws primarily establish safeguards for union democracy and union financial integrity and require public disclosure reporting by unions, union officers, union employees, employers, labor consultants, and surety companies.
+OLMS has reduced the number of days to resolve union officer election complaints from 79 days in FY 2011 to 64.9 days in FY 2020.
+This is due in part to early consultation and coordination with the Solicitor’s Office and by negotiating Voluntary Compliance Agreements that allow OLMS to conduct supervised reruns in action cases with greater urgency and tighter deadlines.
+OLMS has instituted a risk-based audit targeting model to more effectively identify where criminal activity may be present by identifying anomalies in financial reports and using other targeting strategies.
+The percent of targeted audits that result in a criminal case rose from 15.2 percent in FY 2011 to 20.0 percent in FY 2020.
+The percent of disclosure reports filed electronically went from 21.4 percent in FY 2011 to 89.6 percent in FY 2019, the highest ever.
+While LM-2 filers have been required to file electronically since 2004, OLMS began requiring smaller unions to file Forms LM-3 and LM-4 electronically in FY 2018.
+The number of chronically delinquent filers of labor organization financial reports fell from 1,835 in FY 2011 to 805 in FY 2020.
+In FY 2020, OLMS continued leveraging relationships with the 43 national and international unions participating in the Voluntary Compliance Partnership program.
+This program is designed to improve compliance with filing deadlines, increase electronic filing, and ensure that unions are adequately bonded.
+This has enabled investigators to devote more of their time to high-priority investigations.
+A significant challenge for OLMS is its IT legacy system, e.LORS, which in its current state risks crashes or becoming unavailable, inhibiting the ability of investigators, supervisors, and others to access data, track cases, and generally carry out their assignments efficiently.
+Further, the system makes it increasingly difficult for unions to file financial reports electronically.
+OLMS and OCIO are exploring low/no cost ways to incrementally remove the greatest risks from the legacy system architecture while pursuing modernization funding for a replacement to the legacy system.
+Timely resolution of election complaints accelerates restoration of democratic voice and a democratically-operated union.
+OLMS continues to finetune methods for further reducing its elapsed days, including use of a team-based approach for handling election cases when resources permit and early engagement with the Office of the Solicitor in cases that may result in litigation.
+Targets balance the changes OLMS can make to its processes with outside factors that can affect resolution of these types of cases, such as cooperation from the unions being investigated.
+OLMS’ investments in expanding the number forms available electronically, outreach to facilitate electronic filing of union financial reports, and a rule that required electronic filing of the Form LM-3 and LM-4 reports for fiscal years beginning on or after January 1, 2017, led to great progress in transparency.
+OLMS made additional LM forms available for electronic filing over the course of FY 2020.
+OWCP Strategic Objective 3.1 – Provide workers’ compensation benefits for workers who are injured or become ill on the job.
+The role of the Office of Workers’ Compensation Programs (OWCP) is to provide workers’ compensation benefits for workers injured or ill on the job.
+OWCP implements four statutory federal workers’ compensation programs that provide monetary, medical, and return-to-work benefits for work-related injuries and illnesses to federal employees, coal mine workers, nuclear weapons workers, longshore and harbor workers, contractors serving overseas, and certain other designated employee groups.
+The agency adjudicates claims, administers the benefit funds authorized for these purposes, and provides oversight of claims resolutions by responsible parties.
+After being a Top Management and Performance Challenge (TMPC) from FY 2014 to 2018, the DOL Office of Inspector General (OIG) no longer identified FECA improper payments as a TMPC in FY 2019.
+The Federal Employees program reduced its improper payment rate from 3.54 percent in FY 2016 to 2.34 percent in FY 2020.
+The program made great strides in its partnership with the DOL OIG to detect and refer potential fraud.
+OWCP’s FY 2018-2019 Agency Priority Goal was to reduce both the percentage of initial opioid prescriptions and duration of new opioid prescriptions for federal employees with work-related injuries by 30 percent from the FY 2016 baseline by September 30, 2019.
+Final results for FY 2019 show that OWCP reduced initial opioid prescriptions with durations over 29 days for federal employees with work-related injuries by 66 percent from the FY 2016 baseline.
+FY 2020 results are not available for this measure as the program discontinued this measure.
+The Federal Employees program increased the number of referrals of suspected medical provider and pharmaceutical fraud to the DOL OIG and communicated with the DOL OIG on all potential fraud matters.
+The Federal Employees program also monitored the over-prescribing of opioids, billing patterns, and multi-party networks of interest, using predictive analytics and risk metrics.
+The Black Lung program implemented new timeliness measures in FY 2019 tied directly to the prototype performance standards for claims examiners.
+The timeliness measures, which focus on employee "touch times" and not overall aggregate timeframes, better reflect program priorities and assess key performance outcomes.
+Concurrently, the Black Lung program shifted away from specialized roles in claims work to an end-to-end claims adjudication model to enhance overall efficiency and productivity.
+Lung program’s operations, including the widespread cancelation of Black Lung medical exams.
+The program took an average of 307 days to process Black Lung claims in FY 2020 compared to 304 days in FY 2019.
+In addition, 14.7 percent of Black Lung claims were pending over 365 days in FY 2020 compared to 12.3 percent in FY 2019.
+In FY 2020, the Federal Employees program announced the Protecting Employees, Enabling Reemployment Initiative, a joint initiative with OSHA.
+Also in FY 2020, the Energy Workers program created a new unit of quality assurance analysts, who review the quality of individual cases throughout the year, supplementing the existing annual accountability reviews.
+In FY 2020, OWCP discontinued the measures, “percentage decrease in initial opioid prescriptions and duration of new opioid prescriptions for federal employees with work-related injuries,” and “percent of First Payment of Compensation issued within 30 days for non-Defense Base Act cases.”
+OWCP replaced these measures with “percent of wage-loss claims timely processed within 14 days for claims not requiring further development” and “percent of First Report of Injury filed within 20 days for non-Defense Base Act cases.”
+These measures help the Federal Employees and Longshore programs oversee the prompt delivery of claims filed for compensation to ensure the worker does not undergo unnecessary financial hardship.
+Sources: Integrated Federal Employee’s Compensation System (iFECS), OWCP Workers’ Compensation System (OWCS), Black Lung Program Automated Support Package (ASP), and Energy Compensation System (ECS).
+The federal-state Unemployment Insurance (UI) program, authorized under the Federal Unemployment Tax Act and Title III of the Social Security Act, provides temporary, partial wage replacement for unemployed workers, providing them with income support when suitable work is unavailable.
+To be eligible for benefits, unemployed workers must meet eligibility requirements established by state laws that conform to federal law, including that they are involuntarily unemployed, and are able, available, and actively seeking work.
+The federal role is to set broad policy for the program, establish performance measures and standards, provide technical assistance and training to states, monitor state performance, promote conformity and compliance of state laws and operations with federal law; and fund the administration of state and federal UI programs.
+ETA has reversed an upward trend in the improper payment rate and was on track to achieve the new APG until the pandemic significantly impacted the UI system’s performance in this area.
+However, Reduce Improper Payments remains on the Department’s list of Major Management Challenges, and the proposed Unemployment Insurance Program Letter that prohibits states’ use of work search formal warnings will require states to remain vigilant.
+In FY 2020, ETA continued to work aggressively with states and the UI Integrity Center to implement the Program Integrity Strategic Plan that includes strategies and actions to address the leading causes of improper payments, fraud, and identity theft.
+Since October 2017, ETA has partnered with the UI Integrity Center to create and enhance an Integrity Data Hub (IDH) for the UI program.
+The IDH serves as a secure portal for states to submit UI claims for cross-matching and analysis to support the detection and prevention of UI fraud and improper payments.
+The IDH now includes public and private sources of data, including a new identity verification (IDV) dataset launched in July 2020.
+As of April 2021, 29 states are actively using the IDV tool with other states on-boarding as quickly as feasible.
+The Suspicious Actor Repository, a dataset available through the IDH, is now used by 38 states to share specific data elements associated with fraudulent UI claims for cross-matching and has prevented an estimated $242.9 million in improper payments since its inception.
+Additionally, the Multi-State Cross-match an important dataset to identify individuals filing claims in multiple states, is used by 37 states.
+Currently, 51 states/territories have completed agreements to use the IDH, and two states/territories are in the process of entering into such agreements.
+ETA is working with the UI Integrity Center to further enhance state participation in and use of the IDH through additional guidance and technical assistance to states.
+As of September 30, 2020, 13 states had sufficient reserves to weather a future recession – down from 31 states as of September 30, 2019.
+ETA has actively promoted trust fund solvency by supporting state development of rational taxing structures with a new benefit financing model and providing one-on-one technical assistance to states to support use of the model.
+However, the unprecedented increase in unemployment compensation benefit payments due to coronavirus related layoffs resulted in deterioration of many states trust fund reserves.
+As of September 30, 2020, 19 state accounts were insolvent and receiving Title XII advances.
+This is consistent with the design of the unemployment insurance financing structure; i.e., state unemployment trust fund accounts fall in recessions as unemployment rates and benefit payments increase, and state unemployment trust fund accounts grow during periods of economic expansion, as unemployment rates and benefits fall, and tax contributions increase.
+In FY 2021, ETA will continue providing technical assistance to states by promoting the benefit financing model for the development of rational taxing structures and providing guidance and technical assistance to states on the provisions of the Federal Unemployment Tax Act, the associated potential credit reductions, and states’ options for handling these reductions.
+In FY 2020, due to an unprecedented surge in claims due to the pandemic and the new UI programs created in the CARES Act, first payment timeliness fell to 67 percent, detection of recoverable overpayments fell to 43 percent,6 and so far in FY 2021 the improper payment rate increased to 14.34 percent.
+OASAM Strategic Objective M.1 – Improve human resources efficiency, effectiveness, and accountability.
+The Office of the Assistant Secretary for Administration and Management’s (OASAM) Office of Human Resources (OHR) provides leadership, guidance, and technical expertise on all human capital areas to DOL.
+The OHR Director serves as DOL’s Chief Human Capital Officer (CHCO).
+OHR oversees accountability reviews and implements accountability processes to improve HR efficiency, effectiveness, and compliance with laws and regulations.
+By September 30, 2021, the Department of Labor (DOL) will transition from multiple administrative service providers to one for each functional area with a central reporting authority.
+Hiring manager time is included in the average time to hire results.
+The model provides up to 15 days for hiring managers to make a selection but often it takes upwards of 30 days causing the results to be driven higher.
+For FY 2020 the DOL hiring manager average time is 29 days.
+Also in FY 2020, Average Days to Issue a Certificate (from Close Date of Vacancy Announcement) decreased to 10 days compared to the FY 2019 average of 20 days.
+This is in part due to the centralized shared service model customer service functions.
+OHR completed the transition of all HR functions and employee reassignments to a shared services model.
+Establishing position classification/position management as a shared service has improved effectiveness and efficiency.
+Since 2018, OHR has reduced the DOL active Position Description (PD) inventory by 75 percent (12,624 PDs); increased the numbers of DOL standard position descriptions (SPDs) from 332 to 952; increased the percentage of the DOL workforce assigned to SPDs from 47.3 percent to 34 percent; eliminated 2,718 PDs through clean-up, PD updating, and standardization efforts; and completed 22 reorganizations and/or clean-up efforts that impacted 2,133 DOL employees.
+In support of the previous Administration’s Strategic Plan and the Agency Priority Goal, OASAM continued a four-phase implementation plan to transition DOL HR to an Enterprise-wide Shared Services delivery model in FY 2020.
+HR planning, created greater consistency in the delivery of HR products and services across DOL, reduced overall HR costs, gained efficiency in HR service delivery through economies of scale, and improved efficiency and effectiveness of HR service delivery.
+The implementation of an effective shared services solution for HR service delivery permitted DOL program agencies to focus time and resources on mission-oriented outcomes.
+Specifically, OHR improved hiring outcomes and reduced burden on hiring managers particularly for mission critical positions.
+In FY 2020, OASAM provided HR services for 93 percent of the entire DOL population, which is an increase from 77.5 percent at the end of FY 2017.
+OHR also worked toward improving employee performance management and engagement; reskilling and redeploying HR resources; and enabling simple and strategic hiring practices to enhance alignment and strategic management of the workforce.
+OASAM Strategic Objective M.2 – Provide modern technology solutions that empower the DOL mission and serve the American public through collaboration and innovation.
+OASAM’s Office of the Chief Information Officer (OCIO) provides IT leadership, products, and support for DOL.
+OCIO plays a critical leadership role in driving reforms in systems development, better managing technology spending, and succeeding in achieving real, measurable improvements in mission performance.
+OCIO provides guidance to DOL in support of government-wide directives for capital planning, IT security, information management, and enterprise architecture.
+By the end of FY 2020, OASAM had closed 40 percent (12 of 30) of OIG recommendations that were open at the beginning of the year: 2 from 2012 and 10 from 2019.
+Federal Information Technology Acquisition Reform Act (FITARA) Scorecard 10.0, signaled progress in IT modernization at the Department.
+Notably, DOL maintained its overall grade, received an A rating in 4 of the 7 FITARA scoring categories, and received credit for its proactive measures that helped sustain a maximum telework environment and ensure continued mission execution of supporting American workers and employers.
+OIG identified “Securing and Managing Information Systems” as a top management and performance challenge for FY 2020.
+The OIG continues to identify information security deficiencies in the areas of configuration management, third-party oversight, risk management, and continuous monitoring. While the Department has made improvements in these areas, these deficiencies continue to exist and represent ongoing risks to the confidentiality, integrity, and availability of the Department’s information.”
+OCIO completed the transition of nearly all IT functions to a shared services model in FY 2020.
+OASAM consolidated DOL IT staff and resources under one central authority to increase efficiency and effectiveness in IT service delivery while also providing greater economies of scale, flexibility, and improved allocation of IT resources across the enterprise.
+In FY 2020, OCIO continued to embrace modern technology solutions such as migrating major applications to the Cloud; working to continue to reduce cybersecurity risks; and building a modern IT workforce.
+DOL also further developed the common enterprise platform to refine enterprisewide standards, processes, and governance.
+By leveraging a common platform, DOL eliminated redundancies and accelerated IT modernization; increased accessibility; and enhanced security.
+OCIO also enabled agencies to make data available more quickly and to conduct advanced analytics through its Enterprise Data Analytics Platform.
+OCIO embarked on a multi-year effort to create the DOL IT Platform to include cloudhosted case management and data analytics capabilities.
+In addition, DOL developed a CXO dashboard to provide DOL executives with access to key administrative data and delivered CXO dashboards to OHR, the Office of the Chief Financial Officer (OCFO), the Business Operations Center, the Departmental Budget Center, and the Performance Management Center.
+As part of OCIO’s push towards Cloud services, 36 applications, or approximately 82 percent of major applications, are being hosted in the DOL Cloud.
+In FY 2020 OCIO adopted Technology Business Management categorizations in the DOL IT budget formulation process.
+OCIO achieved a network and application services uptime of 99.98 percent in FY 2020.
+OASAM’s Office of the Senior Procurement Executive (OSPE) provides leadership, guidance, and oversight of all procurement policy and services.
+OSPE’s percent of contracts awarded to small business reached a five-year high in FY 2019, with a result of 40.07 percent.
+FY 2020 results indicate a slight increase to 40.21 percent.
+In FY 2020, OASAM transitioned all DOL procurement staff and functions into the Shared Services model.
+OASAM consolidated all DOL procurement staff and resources under one central authority to decrease cost, contract duplication, and inefficiencies in procurement service development and delivery while also providing greater economies of scale, flexibility, and improved allocation of procurement resources across the enterprise.
+OSPE has increased its Contractor Performance Reporting System compliance rate from 69 percent to 95.71 percent between FY 2015 to FY 2020.
+Cumulative percent of addressable spend through Best-in Class (BIC) solutions in FY 2020 (40.6 percent) exceeded its target (30 percent).
+DOL obligated $271.2 million in FY 2020 for BIC, which is 109.6 percent of the FY 2020 target.
+In FY 2020, DOL obligated $652.1 million in FY 2020 as Spend under Management, which is 89.8 percent of the FY 2020 target of $726.2 million.
+DOL also shifted 47.8 percent of “unmanaged” spend to “managed” spend in FY 2020, far exceeding the established 18 percent OMB target for Tier 0 Contract Reduction.
+OASAM began a four-phase implementation plan to transition DOL procurement services to an Enterprise-wide Shared Services delivery model in FY 2018.
+By centralizing procurement functions, DOL will achieve economies of scale; gain managerial oversight and efficiencies to more rapidly implement government-wide procurement directives; enforce procurement legislation, regulation, and policies; and strategically plan for customer needs.
+An effective shared services solution for departmental procurement services allows DOL program agencies to focus their resources on program delivery and mission outcomes.
+An effective shared services solution also leverages the government’s buying power, making it possible to obtain significant reductions in the price of goods and receive better services at lower costs.
+Cost savings may then be redirected toward high-priority mission activities.
+OSPE also provides and promotes DOL-wide procurement vehicles and Best-in-Class contract solutions.
+These vehicles reduce redundancy in procurement vehicles for the same services and gain cost savings with DOL buying power.
+In FY 2020, OSPE matched its target of three new DOL enterprise-wide procurement vehicles, with three vehicles.
+Also in FY 2020, OSPE procured 109.6 percent of its addressable spend through Best-in-Class solutions.
+Addressable spend is a figure determined by OMB based on an analysis of DOL’s spend broken down by Product Service Code (PSC) and North American Industry Classification Code (NAICS), compared to the PSC codes and NAICS codes of established BIC vehicles.
+Where DOL’s PSC and NAIC codes overlap with BIC PSC and NAICS codes, it is determined to be addressable spend.
+OCFO provides financial management leadership, direction, and guidance to the Office of the Secretary of Labor and all DOL program agencies on matters arising from financial statutes, as appropriate.
+OCFO oversees DOL-wide accounting, financial management, and financial system, and leads DOL’s annual audit of the Consolidated Financial Statements.
+OCFO also supports Administration efforts in various PMA goals including CAP Goal 5, Sharing Quality Services.
+Accurate and timely financial information demonstrates DOL’s accountability to stakeholders and facilitates datadriven operational, budget, and policy decisions.
+OCFO oversees DOL’s responsibility for internal controls by assisting program management in establishing and ensuring strong controls over all financial resources in DOL.
+OCFO leads DOL’s annual financial audit and efforts to address findings resulting from the audit.
+OCFO works closely with agencies who have identified Significant Control Deficiencies.
+OCFO continues to work with DOL agencies to track and manage corrective action plans in response to audit findings while strengthening internal controls.
+OCFO will continue to ensure that all deliverables and audit requests are of high quality by performing quality assurance checks to tie audit documentation to the request provided.
+In FY 2021, the Debt Management Centralization initiative will centralize the enforcement debt management activities across DOL, from field activities to headquarters, while keeping existing mission-driven authorities and activities within the respective agencies.
+OCFO is working with OSHA, WHD, ESBA, and MSHA on the debt management side and OCIO on system development.
+Additionally, OCFO worked with enforcement agencies to establish targets for improving debt collection.
+DOL is on its way through the maturity model to a more robust and impactful Enterprise Risk Management (ERM) program.
+Currently, DOL is on the forefront of the government on many ERM initiatives, from integrating ERM into the budget and strategic review process to including it in supervisor and SES performance plans.
+The ERM Council will take a strategic, risk-based, data driven approach to maximize value, reduce redundancies, and properly allocate resources.
+OCFO did not have any material weaknesses to eliminate in FY 2020 from its FY 2018 audit.
+There were no material weaknesses identified during the FY 2019 audit; therefore, OCFO will not have any to eliminate in FY 2021.
+OCFO supports DOL’s programs by providing reliable, relevant, and timely financial information and analysis.
+OCFO will develop and maintain integrated accounting and program management systems through modernized financial systems.
+OCFO provides DOL’s managers and decision makers with the financial management tools to drive high performance and accountability, and to responsibly manage financial resources.
+A measure of spending efficiency is the “percent of discretionary appropriations cancelled after the five years period of obligation authority has expired.”
+This measure indicates what dollars were not spent—1.60 percent for FY 2020.
+To continually improve the efficiency and effectiveness of its programs, DOL uses results-based, data-driven management techniques.
+Each DOL agency prepares an annual Operating Plan that details the strategies and resources it will apply to reach goals and objectives at all levels of the organization.
+Departmental leaders review performance against those operating plans each quarter to monitor progress and hold agencies accountable for implementing the plans, achieving milestones, and making adjustments as needed.
+This review process has focused Departmental leadership on strategic management of core functions through the use of program performance and budget data.
+Identification and discussion of key measures; annual and seasonal targets; and how budgets, workload, and strategies affect results have helped clarify priorities and improve performance against benchmarks.
+The PMA sets out a long-term vision for effective and modern government capabilities, with a focus on mission, service, and stewardship.
+DOL is committed to implementing the applicable CAP Goals, as discussed throughout the document.
+The GPRMA requires that federal agencies identify and address in their Annual Performance Plans Major Management Challenges (MMCs)—defined as programmatic or management functions that have greater vulnerability to waste, fraud, abuse, and mismanagement and where failure to perform well could seriously affect the ability of an agency or the federal government to achieve its mission or goals.
+MMCs may include issues the GAO identifies as high risk or Top Management and Performance Challenges for DOL identified by OIG.
+3) Securing and Maintaining Legacy Information Systems.
+8 The Deputy Secretary is the accountable official for each of these challenges, which are described briefly below.
+As the OIG has noted, since the pandemic began in the U.S. in early 2020, unemployment compensation claims rose exponentially to 57.4 million initial claims by mid-August.
+DOL established an APG of reducing improper payments to 9.0 percent by September 30, 2021, and has worked aggressively with states and the UI Integrity Center to implement the Program Integrity Strategic Plan that includes strategies and actions to address the leading causes of improper payments, including fraud and identity theft.
+One of the key strategies is ETA’s partnership with the UI Integrity Center to create and enhance an Integrity Data Hub (IDH) for the UI system.
+The IDH serves as a secure portal for states to submit UI claims for crossmatching and analysis to support the detection and prevention of UI fraud and improper payments.
+Multi-State Cross-Match, an important dataset to identify individuals filing claims in multiple states (18 states are currently using this tool).
+In total, 51 states/territories have completed agreements to use the IDH, and two states/territories are in the process of entering into such agreements.
+ETA is working with the UI Integrity Center to further enhance state participation in and use of the IDH through additional guidance and technical assistance to states.
+In FY 2020, the UI Integrity Center provided states with targeted consultative services and business process analysis to identify customized solutions to state specific root causes of improper payments.
+ETA also developed a wide array of strategies to address work search improper payments such as development and issuance of guidance to states on model state work search state legislation, implementation of improved communications and messaging of work search requirements, and leveraging the Reemployment Services and Eligibility Assessments program to support claimant compliance with work search requirements through continued reinforcement and understanding of work search requirements, development of individual reemployment plans that include specific work search activities that meet state work search requirements, and referrals to suitable employment.
+The Department has included program integrity-related requirements for states in almost every piece of guidance related to the CARES Act, and has issued two pieces of guidance specifically addressing required activities to prevent and detect improper payments and fraud, and connecting states to integrity-related resources.
+The Department issued UI Program Letter (UIPL) No. 23-2010 with explicit instructions that states must use the tools required to be used to prevent and detect UI improper payments in the regular UI program in processing claims under the new CARES Act UI programs.
+More recently, the Department published UIPL No. 28-2011, which provided states with $100 million nationally to support addressing fraud in the CARES Act UI programs.
+In September 2020, the Department sent a formal letter to governors requesting their leadership to focus on addressing fraud and implementing proven strategies to prevent and detect UI fraud.
+In addition, the Department has consistently reinforced the need for states to actively partner with the OIG to address fraud in the UI program and reinforced that message in a joint call with states featuring the Inspector General and the Employment and Training Administration’s Assistant Secretary.
+Additional information is in the ETA Strategic Objective 3.2 section of this document and the Payment Integrity section of the FY 2020 AFR.
+Job Corps continues to enhance security at centers by implementing its multi-year, comprehensive center safety and security strategic plan, which it finalized in March 2019.
+Job Corps has developed standard operating procedures for its center oversight activities, including monitoring and identifying trends, developing video surveillance protocols, and using a riskbased approach to contractor compliance.
+In 2020, through the integration of Interagency Security Committee methodology, Job Corps has expanded this effort to establish a consistent and effective means to identify and mitigate risk for each center.
+In FY 2021, ETA plans to conduct reviews at all centers to ensure new security guidelines are in place.
+Job Corps hired a physical security expert in 2019 and supplemented his work with contract physical security support in 2020.
+Job Corps conducted physical security assessments in 24 centers and will complete assessments of all centers in 2021.
+Conducting physical security assessments of all centers will allow Job Corps to document center physical security risks, prioritize centers for physical security improvements based on the severity of the assessed vulnerability or risk, and request and allocate available funds for addressing identified security vulnerabilities.
+Job Corps has invested approximately $89 million in equipping centers with more than 11,500 cameras, 5,000 physical access control systems, walk-through and hand-held metal detectors, centralized security radio networks, emergency notification systems, and an intercom system with over 2,750 IP speakers.
+Job Corps is also developing updated standardized security training materials and job aids for center security staff.
+These materials will reflect updated safety and security procedures and the proper use and operation of recently installed security equipment.
+Taken together, the actions described will minimize center risks and achieve a desired level of protection for students and staff.
+As noted in the Strategic Review Summary of Progress under OASAM Strategic Objective M.2 and OCFO Strategic Objective M.4, OIG has identified information security and management as a DOL Top Management and Performance Challenge.
+OIG notes that while DOL has made progress, challenges remain.
+These include information technology governance, information security, and modernization (replacing legacy systems and moving into secure cloud services).
+Legacy systems increase risk of hardware or software failures from non-support for end-of-life products and the lack of current security patches.
+Degradation of any of DOL’s mission-critical systems would imperil mission delivery, with potential impacts to worker safety, inviolability of sensitive economic data, or the confidentiality of citizens’ Personally Identifiable Information.
+Whether the negative impacts are human-made, as is the case with hackers of an unpatched legacy system, or simply the failure of unsupported, irreplaceable legacy system components, the risks are significant.
+DOL remains committed to its effort to address the highest-risk legacy systems by applying focused and purposeful attention to developing and implementing appropriate mitigation strategies.
+DOL OCIO, in partnership with all agencies, has developed a modernization plan for IT systems and applications.
+It has determined modernization sequencing plans for DOL systems and applications based on prioritization criteria that include years of operation, level of obsolescence and extent of end-of-life technologies, operational performance analysis, and overall operational and security risk assessment.
+OCIO will continue collaborating with agencies in executing system modernization efforts to align with IT and cybersecurity requirements, adapt the DOL Cloud environment, and leverage the common IT platforms.
+This will ensure both security of infrastructure and information and increased performance and capability in mission and business systems and applications.
+DOL has established additional measures to focus on the ongoing performance and effectiveness of IT security operations.
+To secure DOL’s sensitive information and improve data integrity, OCIO will focus on modernizing and standardizing DOL’s infrastructure.
+Following government-wide guidance, OCIO will increase DOL’s overall IT security posture and shift IT investments to more efficient and secure computing platforms and technologies.
+OCIO will create a centralized enterprise platform to improve service delivery by procuring commodity cloud services and establishing an enterprise cloud environment, allowing DOL component agencies to consume DOL cloud services.
+Additionally, OCIO will implement an enterprise-wide IT asset management solution to centrally manage all IT assets.
+To enhance safeguards to protect mission critical and sensitive information and reduce risk of unlawful breaches and unauthorized access, OCIO will defend the shared IT environment by rapidly completing technology assessments and using innovative technologies.
+OCIO will coordinate with the Department of Homeland Security and OMB on implementing a Continuous Diagnostics and Mitigation program.
+OCIO will also continue migrating DOL applications to incorporate personal identification verification usage, implement a single sign-on solution for logical access, and enable standard single sign-on capabilities across DOL.
+DOL’s IT modernization initiatives include the deployment of a centralized, enterprise-wide IT platform with multiple capabilities including case management, content management, and data analytics.
+The cloud-based platform has helped achieve DOL-wide operational efficiencies in support of mission-driven IT applications resulting in reduced support requirements, consolidated resources, eliminated redundancies, accelerated modernization, and enhanced security.
+OCIO’s sustained commitment to creating new and modernized applications began with securing Department and agency leadership agreement to the Platform concept.
+OCIO also partnered with the Departmental Budget Center to secure new authorities to enable the Department to implement the goals of the Modernizing Government Technology Act.
+With these new authorities, the Department can transfer unobligated balances into the Working Capital Fund that will be used to drive IT modernization.
+ETA’s Apprenticeship.gov Apprenticeship Finder tool which sifts through more than 1.4 million job postings to assist citizens seeking apprenticeships.
+The website and tool offers users a streamlined digital platform to search by city, state, and occupation, as well as connect job seekers to high-skill, salaried careers.
+Similarly, HIREVets.gov provides a portal for employers and veterans to recruit, employ, train, and support veterans and the veteran community including Transitioning Service Members (TSMs).
+By utilizing one content management system, and incorporating a single system to acquire and store TSM data, DOL can better serve veterans with targeted services for future employment opportunities.
+Under the direction of the Deputy Secretary in FY 2018, DOL began an aggressive approach to closing outstanding OIG recommendations, especially those older than two years.
+In FY 2019, DOL began tracking the percentage of agreed-upon OIG recommendations from all previous fiscal years that have not been closed.
+Each DOL agency has a plan to attempt to address additional open recommendations by FY 2022.
+The Chief Evaluation Office (CEO) in the Office of the Assistant Secretary for Policy leads DOL’s evaluation agenda, working closely with agency staff to implement program evaluations to answer key questions, as detailed in the annual Evaluation Plan.
+The results from evaluations inform policy and improve DOL’s performance-based management initiatives in support of the GPRMA.
+Further, as described in DOL’s Interim Learning Agenda and Interim Capacity Assessment for the Fiscal Year 2022 Budget, CEO coordinates key evidence-building activities (as per the Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115- 435).
+For more information see http://www.dol.gov/asp/evaluation/.
+Because this is primarily a planning document that uses historical information to inform future strategies and targets, it is organized around Departmental goals and measures for the budget year (FY 2022).
+However, DOL is obliged to report results for measures with PY 2019 or FY 2020 targets published in the FY 2019 APR but not included in this year’s plan.
+The following table lists these performance measures with their targets and results organized by Strategic Objective.
+Results are not provided for measures that were collecting baseline data and therefore did not have targets.
+The Department of the Interior (DOI or Department) conserves and manages the Nation’s natural resources and cultural heritage for the benefit and enjoyment of the American people, provides scientific and other information about natural resources and natural hazards to address societal challenges and create opportunities for the American people, and honors the Nation’s trust responsibilities or special commitments to American Indians, Alaska Natives, and affiliated island communities.
+The Department manages the Nation’s tribal and public lands and minerals, including managing more than 480 million surface acres of public lands (Bureau of Land Management – 246M; U.S. Fish and Wildlife Service – 96M; National Park Service – 85M; Bureau of Indian Affairs – 56M), 700 million acres of subsurface minerals, and 2.5 billion acres of the Outer Continental Shelf.
+The Department is the steward of 20 percent of the Nation’s lands, including national parks, national wildlife refuges, and the public lands.
+It manages resources providing approximately 20 percent of the Nation’s energy; delivers and manages water in the 17 Western states and supplies 15 percent of the Nation’s hydropower energy; and upholds Federal trust responsibilities to 574 Federally recognized Indian tribes, Alaska Native communities, as well as insular areas.
+The Department also partners with states to manage wildlife, promote healthy forests and suppress fire, manage energy resource development (oil, gas, coal, hydro, geothermal, wind, and solar) on its lands and offshore areas, promote outdoor recreation (including hunting, fishing, bird watching, boating, hiking, and biking), preserve and protect natural and cultural resources, and provide mapping, geological, hydrological, and biological science for the Nation.
+In FY 2020, the novel coronavirus (COVID-19) global pandemic presented many challenges and complicated how the Department of Interior accomplishes its mission.
+Many of the Department’s performance goals were not met or data not collected due to interruptions from the pandemic.
+Congress appropriated $756 million in Coronavirus Aid, Relief, and Economic Security Act (CARES Act) funding for the Department to distribute to tribal governments, safeguard health and safety, ensure delivery of water, and conduct the Department’s mission during the pandemic.
+Department employees had to implement measures to control the spread of the virus while carrying out important work.
+Telework capability was strengthened and capacity increased, websites and dashboards were created to share COVID-19 updates, human capital management and employee development shifted to online platforms, and virtual coaching sessions were used to help both managers and staff adjust to the remote work environment.
+Where teams were required to work on site, leaders protected staff by adjusting crew sizes and shift rotations, acquired temporary office and lodging space, and instituted requirements on personal protections and regular cleaning protocols.
+This Annual Performance Report (APR) is a look back on FY 2020 and reflects the strategies, goals and objectives of the previous Administration, including those included in the former Administration’s Strategic Plan for DOI, a document that has not yet been updated to reflect the vision of the Biden-Harris Administration.
+This report was prepared and submitted to maintain compliance with the requirements of the Government Performance and Results Act Modernization Act of 2010 (GPRAMA), P.L. 111-352, which mandates an annual assessment of the Department’s progress toward achieving existing Strategic Plan goals.
+DOI is currently in the process of revising its Strategic Plan to more accurately reflect the current Administration’s policies and management priorities.
+Means used to verify and validate measured values: All performance data reported in the APR and on http://www.performance.gov/ by the Department is subject to the data verification and validation standards initially published in 2003 and reissued in 2007 (see https://www.doi.gov/performance/data-validation-and-verification).
+Implementing organization heads or chief officials confirm in writing the validity of the data and present the data on a quarterly basis to the Deputy Secretary.
+Sources for the data: Program managers provide performance data based on their observations that can include extrapolations of selected representative samples or history adjusted for estimates of changing conditions.
+The data is tracked and maintained in separate systems.
+Following review by the providing bureau or office, data is collected, reviewed, integrated, and maintained by the Department’s Office of Planning and Performance Management (PPP) in its APR available through the Department’s Budget and Performance Portal (www.doi.gov/bpp), and on the www.performance.gov website.
+Level of accuracy required for the intended use of the data: Performance data reported in the APR and on http://www.performance.gov/ is used for management purposes, as a representative indicator of progress in relation to a target or goal established by the corresponding implementing organization.
+Limitations to the data at the required level of accuracy: Performance data is subject to potential errors from the use of estimations and extrapolations (especially where direct measurement is impractical and/or too costly), individual observation, miscommunication, and/or failure to effectively employ the guidance described in the performance measure template or the “Indicator” description in http://www.performance.gov/.
+However, based on multiple review levels and accuracy certifications, these limitations are not significant.
+How the agency has compensated for such limitations if needed, to reach the required level of accuracy: The measurement procedures for each performance measure used in the APR are described and documented in data measurement templates posted on the Office of Management and Budget (OMB) MAX website, or described in the “Indicator” block for each APG on http://www.performance.gov/.
+Along with the implementing organization’s official assurance of faithfully employing the data verification and validation standards, submitted data are reviewed within the context of the scope and nature of the activity, plans, and experience to help confirm accuracy.
+Following review and verification by the submitting bureau or office, the data is reviewed again (within corresponding trends and programmatic context) by PPP to determine if further consultation with the data provider is necessary to adjust or correct the reported data before publication.
+Senior management and leadership consider this level of accuracy to be acceptable for their use of the data.
+Experience in using the data, historical trend and programmatic context assessments, and bureau data quality certifications indicate that the limitations are considered minor and compensating measures are not considered necessary.
+In addition to employing the Department’s data validation and verification standards, and internal reviews of submitted data, the best “test” of the data’s accuracy is in its use.
+APG updates are reviewed during quarterly status reviews where senior officials report their data directly to the Deputy Secretary and are made publicly available through http://www.performance.gov/.
+APR information is provided with historical, organizational, and supporting context to provide the reader with a fuller perspective of the data and is reviewed annually at the “strategic objective” level.
+The APR is organized by the Mission Areas, Goals, and Strategic Objectives of the Department’s FY 2018-2022 Strategic Plan.
+The APR provides the performance and funding details of each contributing bureau and program to present the progress made and plans for achieving each goal.
+2. Program Performance Overview – a concise explanation of the progress made in implementing the strategic objective and attaining the related strategic goal.
+4. DOI Strategic Plan Performance Measures – this section reports on the performance measures for achieving the goals in the Strategic Plan.
+For each performance measure, actual performance is reported for FY 2016 through FY 2020.
+5. Bureau Supporting Performance Measures and/or Milestones – this section contains Bureau-specific performance measures and/or milestones that support achievement of the goals and strategies.
+For each measure or milestone, actual data is provided for FY 2016 through FY 2020.
+FY 2020 target data is shown for comparison to FY 2020 actual data.
+Crosscutting principles: Senior executives provide leadership in achieving crosscutting goals and are expected to: ensure cost-effective operations and quality service to the public; facilitate organizational cooperation and conflict resolution; ensure workplace environment conducive to employee productivity and safety; and hold individuals accountable for their actions.
+Program Performance Overview: The FY 2020 budget included $251.5 million for ecosystems programs focused on nationally significant priorities, including detecting and responding to invasive species and wildlife disease, research supporting the conservation and recovery of species at-risk or protected by law, and science supporting biological resource management.
+From a performance perspective, progress was made on the USGS National Water Census baseline with 67% completed in FY 2020.
+Because of project reconfiguration in FY 2019 to achieve several action items outlined in the Action Plan for the Presidential Memorandum on Promoting the Reliable Supply and Delivery of Water in the West, budget increases in FY 2020 allowed the project team to successfully model an additional component in FY 2020.
+Seven of eight performance measures met or exceed their targets indicating that this strategy continues to perform well.
+The lone performance measure to not meet its target was “Percent completion of planned water quality sampling and studies for the Nation's groundwater, streams, and rivers.”
+Water sampling and studies were delayed largely due to restricted access, travel, and safety restrictions related to COVID-19.
+Public Benefit: The USGS conducts scientific monitoring and research to support management strategies that address the impacts of land use and environmental change on the availability and sustainability of resources.
+The USGS supports management agencies by identifying conservation measures designed to preclude the need for listing species as endangered or threatened; recover listed species; and prevent or control invasive species and wildlife disease outbreaks.
+The USGS conducts monitoring, assessments, and research to understand and predict changes in the quality and quantity of water resources in response to land-use and management scenarios.
+Through advanced understanding and integrated modeling of processes that determine water availability, the USGS informs the balanced management of water resources for multiple purposes, including energy production, the sustainability of fish and other aquatic communities valued by society, and public enjoyment.
+Program Performance Overview: The Department of the Interior has determined that performance toward this objective is making noteworthy progress.
+Stewardship of land, water, species, and habitat performance measures showed generally stable trends over the past several years.
+Programs that were able to sustain performance generally did so because of a focus of resources on high priority activities, multi-year efforts coming to fruition, or sustained results from prior-year efforts remaining intact.
+The Department met or exceeded the 2020 targets for 10 of the 14 Strategic Plan performance measures in these two strategies to improve land and water health and recover and sustain species.
+Favorable weather, the ability to direct funds for priority projects, additional partner support, and the deployment of invasive species strike teams and volunteers led to better-than-expected performance in many areas.
+Public Benefit: The Department provides stewardship for more than 480 million surface acres of tribal and public lands, together with associated waterways and plant and animal species.
+Land in desired condition is valued for recreational opportunities (including fishing and hunting), and vast open spaces, which contribute to public enjoyment and health.
+Maintaining or improving the condition of stream and shoreline miles benefits fish populations, enhances wildlife habitat, and contributes to a balanced ecology.
+The Nation’s forests, mountains, wetlands, grasslands, and deserts host biological diversity that is critical to overall ecosystem health, and species survival and well-being.
+The Department is working to compile more information on critical habitat, estimated costs of recovery and the economic impact of its threatened and endangered species listings to provide a more complete picture to states, tribes, and the public.
+Program Performance Overview: The Department is providing capability in the West to deliver water through its reservoirs and dams, and support water supplies through new water storage and conservation activities.
+Performance continues to improve and exceeded FY 2020 targets for the number of acre-feet of water conservation capacity enabled through BOR’s priority goal conservation programs.
+BOR strives to keep its facilities in good condition, ensuring a reliable supply of water and stretching existing water supplies that can be made available for other uses.
+In FY 2020, 79% of BOR’s facilities were evaluated as being in good condition, exceeding targets by four percent.
+BOR prioritizes infrastructure assets based on detailed design criteria, including engineering need, a consequence of failure, financial considerations, efficiency opportunities, scheduling, and others.
+Many rural communities face significant challenges in financing the cost of replacing or upgrading aging and obsolete facilities and systems.
+The water conservation programs - WaterSMART, Title XVI, CALFED, Yakima River Basin Water Enhancement, and WaterSMART Desalination Construction Program - contribute by increasing the available water supply and contribute to the Department’s broader objective of achieving a more reliable, secure water supply.
+In FY 2020, BOR funded projects enabled additional water savings of 130,981 acre‐feet.
+Cumulatively, projects funded from 2010-2019 have contributed 1,483,660 acre-feet of water conservation capacity.
+Bureau of Indian Affairs Division of Water and Power (DWP) promotes self-determination, economic opportunities, and public safety through the sound management of irrigation, dams, and power.
+Additionally, this program funds tribal water projects to provide tribes the necessary technical research, studies, and other relevant information to serve as informed and prudent managers of water resources.
+DWP did not meet its target for FY 2020 for the maintenance of water projects and the number of functional irrigation canal miles due to delays, but all delayed projects are anticipated to be completed in FY 2021.
+Public Benefit: BOR is the largest supplier and manager of water in the 17 Western states, bringing water to more than 31 million people.
+BOR also provides 140,000 Western farmers with irrigation water for 10 million acres of farmland which produces 60 percent of the Nation’s vegetables and 25 percent of its fruits and nuts.
+Their facilities also provide substantial flood control, hydropower, recreation, and fish and wildlife benefits.
+The Western U.S. is one of the fastest growing regions of the country, and urbanization has created demands for water, power, and recreational facilities.
+Changes in water supplies, water demands, and the increased duration and frequency of droughts have the potential to affect Reclamation’s ability to fulfill its mission.
+DWP provides stakeholders with quality services and improved accountability, including the protection and preservation of life, property, and trust resources.
+Furthermore, the program fosters communication, cooperation, and consultation among Federal, state, tribal, and local organizations related to water resources, irrigation power, dam safety, security, and emergency management activities.
+Program Performance Overview: In FY 2020 performance across this strategy varied.
+Work hours performed or sponsored by a private citizen, National Service participant or non-Federal entity fell 54% below target due to the COVID-19 pandemic.
+The BLM, FWS, NPS all had to plan for health and safety measures to ensure safe working conditions prior to restarting projects on public lands.
+The measures for non-DOI lands vary widely from year to year depending on the projects that finish that year and partner support and engagement, but in FY 2020 exceeded the target.
+On DOI lands, the acres restored or improved using partnerships are calculated in the measure for acres in desired condition within Goal 1, Strategy 2 “Provide stewardship of land, surface water, streams and shorelines.”
+Many other activities with partners also bring benefits to both DOI and non-DOI lands, waters, and species and other metrics throughout the Department capture these activities.
+Working closely and cooperatively with state and local governments and private landowners is a proven tool for achieving resource management objectives.
+Public Benefit: Public-private partnerships provide opportunities for greater engagement of people and organizations in caring for and managing the natural, historical, cultural and physical resources across the Department’s 480 million surface acres of public and tribal lands.
+This can be especially beneficial for our national park units, National Wildlife Refuges, wildlife management areas, and national conservation lands.
+Support can come from other Federal or state agencies, tribal nations, volunteers, non-profit organizations, educational institutions, corporations or foundations through sponsorship or philanthropy.
+Some programs within the Department also work on stewardship of non-DOI lands providing technical and financial assistance to private landowners, tribes and schools on a voluntary basis.
+For example, since 1988, the Partners for Fish and Wildlife program within FWS has worked with more than 45,000 landowners and thousands of conservation partners to successfully restore over four million acres of wetland and upland habitat and over ten thousand miles of streams to benefit numerous fish and wildlife species.
+Program Performance Overview: The Department has undertaken the challenge to redesign and improve its planning processes in ways that can best meet the sometimes-conflicting uses for public lands.
+The improved land use planning processes will engage our state and local government partners and provide the public with the maximum possible input into the planning process and result in the best possible public access to public lands and waters.
+Public Benefit: The Department’s land use and management plans ensure that the public lands are managed in accordance with the intent of Congress as stated in several authorities including, but not limited to: the Federal Land Policy and Management Act, the National Environmental Policy Act (NEPA), the Endangered Species Act, the National Wildlife Refuge System Administration and Improvement Acts, the Organic Act of 1916 (NPS), and the Alaska National Interest Lands Conservation Act.
+A common thread through all three bureaus’ (BLM, FWS, NPS) missions is the need to accommodate and promote the use and enjoyment of the public lands for both present and future generations.
+There are lands deemed important for their scenic, recreational, hunting, fishing, scientific, historical, archeological, or wildlife conservation values.
+Other lands are made available for multiple use and sustained yield that recognizes the Nation’s need for domestic sources of minerals, food, timber, and fiber.
+Strategic Plan Performance Measures: No performance measures were developed in support of this strategy.
+Program Performance Overview: The FY 2020 budget provided $246.7 million for Core Science Systems, which includes $106.9 million for the National Land Imaging program.
+Overall, performance for this strategy was strong in FY 2020, with eight of nine performance measures meeting or exceeding their targets.
+The measure, “Percent increase of scientific research enhanced with Advanced Research Computing (ARC)” overachieved its target by 24% because the USGS ARC added two supercomputers this year with new capabilities in artificial intelligence that created a surge in additional users.
+Additionally, the pandemic shifted all ARC training online allowing more researchers to participate remotely, significantly increasing the number of scientists using ARC.
+The lone measure that did not meet its target was, “Number of remotely-sensed data products distributed to partners and stakeholders.”
+The -58% difference between the target and the actual performance was due to data products being transitioned to the cloud, providing users the flexibility to access and process data directly in the cloud without any download.
+This will continue to reduce the total number of remotely sensed images distributed.
+COVID-19 also affected usage metrics.
+The strong performance of this strategy indicates that national coverage is increasing for baseline geological maps, research, and assessments for informing land manager and policymaker decision making.
+The USGS’s 3D Elevation Program (3DEP) provides up-to-date topographic information and accurate three–dimensional representations and models of natural and man-made features.
+The program continues to have strong performance and is on track to achieve complete national lidar acquisition by 2025.
+The National Hydrography Datasets (NHD) are the most comprehensive surface water mapping for the Nation and are on track to have NHDPlus High Resolution (NHDPlus HR) beta version complete 86 percent of the Nation by the end of 2021, with the first NHDPlus HR updates and Alaska production beginning in 2021.
+Public Benefit: The USGS conducts national-focused Earth-system science, along with its many partners, to deliver an understanding of the Earth’s complex geologic structure, biology, and hydrology.
+Products include geologic maps, three-dimensional geologic models, remote sensing imagery, interpretive studies, and scientific publications, all of which are essential for informed public policy decision making and economic development.
+For more than 48 years, Landsat satellites have collected data over the planet’s land surface to support global research studies.
+These data constitute the longest continuous record of the Earth’s land surface as seen from space.
+High-resolution elevation information in geologic maps and geospatial products enable precise planning of civil engineering and transportation infrastructure, versatile urban planning, improved flood projection, timely and accurate emergency response, effective hazard identification and mitigation, and detailed environmental analyses.
+Program Performance Overview: In FY 2020, the Department focused on expanding production of both offshore and onshore conventional and renewable U.S. energy resources consistent with the previous Administration’s priorities, including implementation of the National Outer Continental Shelf Oil and Gas Leasing Program, the America First Energy Plan, and the Executive Order on Promoting Energy Independence and Economic Growth.
+The Department selected the BLM for an APG to process 90 percent of fluid minerals Applications for Permits to Drill (APDs) within 90 days.
+In Q4 of FY 2020, the BLM saw an unprecedented surge of APDs received (2,429).
+This increase, combined with pandemic related processing delays, ended in a final result that was more than 10% less than the final target.
+However, the BLM did process 99% of the APDs anticipated for FY 2020.
+In addition, the Department selected BSEE for an APG to conduct 12 facility-based risk inspections and 6 performance-based risk inspections.
+BSEE achieved 5% more inspections than targeted for in FY 2020.
+In FY 2020, BLM made 23,792,979 acres of public lands available for Federal oil and gas leasing, which is slightly lower than the 24,500,000 acres targeted.
+BLM’s performance measure, “Percent of coal lease applications processed” declined by 5% from the FY 2020 target because this metric is customer demand driven.
+In addition, bankruptcies and other market related problems in the coal industry limited the ability to complete several coal lease applications.
+Because of a downward trend in coal demand and flat prices, several companies have withdrawn or placed applications on hold.
+BOEM's FY 2020 target was to approve 20 megawatts (MW) of capacity through the Pac Wave project, a wave energy test facility requiring both a Federal Energy Regulatory Commission (FERC) license and a BOEM research lease.
+The FERC final license application was filed with FERC in FY 2019.
+Lease language was finalized in August 2020 and is still pending DOI review.
+In FY 2021, BOEM anticipates leasing and licensing decisions on the 20 MW wave energy research project, as well as a decision for the 800 MW Vineyard Wind offshore wind facility.
+The USGS did seventeen percent more targeted energy resource assessments and research in FY 2020 because of the mandatory work from home orders due to COVID-19 and subsequent decreased field work.
+The Department utilizes science and safety to secure a robust domestic energy enabling environment; this includes the USGS Energy Resources Program, BOEM’s extensive offshore research, and BSEE risk-based inspections, all of which enable safe energy resource discovery, responsible development, and a fair return for the Nation’s resources.
+Strong performance in this area was bolstered by the collaborative work between BSEE and BOEM to establish appropriate permitting and oversight processes to ensure safety of offshore operations, implementation of BSEE's Risk-Based Inspection Program, and BLM’s focus on high priority inspections.
+Public Benefit: The Department oversees vast resources that expand the production of energy in the United States.
+Six Department bureaus, BLM, BOEM, BSEE, USGS, FWS and BOR, work to promoted safe and reliable domestic energy exploration, development, and production.
+Program Performance Overview: The BOR is the second largest producer of renewable hydropower in the United States and operates 52 hydroelectric power facilities, with 14,700 megawatts of capacity.
+Reclamation generates an average 40 billion kilowatthours of electricity each year.
+In 2020, 92% of Reclamation’s hydropower facilities were evaluated as being in good condition, a decrease of two percentage points from the previous fiscal year.
+Also, the amount of hydropower capability in megawatts installed increased from 44 in 2019 to 53 in 2020.
+Reclamation employees identified previously existing deficiencies contributing to low Facility Reliability Rating (FRR) scores and successfully corrected the most significant deficiencies using a risk‐based prioritization methodology.
+Reclamation administers a comprehensive power operations and maintenance program to ensure hydropower facilities are reliable, safe, economical, and efficient.
+Reclamation coordinates with Department of Energy and power customers to strategically identify, fund, and implement capital and technological investments that deliver operational benefits and reduce risk.
+Program performance is measured by hydropower facility availability during peak electricity demand periods.
+Public Benefit: The BOR works to promote domestic energy production by enabling new energy generation from hydropower, facilitating the construction of new or upgraded transmission networks, helping to create new industries and supply chains, driving economic growth and job creation, and helping provide more energy from domestic sources.
+Program Performance Overview: In FY 2020, the Department promoted economic development and environmental protection through management of mineral resources.
+BLM conducts environmental analysis of complex issues necessary to authorize use on BLM public lands to meet the increasing demand for non-energy, solid leasable minerals, especially potash and phosphate.
+The science provided by the USGS Mineral Resources Program facilitates resource discovery and provided essential information and analyses for strategic, evidence-based economic and geopolitical decisions.
+BOEM’s Marine Minerals Program provides sand and gravel resources to protect and improve coastal infrastructure and the environment.
+In FY 2020, BOEM executed a total of five new or amended negotiated agreements authorizing the use of OCS sediment.
+Of those five, BOEM executed two new agreements and one amendment in the Atlantic OCS and two amendments in the Gulf of Mexico OCS.
+BOEM anticipates increasing interest in OCS sediment to address chronic erosion or episodic erosion from storms over the past few years.
+Other lease-related work performed in FY 2020 included oversight of and managing deliverables for seven projects using OCS marine minerals.
+BLM will continue to increase processing speed for non-energy mineral exploration and development to ensure the Nation is able to meet the demand.
+The FY 2020 budget provided $59.8 million in mineral resources to collect data and conduct research on a wide variety of non-fuel mineral resources.
+The 2020 budget supported the advanced topographic, geologic, and geophysical data collection needed to locate mineral resources in the U.S. and to inform management of private-sector domestic development.
+The USGS is no longer tracking the percent completion of targeted Critical Mineral Early Warning System (CMEWS) analyses and evaluations.
+A major effort was completed in FY 2019 and published in FY 2020 (revised criticality index).
+Other research efforts have not yet reached the publication stage.
+Public Benefit: Non-energy minerals, including potassium, phosphorus, sodium, potash, lead, zinc, clay, sand, gravel, and building stone, are vital components of basic industry and life in the United States and support local infrastructure and economic development.
+As the Nation continues to depend on minerals to manufacture products we rely on every day, from our cell phones and laptops to our cars, the Department will continue to leverage research and assessments to understand and maximize the use of national and global mineral resources while balancing the Nation’s mineral needs with the protection of the human, terrestrial, marine, and coastal environments.
+Program Performance Overview: The Department collects, disburses and verifies Federal and Indian energy and other natural resource revenue collected from issuing leases on Federal lands (and offshore on the OCS).
+These resources include oil, gas, coal, and access to renewable energy resources such as solar, wind, and geothermal.
+To ensure the appropriate accountability and compensation to the American public for the extraction and use of these resources, it is important that a fair and appropriate amount of funds are collected and that such transactions are implemented accurately, responsibly, and in a timely manner.
+The Office of Natural Resources Revenue (ONRR) met the target for timely disbursement of Federal and Indian revenues.
+Over the last five years, ONRR averaged a timely disbursement rate of nearly 99 percent.
+ONRR also performed compliance activities to ensure the Department collects revenue due from oil and gas produced on Federal lands and water.
+BOEM supported timely collection and disbursement of mineral and renewable energy revenues.
+Data driven procedures helped to ensure bid adequacy by using a two-phased review system for offshore leasing.
+Similarly, BSEE used risk-based methodologies to help ensure metering accuracy metering at higher risk hydrocarbon sites, i.e., those that experience high volumes of throughput and/or have a history of noncompliance.
+Public Benefit: The Department employs data driven procedures to verify, collect, and disburse energy and natural resources revenue and ensure that appropriate financial benefit is obtained on behalf of the American people.
+Revenues collected from leases on Indian lands directly benefit members of Indian communities.
+Distributions to the Land and Water Conservation Fund, the Historic Preservation Fund, and the Reclamation Fund all help ensure that America’s natural resources, landscapes, and rich history are available and enjoyed by current and future generations.
+States use the distributed funds to support large capital projects such as schools, roads, and public buildings.
+Program Performance Overview: The NPS established fee structure guidelines in 2006 to standardize rates across the country.
+The resulting tier system assigns each park unit to a tier and associated entrance fee schedule based on the type of site and the amenities provided for the public.
+As part of its commitment to improve the visitor experience, the NPS updated its entrance fee pricing model in June 2018.
+As of January 1, 2021, all NPS entrance fee parks are on the standard pricing schedule.
+NPS is currently conducting a study of fee pricing to optimize revenue and better understand how visitors and potential visitors value access to NPS sites which is scheduled for completion in 2023.
+Public Benefit: The Nation’s public lands offer many excellent locations for public recreation in the outdoors at national parks and monuments, National Wildlife Refuges, BLM public lands and other locations, in historic sites and buildings and at national treasures such as the Statue of Liberty.
+Facilities, including roads, visitor centers, bathrooms, historic buildings, and museums enable visitors to enjoy their public lands and sites.
+All the land management bureaus have backlogs of deferred maintenance.
+The Department will continuously review its fee structure to determine how best to accommodate visitors’ enjoyment while collecting fees that help to offset some of the maintenance costs required to keep visitor-facing infrastructure in good shape and support visitor services.
+All such reviews of fees and changes will remain consistent with Congressional direction that has been provided through a series of laws including the Federal Lands Recreation Enhancement Act.
+Strategic Plan Performance Measures: No performance measures were developed in support of this strategy.
+Program Performance Overview: Over the past four years, performance has varied between a high of 100% and a low of 49% of timber resources made available for sale due to litigation stemming from environmental issues and fluctuations in the housing market and transportation costs, affecting BLM’s ability to sell timber and utilize the by-products.
+The Department is working to employ sound forestry practices that address the increased risk of wildfire exacerbated by damage from invasive insects.
+In 2020, BLM was not able to meet its target for Allowable Sale Quantity (ASQ) - Oregon offered at 205 Million Board-feet (MMBF) from lands designated for sustained-yield harvest and the Allowable Sale Quantity.
+However, despite Western Oregon wildfires causing the delay of two scheduled sales late in the Fiscal Year, and COVID-19 related delays, the Department was able to achieve 186 MMBF offer for sale.
+In 2019, the BLM exceeded its target for ASQ - Oregon offered 212 MMBF was from lands designated for sustained-yield harvest and the Allowable Sale Quantity.
+In addition to exceeding the ASQ target, the total combined ASQ and non-ASQ offered sale volume increased in 2019.
+The BIA Forestry program did not meet its national goal for FY 2020.
+The pandemic had a significant impact on the ability of regions, agencies, and tribes to complete scheduled tasks.
+The Division of Forestry and Wildland Fire Management will deploy its six-person timber team with the goal of preparing timber sales at those locations failing to meet previous targets.
+The program anticipates positive results from this effort in FY 2021.
+Public Benefit: Timber and by-product sales contribute to the economic stability of local communities and industries.
+Timber and byproduct sales also lead to increased forest health through restoration and fire resiliency.
+Forests and woodlands provide timber and other forest products, create recreational opportunities that support local economies, serve as valuable wildlife habitat, play an important role in carbon storage and clean water and air, provide an essential source of revenue and jobs for tribes, and play an important role in sustaining tribal cultures and traditions.
+The BIA Branch of Forest Resource Planning exercises program oversight and provides planning and scheduling of Bureau-wide forestry activities at the national level to ensure regulatory and policy requirements are enforced while ensuring that technical standards of sound forest management are upheld and are accountable.
+Program Performance Overview: Overall, the process of monitoring grazing permits is returning to previous levels of performance, following years of litigation which led to a backlog in renewals.
+The Department has been increasing focus on more complex grazing permit processing requirements and making greater use of the authority provided under section 402(c) of the Federal Land Policy and Management Act, which allows expiring permits to be renewed without being fully processed.
+In 2020, the Department was unable to exceed its grazing target, due to a variety of setbacks, including environmental litigation, staff vacancies and turnover, and an extended fire season.
+In addition, the Department's efforts were delayed and exacerbated due to the COVID-19 pandemic, that restricted travel and limited the seasonal hiring pool to local candidates only.
+Under the BIA, the Division of Natural Resources did not meet its national target for FY 2020 as regional and agency field offices were impacted due to limited staff and minimal field access.
+Successful regions and agencies cited cooperative efforts with tribal and regional staff at the agency level.
+Public Benefit: Livestock grazing contributes to food production and adds to local economic stability, and it can be used in certain areas to maintain and improve land health by reducing hazardous fuels, treating invasive weeds, and minimizing the impact of catastrophic wildfires.
+The BIA Division of Natural Resources provides coordination, management, planning, oversight, and monitoring for the development and protection of trust natural resources, as well as providing the direction and guidance for all activities related to the planning, management, conservation, development, and utilization of soil, water, farmland, and rangeland.
+The division is also responsible for the bureau's natural resource damage assessment and restoration program.
+Program Performance Overview: This strategy supports the Department’s goal to further expand public access to lands and waters administered by the Department, for hunting, fishing, recreational shooting, and other forms of outdoor recreation.
+The Department did not meet two of its FY 2020 targets for strategic plan performance measures related to hunting, fishing, and other recreation on DOI lands due to impacts from the COVID-19 pandemic.
+While the Department was able to expand hunting and fishing opportunity acreage on National Wildlife Refuges and National Fish Hatcheries, public access transactions and individuals participating in outdoor recreation activities at special events fell short of the target.
+To elevate this effort, the Department identified an APG to expand hunting and fishing opportunities on 2.25 million acres of National Wildlife Refuges and National Fish Hatcheries, and open or expand an estimated 1,200 opportunities.
+In 2020, FWS expanded hunting, fishing, and other recreation opportunities on an additional 2.3 million acres of National Wildlife Refuges and National Fish Hatcheries, surpassing the target by more than 50,000 acres.
+As practiced on refuges, hunting and fishing do not pose a threat to wildlife populations, and in some instances, are necessary for sound wildlife management.
+For example, deer populations will often grow too large for the refuge habitat to support.
+If some of the deer are not harvested, they destroy habitat for themselves and other animals and die from starvation or disease.
+The harvesting of wildlife on refuges is carefully regulated to ensure an appropriate balance between population levels and wildlife habitat.
+In addition, the National Fish Hatcheries continue to be a valuable tool in managing fisheries and providing outdoor recreation opportunities to America’s 58 million recreation anglers who spend $46 billion annually in pursuit of their favored pastime.
+BLM estimates that over 95 percent of the nearly 250 million acres of BLM-managed public lands are open to hunting.
+In FY 2020, BLM completed 6 legal public access transactions to facilitate additional access to recreation opportunities on its public land.
+There are 76 areas managed by the NPS that permit hunting.
+A total of 51,097,000 acres, representing approximately 60% of the total acreage of the NPS system, are open to hunting at various times during the year.
+Of the 246 NPS units with fish living in surface water, 213 (over 85%) have waters open to fishing.
+The recreation areas developed because of BOR water projects are among the Nation's most popular for water-based outdoor recreation.
+There are 289 BOR project areas that have developed recreation facilities and opportunities available for public use.
+BOR has approximately 6.5 million acres of land and water, most of which are available for public outdoor recreation.
+The 187 developed recreation areas managed by BOR or a non-Federal recreation partner draw over 24 million visits annually.
+These recreation areas provide 549 campgrounds, 454 boat launch ramps, and more than 5,500 miles of shoreline.
+Public Benefit: Outdoor recreation is integral to a healthy lifestyle for millions of Americans.
+Visitors to the Department’s public lands and waters take advantage of the physical, mental, and social benefits that outdoor recreational experiences provide.
+Americans can hunt and fish on public lands managed by the Department as part of its multiple-use policy which also includes hiking, camping, climbing, boating, wildlife viewing, and other outdoor pursuits.
+Hunting, fishing and other outdoor activities contributed $156 billion in economic activity across the United States according to the FWS National Survey of Fishing, Hunting and Wildlife-Associated Recreation.
+More than 101 million Americans, or 40 percent of the United States’ population 16 and older, pursue wildlife-related recreation, which supports 480,000 American jobs.
+Program Performance Overview: Visitor satisfaction with the quality of experiences on public lands remains very high.
+In FY 2020, the Department was unable to collect visitor satisfaction data for the NPS and the BLM due to COVID-19 interruptions.
+Survey results for the FWS show 90% of visitors are satisfied with their experiences.
+Public Benefit: Outdoor recreation is integral to a healthy lifestyle for millions of Americans.
+Visitors to the Department’s public lands and waters take advantage of the physical, mental, and social benefits that outdoor recreational experiences provide.
+Heritage and cultural sites provide insights into our past and the background of our Nation.
+Program Performance Overview: The Office of Self-Governance (OSG) program met its target by achieving an actual of 100% for its performance goal.
+The Self-Determination program fell short finishing at 84% for FY 2020.
+In the fourth quarter, OSG issued zero findings and determination.
+There were eleven initially assigned for resolution, however, two were reassigned to the BIE for resolution.
+The remaining nine were processed as assigned for resolution.
+The Division of Self-Determination issued 46 out of 55 (84%) management decisions for single audit reports within the six-month requirement, however the program did not meet its FY 2020 goal.
+The program cites the pandemic as having a major impact with tribal offices being closed in coordination with tribal, state and county U.S. Centers for Disease Prevention guidelines.
+Public Benefit: Self-governance and self-determination strengthen the government-to-government relationship between the Federal Government and tribal nations.
+Together, these programs support and strengthen tribal self-governance, sovereignty, selfdetermination, and self-reliance, applying local expertise and knowledge to managing tribal functions and services.
+OSG is responsible for implementation of the Tribal Self Governance Act of 1994, including development and implementation of regulations, policies, and guidance in support of self-governance initiatives.
+The staff negotiates annual funding agreements with eligible tribes and consortia, coordinates the collection of budget and performance data from self-governance tribes, and resolves issues that are identified in financial and program audits of self-governance operations.
+The Office of Self-Determination Services within the BIA, serves as the primary contact on policy affecting the unique contractual relationship between the Secretary of the Interior and Indian tribes or tribal entities.
+Program Performance Overview: The Department’s performance in fulfilling fiduciary trust responsibilities to American Indians continues to perform at an acceptable level as the Department reviews, processes, and carries out trust responsibilities in a timely and accurate manner.
+Public Benefit: By fulfilling fiduciary trust responsibilities, the Department provides timely reposting of Indian trust ownership information to beneficiaries and ensures adherence to Indian law and litigation settlements.
+Responsibility for fiduciary trust oversight of Tribal lands and assets rests with several Departmental offices and programs.
+Probate Services compiles inventories of Indian Trust assets and family information and coordinates the timely distribution of trust assets with the Office of Hearings and Appeals, Land Titles and Records Office and the Bureau of Trust Funds Administration (BTFA) formerly the Office of the Special Trustee for American Indians as of October 1, 2020.
+Human Services promotes the safety, financial security and social health of Indian communities, by providing some direct funding and overseeing activities related to social services, welfare assistance, and Indian child welfare.
+The objective is to improve the quality of life for individuals that are part of the tribe as well as to protect the children, elderly and disabled from abuse and neglect.
+The Division of Land Titles and Records, and its 18 Land Titles and Records Offices (LTRO), are the official Federal offices-of record for all documents affecting title to Indian lands, and for the determination, maintenance, and certified reporting of land title ownership and encumbrance on Indian trust and restricted lands.
+All title documents affecting Indian land are to be recorded in the Indian Land Record of Title.
+Real Estate Services conducts activities and processes transactions to protect, manage, develop, and utilize trust and restricted Federal Indian-owned lands.
+This includes (I) conducting cadastral surveys to designate legal land boundaries, (II) acquisition and disposal of tribal lands, (III) leasing, permitting, and compliance for surface and sub-surface mineral and non-energy mineral development on tribal land, (IV) issuing rights-of-way on tribal lands, and (V) addressing unresolved Indian trust rights.
+Fee to Trust ensures that the acquisition of land in trust is an essential element of tribal self-determination.
+Tribes are sovereign governments, and trust lands are a primary locus of tribal authority.
+Indeed, many Federal programs and services are available only on reservations or trust lands.
+The current Federal policy of tribal self-determination is built upon the principles Congress outlined in the Indian Reorganization Act and reaffirmed in the Indian Self-Determination and Education Assistance Act.
+The Division of Workforce Development under the BIA is the lead agency for implementing the Demonstration Project created by Public Law 102-477, the Indian Employment, Training, and Related Services Act, 25 U.S.C. section 3401 et seq.
+Under the Public Law 102-477 Demonstration Project, tribes have the authority to integrate Federal employment, training and related services that they provide to their members.
+The Federal programs currently integrated into Tribal demonstration projects are administered by the Department of the Interior (BIA and BIE); the Department of Labor (Division of Indian and Native American Programs); and the Department of Health and Human Services (Temporary Assistance for Needy Families, Childcare, Native Employment Works and Community Service Block Grants).
+Program Performance Overview: The BIE provides funding to 169 elementary and secondary schools and 14 dormitories serving approximately 46,000 students, across 23 states, with over two-thirds of the schools operated by tribes and the remainder operated directly by BIE.
+Additionally, BIE operates two post-secondary schools and administers grants for 29 tribally controlled colleges and universities and two tribal colleges.
+In FY 2020, the program did not meet its goals for high schools’ graduation or attendance.
+As a consequence of the COVID-19 pandemic, BIE closed all schools and initiated remote learning services during the school year 2019- 2020.
+However, the program will continue to evaluate those factors impacting graduation rates while working to develop and implement appropriate intervention strategies to improve the graduation and attendance rates for students.
+Public Benefit: Providing quality education opportunities starting in early childhood by tribally identified strategies and needs.
+Tribal communities need an educated citizenry to lead their governments, develop reservation economies, contribute to the social well-being of the community, and sustain Indian cultures.
+Program Performance Overview: Performance metrics for this strategy focus on health issues directly impacting insular area residents.
+Community Water System (CWS) Improvement: Availability of clean water serves as a key indicator of the quality of life, and, for this goal, performance is indicated by CWS violation notices from the U.S. Environmental Protection Agency (EPA).
+Continued economic challenges and aging infrastructure impact the insular area residents’ ability to maintain water system conditions and ensure that more than 90 percent of the 139 water systems in the insular areas are free of health-based violation notices each year.
+Tuberculosis Eradication: The Office of Insular Affairs (OIA) works to promote health and quality of life by preventing, controlling, and eventually eliminating tuberculosis (TB), a chronic problem, from the islands.
+To do this, OIA collaborates with the Territories, Freely Associated States (FAS) and Federal partners, to identify new cases, transmission, and treatment completion of the communities.
+Having one of the worst rates of TB in the Pacific, the Republic of the Marshall Islands has been working in close collaboration with the U.S. Centers for Disease Control and Prevention (CDC) to eradicate the disease with OIA compact health sector grant support.
+In FY 2019, $1.1 million was used to complete the treatment for those screened and reduce TB as a public health concern in the Republic of Marshall Islands (RMI).
+OIA provided an additional $1.6 million in 2019 to focus on early detection and treatment with the goal of a tuberculosisfree and leprosy-free Chuuk.
+Infant Mortality: Infant mortality is considered a primary measure of public health for countries around the world.
+Over the past decade, the overall infant mortality rate in the United States has improved, declining 15 percent from 6.9 infant deaths per 1,000 live births in 2005—a recent high—to 5.7 infant deaths per 1,000 live births in 2018.
+The infant mortality rate in the insular areas is more than double that of the entire United States.
+Infant mortality continues to be an extremely complex health issue with many medical, social, and economic factors, including race/ethnicity, maternal age, education, smoking, and health status.
+Health Infrastructure: In 2019, OIA published an assessment of aging hospital facilities in American Samoa and published a similar assessment for Guam in 2020, using results to make determinations on improving or replacing facilities.
+OIA also contracted an insular health facility maintenance initiative to assess the facility maintenance status and requirements for insular hospitals in the Territories and FAS.
+The team will conduct interviews and group meetings to determine the local capabilities, perceived shortfalls, and local recommendations for solutions.
+The team will also gather data on facility maintenance staffing (number and current qualifications), facility maintenance requirements, identify failed and failing building systems, identify unique challenges to performing routine maintenance, and maintenance budget and procurement issues.
+This data will be used as a road map to embed someone at the facility to establish a locally sustainable plan for addressing the root cause(s) of issues.
+OIA funded a new surgical ward at the Majuro Hospital in the Republic of the Marshall Islands through Compact of Free Association sector grant assistance that was completed in 2019.
+Design and engineering for a new hospital is on-going in Kosrae State of the Federated States of Micronesia with a construction bid announcement scheduled for 2021.
+A substance abuse and mental facility and public health facility in Pohnpei State of the Federated States of Micronesia (FSM) is also currently in design and engineering phase with construction scheduled to commence in 2022.
+Public Benefit: The Territories and the Freely Associated States experience significant healthcare challenges.
+The Department of the Interior will work with insular area partners to improve the quality of healthcare across the insular areas.
+The Department will make investments to implement corrective action plans to address chronic operational and facility shortcomings at hospitals that serve their U.S. citizens and residents and focus on those factors identified by OIA-funded assessments, the Department of Health and Human Services/U.S. Centers for Medicare/Medicaid Services, and local elected officials.
+Additional investments will be made to combat non-communicable and communicable diseases impacting the Pacific and Caribbean such as obesity, diabetes, and tuberculosis.
+Program Performance Overview: Performance metrics for this strategy focus on economic issues directly impacting insular area residents.
+The economic prosperity of the insular areas is essential to the United States for national security, diplomatic, and humanitarian purposes.
+Average per capita Gross Domestic Product (GDP): In the four U.S. territories (American Samoa, the Commonwealth of the Northern Mariana Islands (CNMI), Guam, and the U.S. Virgin Islands), GDP per capita is 44% of the GDP per capita for the United States.
+The OIA provides technical assistance to the insular areas to assist with economic development planning and execution and supports local planning and education activities related to tourism, agriculture, and aquaculture.
+Also, OIA funds infrastructure projects related to economic development, such as fiber optic connectivity, port improvements, and renovations to tourist districts.
+Cost of electricity: Without indigenous fossil fuels, insular areas face significant challenges in achieving reliable, affordable, and secure energy.
+The resulting increased costs have severe economic effects on the island communities, which depend almost entirely on imported petroleum products for energy.
+The residential cost per kilowatt-hour for power in the territories directly impacts the quality of life in the insular areas and remains almost three times higher than the national average.
+To try to address electricity costs, OIA provides technical assistance in reviewing and implementing energy projects which would lower the cost of electricity.
+OIA, through its Energizing Insular Communities grant program, continues to provide funding for the highest priority projects identified in the energy plans, including more efficient traditional generation and transmission, photovoltaic, wind, and geothermal development projects.
+Public Benefit: Strong local economies provide employment and a viable tax base for citizens in the insular areas.
+The Department will assist the insular areas to strengthen their economies through strategic investments in infrastructure, public services, and technical assistance, which will attract and retain private sector investment.
+The Department will promote policies and improve Federal coordination on issues to enhance insular economies.
+Program Performance Overview: Performance metrics for this strategy focus on the economic benefits of Compacts of Free Association annual financial assistance on FAS residents.
+Financial assistance is provided through OIA.
+Improving Expenditure of FSM Infrastructure Funding: Utilizing OIA Compact funding, the FSM government-contracted technical assistance from the U.S. Army Corps of Engineers (USACE) to support five program management offices at the FSM national government level, Pohnpei, Chuuk, Kosrae and Yap States.
+USACE continues to provide technical assistance laying the foundation for the professional management of public infrastructure funding.
+Their support has also provided independent technical review of projects resulting in better designs, reduced cost overruns, and fewer disputes.
+Palau Infrastructure: In 2019, the U.S. Government and Palau mutually agreed to projects utilizing $20 million of infrastructure funding provided under the 2010 Compact Review Agreement.
+Road, port, telecommunication (submarine fiber optic) and financial management system improvements began implementation in 2020.
+Marshall Islands Healthcare: Utilizing OIA Compact funding, the RMI is planning the construction to professional standards of a 100-bed hospital facility in Majuro, RMI, and ensuring the maintenance and upkeep of the Ebeye Hospital within the Kwajalein Atoll.
+The U.S. Army Corps of Engineers will provide oversight of design and construction management services to ensure the delivery of sound and safe infrastructure that is built to international standards.
+The health sector of the Marshall Islands has acute problems in ensuring that professional medical staff positions are filled at both Majuro and Ebeye Hospitals.
+Compact funding will be used for training purposes and staff development to lessen the reliance upon the expatriate professional medical staff.
+Public Benefit: In coordination with the State Department, the Department will implement Compact obligations with three U.S.- affiliated freely associated states: The FSM, the RMI and the Republic of Palau (Palau).
+The Department will make direct grants to assist FSM and RMI under their amended Compacts providing assistance to six sectors: education, healthcare, infrastructure, public sector capacity building, private sector development, and environment.
+The Department is implementing the 2010 Palau Compact Review Agreement with appropriations provided in 2018.
+Program Performance Overview: Executive Order (E.O.) 13898 was signed on November 26, 2019 to establish the Task Force on Missing and Murdered American Indians and Alaska Natives (Task Force), which will be co-chaired by the U.S. Secretary of the Interior and the Attorney General.
+The E.O. provides direction and reaffirms the Administration's priority of addressing the concerns of tribal governments and American Indian and Alaska Native communities.
+The Task Force, in coordination and consultation with American Indians and Alaska Natives, will develop protocols for new and unsolved cases, establish multi-jurisdictional cold cases teams, and establish greater clarity of roles and responsibilities.
+The Task Force will facilitate better coordination and collaboration with tribal communities, resulting in long term strategies to address complex issues.
+It will take continued efforts and cooperation among all stakeholders to improve response and investigative challenges and collect and manage data across jurisdictions.
+Greater clarity on the roles, authorities, and jurisdiction will be helpful for all of those involved with the goal of formal agreements and greater communication between agencies, with communities, and with the public.
+To elevate this effort, the Department selected Indian Affairs for an APG to meet and exceed the goals established by Executive Order 13898, emphasizing the coordination of data sharing with Federal partners and ensure that 100 percent of BIA active missing and murdered cases are entered into the National Missing and Unidentified Persons System (NamUs).
+The Department’s Office of Law Enforcement and Security (OLES) continues work with all DOI Bureaus to update current law enforcement staffing plans.
+Although only 66 percent of the Bureaus had a current law enforcement staffing plan in 2020, OLES plans to have 85 percent of the Bureaus with a current law enforcement staffing plan by the end of 2021.
+The BIA Office of Justice Services (OJS) program continues to focus on efficient use of resources to maintain the quality of law enforcement services provided to tribes.
+To reduce costs, the program maximized the use of technology such as conference calls and web-hosted meetings to maintain the existing level of technical assistance to tribal programs.
+Cost and level-of-effort tracking and reporting mechanisms are being utilized by the program to ensure mission objectives can be achieved within the resource levels provided.
+Among these objectives is improved consistency and effectiveness of program reviews conducted, which in turn is expected to result in higher nation-wide offense clearance rates each year although OJS is facing nationwide staffing issues.
+Public Benefit: Inherent in our management of public lands is the obligation to protect DOI employees and visitors to those public lands.
+Ensuring employee and public safety is complex and requires the resources of multiple bureaus and offices.
+The Department’s Law Enforcement Program has the third largest contingent of Federal law enforcement officers in the Executive Branch.
+Depending on the season, approximately 3,500-4,000 law enforcement officers, rangers, and other employees patrol vast acres of public lands, national parks, wildlife refuges, and Indian communities to protect people and natural, cultural, and heritage resources from illega activities.
+Program Performance Overview: The Office of Emergency Management (OEM) promotes all-hazard preparedness and response, ensures continuity of the Department to perform essential functions during catastrophic events, assists communities during imminent threats, and plays a vital role in supporting the Federal Emergency Management Agency in its disaster response mission.
+To assess its readiness to perform its mission, the OEM has established a readiness index measure that assesses each bureau across four components and then averages the result for the Department.
+Since 2015, the readiness index has remained constant at a high level.
+The Department’s All-Hazards Baseline Operational Plan provides the baseline guidance for how the Department prepares for and responds to emergencies, regardless of type or cause.
+In FY 2020, OEM led the Department’s efforts to coordinate all aspects of COVID-19 in tracking the number of cases, hospitalizations, recoveries, and deaths of DOI employees.
+OEM has held weekly meetings with all Bureaus and Offices to share information and to ensure all DOI employees had the right PPE at the right time to effectively carry out the Department’s mission.
+Public Benefit: The OEM leads the efforts for preparedness and response, and leads coordination and information sharing among the emergency management, communications, public health, environmental health, wildlife health, integrated pest management, invasive species, and occupational safety and health mission areas across the Department’s bureaus and offices.
+Program Performance Overview: The Department continued collaboration efforts by searching for opportunities to share resources and balance efforts in securing the southern U.S. border.
+This is accomplished by routine interagency coordination, participating in local Border Management Task Force (BMTF) meetings, interagency training, and law enforcement specific operations.
+DOI partners with the U.S. Border Patrol (USBP) for patrolling Department lands adjacent to the U.S./Mexico Border.
+In 2020, the Department implemented Operation Border Surge to assist USBD in apprehensions and illegal drug seizures.
+Over 70,000 of those apprehensions occurred at Chamizal National Memorial in El Paso, Texas.
+This Park is located adjacent to the Border and runs parallel to a major port of entry known for illegal cross border activity.
+Public Benefit: The Department manages lands adjacent to 41 percent of the southwest border of the continental US, 14 percent of its northern border, and 31 percent of the southeast border, totaling 1,900 miles along the three borders.
+With an estimated 500 million visitors a year and over 480 million acres of tribal and public lands, the Department’s managers in the field are faced with tough decisions on how to best utilize their law enforcement assets.
+One strategy is adopting a whole-government approach.
+Through partnering with Federal, State, tribal, and local law enforcement agencies working in proximity to each other the government has been able to address critical issues like border security and protecting natural resource.
+Program Performance Overview: Catastrophic wildfires lead to loss of life and property and have other serious health and economic impacts.
+Increasing the use of fuels management on forests and rangelands helps to mitigate wildfire risks and impacts to communities, landscapes, and the general public.
+The Department plays a critical role in protecting people, communities, and watersheds from wildland fires and promoting healthy and resilient forests, rangelands, and other Federal lands.
+To manage wildfire risk, the Department works with other Federal agencies, states, tribes, local communities, and other partners.
+The Department’s Office of Wildland Fire (OWF) strives to achieve a risk-based, cost-effective, technically efficient, and scientifically grounded wildland fire management program that safely meets fire and resource management goals.
+OWF aligns programs, budgets, and performance to implement the intergovernmental National Cohesive Wildland Fire Management Strategy.
+This strategy is a science-based, innovative, and collaborative approach to mitigating wildfire risk.
+The Department sustained its performance at existing levels over the past five years with only minor year-to-year variation for lands in desired condition and initial response strategy success.
+Community risk reduction treatments have increased with increases in available funding.
+OWF met or exceeded its targets on all wildland fire measures in FY 2020.
+OWF continues to pursue new performance data, analytical methods, and measures to better evaluate program efficacy in achieving conditions that reduce the intensity, severity, and negative effects of wildfire.
+The work entails the application of wildfire risk mitigation concepts and principles, such as the strategic placement of fuels treatments based on risk assessment and mitigation plans.
+To support this effort, the Department implemented an APG to undertake at least 85% of all fuels management projects utilizing collaborative risk assessments that identify wildfire likelihood.
+In FY 2020, the Department exceeded the target by achieving 100%.
+Public Benefit: Preparedness activities provide the foundation for a safe and effective strategic response to unplanned ignitions.
+These activities enable land managers to develop collaborative efforts to achieve fire-adapted communities and landscapes that are resilient to the effects of wildfire.
+Fuel treatments improve the integrity of forests and rangelands.
+They reduce the risks and impacts of wildfire on people, communities, and natural and cultural resources near or adjacent to Federal or tribal lands.
+Rehabilitation of lands damaged by wildfires helps reduce future threats to life, property, and natural and cultural resources by mitigating the potential for additional post-fire degradation or loss.
+The Department works collaboratively with other Federal, tribal, state, and local governments to help protect life and property, limit damages to natural and cultural resources during wildfire response, and reduce program and management duplication.
+Program Performance Overview: The FY 2020 budget included $170.8 million for Natural Hazards for scientific information and tools to better understand and respond to hazards such as volcanoes, earthquakes, tsunamis, and landslides to ultimately reduce potential fatalities, injuries, and property damage.
+Overall performance in FY 2020 was strong as four out of five performance measures met or exceeded their targets.
+The percent completion of targeted landslide hazard research was slightly better than planned because the actual number of landslide hazard and risk assessments completed is dependent on the number of major wildfires, and the FY 2020 fire season was very active.
+The percent completion of coastal and marine hazards and subsidence research was slightly less than planned due to temporary loss of physical access to high speed servers during site closures for COVID-19, hurricanes, wildfires, and related disruptions.
+In addition, there were reduced field work data collection efforts due to travel restrictions associated with COVID-19.
+This overall level of performance indicates that critical natural hazard knowledge and tools continue to be developed and provided to land managers, policy makers, and the public to inform decision-making.
+Public Benefit: The USGS provides scientific information to emergency responders, policy makers, and the public to reduce the risk of life and property losses from a wide range of natural hazards, including earthquakes, floods, hurricanes, landslides, magnetic storms, tsunamis, volcanic eruptions, and wildfires.
+Program Performance Overview: The Department has 12 unified regions for its bureaus (except BIA and BIE) and continues to implement this approach into FY 2021.
+The goal of this effort is to improve overall operations, internal communications, customer service, and stakeholder engagement.
+Aligning geographic areas across the DOI enhances coordination of resource decisions and policies and simplifies how citizens engage with the DOI.
+A common geographic frame of reference means regional executives can be focused on the same resources, constituents, and possibilities.
+Aligning bureaus with common geographies allows for more integrated and better coordinated decision making across bureaus.
+Unified regions help streamline operations and in doing so, provide better service to the American people.
+Bureaus within a region will focus on common issues, taking a comprehensive approach versus a bureau-centric approach.
+This culture shift will help U.S. work better together to accomplish one vision.
+In FY 2020, regional facilitators led the reorganization from the field and built teams of subject matter experts in the primary Mission Areas (Recreation, Collaborative Conservation, and Permitting) and Support Areas (Human Resources Management, Information Technology, and Procurement of goods and services).
+The unified region teams were comprised of experts from all the participating bureaus present in the region.
+The unified regions were established in August 2018 and efforts to make the 12 unified regions fully operational were continued through FY 2020.
+Public Benefit: The Department is improving its organizational model to determine how to best achieve its mission of serving the American public, honoring our tribal and fiduciary trust responsibilities, and managing and protecting our land, water and natural resources for the next 100 years.
+Strategic Plan Performance Measures: No performance measures were developed in support of this strategy.
+Program Performance Overview: To facilitate strategic human capital planning, the Department leveraged automation to improve employee performance and training opportunities and examined additional data to determine if operational efficiencies could be gained while minimizing redundancies under the current organizational design.
+During Fiscal Year 2020, the Department continued with the Human Resources (HR) Assessment on Human Resources Service Delivery.
+As a result of the HR Assessment, the Department established HR Governance through a newly established HR Policy Review Board.
+The Department also initiated three initiatives: transitioning to a single Talent Management system; establishing Interior Bureau Expert Teams Executive Resources and Classification models; and, partnering with the Office of Law Enforcement to improve Personnel Security.
+Public Benefit: The Department is committed to managing America’s vast natural and cultural resources with a 70,000-strong and 350 occupation-plus workforce that exemplifies high performance, customer service and accountability.
+Strategy #1: Evaluate and improve the net benefits of regulatory reform initiatives and policies, and identify regulations for repeal, replacement, or modification.
+Program Performance Overview: The Department’s Regulatory Reform Task Force guided implementation of regulatory reform to try to reduce unnecessary regulatory burdens.
+The previous administration estimated that it achieved cumulative savings of $5.84B (net present value) from its deregulatory actions for the period FY 2017-FY 2019.
+No regulatory cost savings were calculated in FY 2020.
+Public Benefit: The Department strives to be prudent and financially responsible in the expenditure of funds.
+In addition to the management of the direct expenditure of taxpayer dollars through the budgeting process, the Department also manages the costs associated with the governmental imposition of private sector costs required to comply with Federal regulations.
+The previous Administration’s policy was that for every new regulation issued, at least two prior regulations be identified for elimination, and that the cost of planned regulations be prudently managed and controlled through a budgeting process.
+Strategy #2: Improve transparency and timeliness of the infrastructure permitting process.
+Program Performance Overview: The Department made an effort to streamline the NEPA process focusing on identifying opportunities to increase efficiencies.
+The Department also reduced the time and page limits for environmental review documents to improve the overall timeliness of major right-of-way applications for water and energy infrastructure projects.
+Public Benefit: Through a steamlining of permitting processes, the Department had a goal to reduce regulatory burden which would increase infrastructure investment.
+Program Performance Overview: DOI has highlighted this objective as a focus area for improvement.
+Real property assets are integral to the success of the Department’s mission.
+The Department’s real property inventory includes approximately 43,000 buildings and 80,000 structures with a replacement value of approximately $300 billion, across six bureaus.
+Management of deferred maintenance is a Departmental priority to ensure completion of needed repairs and prevent further deterioration and unsafe conditions.
+The Great American Outdoors Act will go a long way toward addressing the deferred maintenance of our National Parks, National Wildlife Refuges, BLM facilities, and Indian schools.
+The Department will address deferred maintenance/repair needs with priority given to those that support critical mission activities and manage risk to improve the condition of assets.
+Across the Department, there are currently 51,000 buildings and structures considered highest priority.
+The Facility Condition Index (FCI) and Asset Priority Index (API) performance measures are key indicators for managing the portfolio in support of the Department’s diverse missions.
+The BIA employs a Service Level Index to determine the conditions of the roads and bridges in tribal communities.
+The overarching goal is to maximize the efficient use of real property and to optimize expenditures on the real property portfolio.
+A significant factor impacting a sustainable portfolio of constructed assets is the aging infrastructure.
+Many assets already exceed original design life, and this trend continues to increase maintenance demands.
+Furthermore, the Department’s mission is to maintain heritage assets in perpetuity for the benefit of future generations.
+The Department must continue to maintain and repair these aging assets and cannot simply divest these assets as is typically done in private industry.
+These examples illustrate why the backlog of deferred maintenance continues to increase, estimated at more than $22 billion by the end of FY 2020.
+In 2020, Congress passed the Great American Outdoors Act which will provide $1.9 billion a year to the Department to begin working down deferred maintenance backlog.
+The Department conserves the Nation’s cultural and heritage sites that reflect a rich and diverse history.
+The Department safeguards our heritage for the generations that follow, to better understand our country’s present and learn from our past.
+Many challenges exist in protecting and maintaining historic and archeological sites, especially with the impacts of weather on fragile sites and structures.
+Sites are exposed to changing weather conditions that cause damage and deterioration of the structures and sites, and some locations are vandalized or accidentally damaged by visitors to Federal lands.
+In BIA, the Branch of Environmental and Cultural Resources Management provides leadership, guidance, policy and support for the protection of environmental and cultural resources as they relate to Indian trust lands or restricted lands and Federal facilities owned or operated by Indian Affairs.
+The branch ensures compliance with applicable statutes such as; the National Environmental Policy Act, National Historic Preservation Act, Archeological Resources Protection Act, and the Native American Graves Protection and Repatriation Act.
+The program met its targeted goals for FY 2020.
+In FY 2020, the Office of Facilities, Property, and Safety Management (OFPSM), did not meet its annual goal for the percentage of students in BIE school sites in acceptable condition, per the FCI.
+The program cited outstanding safety and health deficiencies as contributing factors.
+In an effort to improve school sites with low FCI ratings, the program has established a pilot project to coordinate and conduct comprehensive onsite assessments to develop individual site project plans and make recommendations to the Facilities Improvement Review Board.
+The BIA employs a Service Level Index to determine the conditions of the roads and bridges in tribal communities.
+The overarching goal is to maximize the efficient use of real property and to optimize expenditures on the real property portfolio.
+Under management of the Division of Transportation, the BIA Road Construction Program maintains and operates approximately 29,181 miles of BIAowned roads and bridges.
+These roads and bridges serve as the primary access points to tribal communities, without which critical resources and services would not reach tribal members.
+In FY 2020, the program met its national target of 13% of roads in acceptable condition and exceeded its national target for the percent of bridges in acceptable condition at 70%.
+While the COVID-19 pandemic impacted operations, field agencies and tribes performed routine maintenance activities.
+Public Benefit: The Department manages the full life‐cycle requirements of nearly every type of constructed asset, including visitor centers, dams, schools, health clinics, power generating facilities, housing, hotels, fire stations, campgrounds, roads, water and wastewater treatment plants, offices, and more.
+Many of these assets have historic or cultural significance that not only support the Department’s mission, but also are important to our Nation’s heritage.
+Improving our infrastructure means we can better accomplish our mission for the American people.
+Program Performance Overview: Information Management Technology (IMT) supports every facet of the Department’s diverse mission.
+Employees, volunteers, and the public require modern, reliable, secure, and agile IMT services delivered in a cost-effective and transparent manner.
+The increasing sophistication of cyber-attacks demand increased situational awareness, risk-based implementation of technology, demonstrated resilience in critical technologies, and a dynamically trained cybersecurity workforce.
+The Department implements many of the capabilities through the Continuous Diagnostics and Mitigation (CDM) program which provides the capabilities and tools that identify, prioritize, and mitigate cybersecurity threats and risks in near real-time.
+The Department must also implement a multitude of security and privacy controls to protect its mission-critical High Value Assets (HVAs) information systems.
+Key priorities for the Department will be to strengthen the cybersecurity resiliency of these assets by eliminating vulnerabilities and isolating HVA assets from the rest of the network, modernizing older, legacy IT systems, and ensuring proper oversight of privacy compliance activities and risks.
+In response to the COVID-19 pandemic, the Department moved to maximum telework enabling telework eligible employees to work remotely during the pandemic.
+The Department’s employees and customers desire a computing experience that allows DOI employees to access, integrate, analyze, and capture data from any location and computing device.
+Employing common processes and standards across the Department will enable seamless access to computer resources and information from any DOI facility.
+To promote mobile, Bring Your Own Device solutions, the Department is expanding the number of mobile platforms and devices supported while protecting and securing the data.
+The Department also seeks to provide services at a lower cost by consolidating and standardizing IMT services and systems.
+The OMB's Data Center Optimization Initiative aims to reduce annual costs associated with Federal data centers, resulting in significant cost savings and avoidance.
+Some of these savings will be used to optimize the IMT services provided by the remaining data centers, enabling more cloud computing services and improving public access to information.
+A primary focus for consolidation is the Department's hosting strategy.
+The goal is to build a ubiquitous computing environment where IMT and Cloud services are provided seamlessly and on-demand to the customer.
+The Department will continue to take advantage of Federal-wide contracts for optimizing telecommunications and network services.
+The Federal Information Technology Acquisition Reform Act (FITARA) was enacted to clarify executive responsibilities and establish accountability for the acquisition and management of resources.
+Successful implementation of FITARA will lead to more effective management of IMT assets and, in turn, improve the government's ability to serve the public.
+It will also increase the number of successful Federal technology programs and accountability of trust in using public funds.
+Public Benefit: Implementing the CDM program, ensuring the protection of the Department’s high value assets, and improving privacy controls will greatly enhance the ability to protect any Personally Identifiable Information that is collected and stored as well as increase the resilience and dependability of the information technology that provides essential services to the public.
+Allowing seamless access to information and resources and expanding the use of mobile devices will allow our employees to more easily obtain the tools and data they need to efficiently and effectively perform their mission to serve the public.
+By consolidating data centers, modernizing computer networks, and standardizing common IT services the Department will achieve significant cost savings or avoidance for taxpayers and improve delivery of IT services to the public.
+The following table provides page references, corresponding action offices, and performance measures that correspond with topics in the DOI Office of Inspector General’s (OIG) Report on Major Management Challenges (also referenced in the DOI Agency Financial Report).

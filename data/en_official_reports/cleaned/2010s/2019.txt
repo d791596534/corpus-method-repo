@@ -1,0 +1,685 @@
+This report explains how DOL improves the lives of American workers through the management of its agencies and programs.
+It also satisfies the requirement of the Government Performance and Results Modernization Act of 2010 (GPRMA) to provide information on actual performance and progress in achieving goals identified in the DOL FY 2018-2022 Strategic Plan (http://www.dol.gov/dol/aboutdol/).
+The next four chapters present results and plans for three Strategic Goals and one Management Goal that are supported by eighteen Strategic and Management Objectives (1.1, etc. – each the responsibility of one DOL component agency) that reflect Secretary Acosta’s vision and DOL’s mission.
+This document, which also serves as the Department’s FY 2020 Annual Performance Plan, updates measures and targets for FY 2019 and establishes targets consistent with those reflected in the FY 2020 Congressional Budget Justification.
+Some measures are deleted or modified between annual reports.
+To present the most current information, this report provides complete information for the budget year measures only – in this case, those retained or added in FY 2020 – including actual performance for the five preceding years, if available.
+Strategic objective summary tables list applicable measures, targets, results, and status (whether or not results reached or exceed the target, indicated by Y or N).
+Where “baseline” appears in the target cell for new indicators, no data were available for establishing a numerical target.
+If results improved over the prior year but did not reach the target, “I” appears in the status cell.
+The last column identifies the level of success and plans to improve results.
+Vision: Helping American workers gain and hold good, safe jobs.
+Mission: To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.
+1.1 Create customer-focused workforce solutions for American workers.
+1.2 Provide veterans, service members, and their spouses with resources and tools to gain and maintain employment.
+1.3 Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+1.4 Provide timely, accurate, and relevant information on labor market activity, working conditions, and price changes in the economy.
+1.5 Formulate policies and initiatives to promote the interests of working women.
+2.1 Secure safe and healthful working conditions for America’s workers.
+2.2 Prevent fatalities, disease, and injury from mining, and secure safe and healthful working conditions for America’s miners.
+2.3 Secure lawful wages and working conditions for America’s workers.
+2.4 Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+2.5 Promote fair and diverse workplaces for America’s federal contractor employees.
+2.6 Promote a fair global playing field for American workers and businesses by effectively enforcing U.S. trade agreements and combating global child labor and modern slavery.
+2.7 Promote union financial integrity, transparency, and democracy.
+3.1 Provide workers’ compensation benefits for workers who are injured or become ill on the job.
+3.2 Support states’ timely and accurate benefit payments for unemployed workers.
+Improve human resources efficiency, effectiveness, and accountability.
+Provide modern technology solutions that empower the DOL mission and serve the American public through collaboration and innovation.
+Maximize DOL’s federal buying power through effective procurement management.
+Safeguard fiscal integrity, and promote the effective and efficient use of resources.
+ETA Strategic Objective 1.1 – Create customer-focused workforce solutions for American workers.
+The Employment and Training Administration (ETA) oversees employment assistance, labor market information, and education through programs authorized by the Workforce Innovation and Opportunity Act of 2014 (WIOA) – for adults, dislocated workers, youth, Job Corps, employment services authorized by the Wagner-Peyser Act, amended by title III of WIOA, and National Programs; Trade Adjustment Assistance (TAA) authorized by the Trade Act of 1974, as amended; Foreign Labor Certification activities authorized by the Immigration and Nationality Act; the Senior Community Service Employment Program authorized by the Older Americans Act; and Apprenticeship programs authorized by the National Apprenticeship Act.
+Additionally, ETA oversees the federal-state Unemployment Insurance (UI) program, authorized under the Federal Unemployment Tax Act and Title III of the Social Security Act (see Strategic Objective 3.2).
+The public workforce system contributes to our nation’s global competitiveness and economic productivity by providing lifelong learning opportunities and a broad array of employment services.
+The workforce system provides critical services to a broad array of customers at all skill levels as well as services to employers.
+Enroll 1 million new apprentices (including registered programs, industryrecognized apprenticeships, and other nonregistered programs) over the next five years to enable more Americans to obtain jobs that pay a family-sustaining wage through high quality earn-and-learn opportunities.
+By Sept 30, 2019, DOL will enroll 280,000 new apprentices as part of the agency’s broader efforts to promote and expand apprenticeship.
+ETA and the workforce system are committed to expanding access to apprenticeships; providing and improving strategies and tools that help connect employers and skilled workers; and continuously improving the effectiveness and efficiency of workforce development programs by providing flexibilities, ensuring accountability, and building and applying evidence.
+ETA is working with the Office of Management and Budget by participating in two workgroups to support Cross-Agency Priority Goal 8: Results-Oriented Accountability for Grants.
+One workgroup is examining how agencies may better utilize Single Audit data, and another workgroup plans to survey agencies to gather additional information concerning performance data.
+WIOA primary indicators of performance: employment in the 2nd quarter after exit, employment in the 4th quarter after exit, median earnings in the 2nd quarter after exit, credential attainment, measurable skill gains, and effectiveness in serving employers.
+The Department is collecting two years of baseline data for each new WIOA primary indicator prior to setting targets with the states, using a statistical adjustment model as part of the negotiation process.
+National targets for the employment measures will be established once ETA has two years of outcomes for each measure, based on the outcomes reported by the states.
+For example, ETA anticipates setting targets for employment in the 2nd quarter after exit and the median earnings in the 2nd quarter after exit measures by January 2020, and for employment in the 4th quarter after exit measure by January 2021.
+ETA has aligned performance reporting definitions and calculations and implemented a streamlined performance reporting system for WIOA and other DOL partner programs.
+Fourteen workforce grant programs will use a common record layout (the Participant Individual Record Layout or PIRL) to report program participant service and outcome information.
+Using one system enhances data reliability and accuracy.
+The Presidential Executive Order on Expanding Apprenticeships in America, signed June 15, 2017, states that “it shall be the policy of the Federal Government to provide more affordable pathways to secure, high paying jobs by promoting apprenticeships and effective workforce development programs, while easing the regulatory burden on such programs and reducing or eliminating taxpayer support for ineffective workforce development programs.”
+The Secretary has established a Priority Goal to support implementation of the Order to expand apprenticeships: Enroll 1 million new apprentices from FY 2018 – 2022 (by September 30, 2022) to enable more Americans to obtain jobs that pay a family-sustaining wage through high quality earn-and-learn opportunities.
+By September 30, 2019, DOL will enroll 280,000 new apprentices as part of the agency’s broader efforts to promote and expand apprenticeship.
+The results for this effort are displayed in the table below as the Number of Participants Engaged in Apprenticeship (OA/OWI/OJC).
+2) advance modern work-based learning solutions to provide high-quality alternatives to college for youths and adults.
+In FY 2018, over 238,000 individuals nationwide began an apprentice program – exceeding the previous high in the past 20 years of 206,000 in FY 2016.
+For participants engaged in work-based learning, ETA has provided extensive technical assistance to State workforce practitioners, including apprenticeship and business outreach staff, and Apprenticeship Directors to share information on how resources like WIOA formula grants and TAA funds can be used to support work experience, pre-apprenticeship programs, on-the-job training, and supports for apprentices.
+One outcome from this technical assistance was the development of an apprenticeship toolkit for workforce practitioners and dissemination of a Fact Sheet explaining the TAA benefits that may coordinate with Apprenticeship participation.
+States have begun to explore flexibilities for paying for the on-the-job training portion of Apprenticeship using WIOA and TAA funds.
+The President’s 2017 Executive Order, Buy American and Hire American, touches on three temporary worker programs for which the Department shares administrative or enforcement responsibilities: H-1B, H-2B, and H-2A.
+Within the “Hire American” directive, the Order calls on the Department to fully enforce the protections in the laws governing temporary worker visas and to prevent any abuse of these programs.
+Additionally, the President directed federal agencies to review all nonimmigrant visa programs and propose new rules and guidance to eliminate fraud and abuse as part of his initiative to protect U.S. workers.
+A continuing challenge for the foreign labor certification programs has been balancing the quality review of applications while meeting statutory and regulatory processing timeframes in the context of shifting volumes and legislative changes.
+As a result of the significant increases in the filing of H-2B (temporary non-agricultural) applications in the first few weeks of Calendar Year 2016, only 25.5 percent of applications were resolved within 30 days before the date of need.
+In response, in FY 2017, ETA’s Office of Foreign Labor Certification (OFLC) implemented an Interoperability Plan designed to facilitate reassignment of staff to respond to shifts in application filing.
+As a result, timeliness of H-2B processing improved to 63.7 percent by the end of FY 2017 and further improved to 78.4 percent in FY 2018.
+OFLC in FY 2019 is implementing a new case processing system for the H-2B program.
+The current projections of increased incoming applications and the multi-stage implementation of a new IT system lead us to keep our targets unchanged for FY 2019 and make it too early to forecast for FY 2020.
+The Veterans’ Employment and Training Service (VETS) coordinates efforts to assist veterans seeking employment and employers seeking skilled workers – to provide America’s veterans better job opportunities.
+VETS administers several programs to meet the employment and education needs of veterans, transitioning service members, and eligible spouses.
+The Jobs for Veterans State Grants (JVSG) program provides funding to states for Disabled Veterans’ Outreach Program (DVOP) specialists and Local Veterans’ Employment Representative (LVER) staff.
+The Homeless Veterans’ Reintegration Program (HVRP) addresses one of the most vulnerable populations by reintegrating homeless veterans into society and the workforce.
+The Department of Labor’s (DOL) Transition Assistance Program (TAP) Employment Workshop and Career Exploration and Planning Track (CEPT) Workshop provide tools to support a successful transition from military to civilian employment.
+Pursuant to the Uniformed Services Employment and Reemployment Rights Act of 1994 (USERRA), VETS investigates complaints received from individuals who believe their employment or reemployment rights under USERRA were violated.
+DVOP specialists provide individualized career services to veterans with significant barriers to employment, transitioning service members, and wounded, ill, or injured service members and their caretakers.
+VETS tracks the employment outcomes for those served by DVOP specialists, such as the employment rate in the second quarter after exit for veterans.
+This measure is defined by WIOA; in PY 2018, VETS is collecting baseline data.
+HVRP effectiveness is measured in part by the successful placement of homeless veterans into meaningful employment.
+HVRP effectiveness is measured in part by the successful placement of homeless veterans into meaningful employment.
+HVRP had a placement rate target of 67 percent in PY 2017; in that year same year, HVRP achieved placing 66 percent of participants.
+VETS made a policy update in PY 2017 that permitted grantees to “carry over” participants into a subsequent grant cycle, if one was awarded.
+This change allowed grantees to enroll participants well into the fourth quarter of the program year without fear of consequence of low performance outcomes.
+The intended outcome of the policy change was to create a stronger incentive among grantees to enroll more veterans experiencing chronic homelessness and to smooth the transition to measuring WIOA performance indicators, which examine longer-term employment and earnings outcomes than the traditional HVRP measures.
+While the policy update resulted in the largest recorded annual HVRP enrollment, it also resulted in lower placement rates compared to previous years.
+The total number of homeless veterans placed into employment was nearly identical to last year, but the placement rate declined due to grantees enrolling more participants late in the program year.
+VETS manages its USERRA investigations to ensure each complaint is appropriately investigated in terms of quality and timely completion.
+The quality is determined by measuring how well VETS developed and investigated the allegations in each complaint.
+A sample of closed cases is reviewed quarterly; in FY 2018, 96 percent of the closed USERRA cases met VETS’ quality standard.
+President Trump signed the FY 2019 National Defense Authorization Act (NDAA) into law on August 13, 2018, directing responsible Federa agencies to improve TAP.
+These changes will be implemented by FY 2020, and during implementation in FY 2019, VETS will continue to work with interagency partners to enhance the quality of employment support services for transitioning service members, with a focus on improved outcomes.
+The Honoring Investments in Recruiting and Employing American Military Veterans Act (HIRE Vets Act), signed by the President on May 5, 2017, required the Secretary to establish a program by rule that solicits voluntary information from employers to recognize efforts to recruit, employ, and retain veterans.
+The HIRE Vets Medallion Program is described in the Final Rule (https://www.federalregister.gov/documents/2017/11/13/2017- 24214/hire-vets-medallion-program).
+In FY 2019, VETS will conduct direct employer engagements, publish joint guidance with ETA to the state workforce system, accept all employer applications, and select award recipients to be announced in conjunction with Veterans’ Day 2019.
+ODEP Strategic Objective 1.3 – Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+The Office of Disability Employment Policy (ODEP) promotes policies and practices, and coordinates with employers and all levels of government, to increase the number and quality of employment opportunities for individuals with disabilities.
+ODEP employs strategies to help employers meet their business objectives by fully integrating the skills and talents of job seekers and employees with disabilities.
+Additionally, ODEP uses data and evidence to promote the adoption and implementation of policy strategies and effective practices to increase the number and quality of job opportunities for people with disabilities.
+Based on research and evaluation, ODEP develops or identifies effective policy and practices, conducts outreach to share this critical information, and provides technical assistance to all levels of government and employers to aid them in adoption and implementation.
+In FY 2018, ODEP developed 63 policy outputs to assist state legislators with policy strategies for addressing disability employment in their respective states and issued 136 implementation tools to aid entities in adopting and implementing proven practices.
+Minority-Owned, Woman-Owned and Small Business Procurement and Contracting Act, thereby putting persons with disabilities on equal footing to other minority groups in terms of contact preferences for contracting.
+ODEP also worked to develop the “Buy IT! Your Guide for Purchasing Accessible Technology Employer Toolkit” to assist employers in increasing capacity to hire and retain talented workers with disabilities.
+The ODEP-funded Job Accommodation Network produced “Workplace Accommodation Toolkit Video and PowerPoint – Advancing an Individual Who is Deaf,” which supports employers and enhances the employment opportunity for individuals who are deaf or hard of hearing.
+In FY 2019, ODEP plans to focus its investments on fewer initiatives that are of higher priority.
+For example, ODEP will be focusing on the Retaining Employment and Talent after Injury/Illness Network (RETAIN) Demonstration Projects that will test the impact of early intervention strategies on stay-at-work/return-to-work (SAW/RTW) outcomes of individuals who experience an injury or illness that could result in a work disability while employed.
+In addition, ODEP will fund the State Exchange on Employment and Disability (SEED).
+Through SEED, ODEP collaborates with state intermediary organizations [e.g., National Conference of State Legislatures (NCSL), National Governors Association (NGA) Council of State Governments (CSG), Women in Government (WIG), and the Board of Hispanic Caucus Chairs (BHCC)] to promote adoption and implementation of ODEP’s policies and practices at the state level, and advance ODEP’s policy development and dissemination efforts.
+ODEP is projecting a smaller number of policy outputs and implementation tools in 2019 than in 2018 because the RETAIN projects, which are in an early planning and pilot stage, represent a significant investment that will not immediately produce policy outputs or implementation tools at the pace produced by several prior initiatives.
+In addition, in 2019, ODEP’s SEED Initiative will also produce fewer policy outputs than in 2018 but more outputs in technical assistance because the initiative is currently entering a phase of its work that is more focused on technical assistance.
+The Bureau of Labor Statistics (BLS) is the principal federal statistical agency responsible for measuring labor market activity, working conditions, and price changes in the economy.
+Its mission is to collect, analyze, and disseminate some of the nation’s most sensitive and important economic data to support public and private decision-making.
+Like all federal statistical agencies, BLS executes its statistical mission with independence.
+BLS serves the general public, the U.S. Congress, DOL and other federal agencies, state and local governments, and business and labor by providing data products that are accurate, objective, relevant, timely, and accessible, as well as technical assistance and consulting services.
+Policies and decisions based on BLS data affect virtually all Americans, and the wide range of BLS data products is necessary to fulfill the diverse needs of a broad customer base.
+BLS is committed to maintaining the highest level of scientific integrity in producing official statistics.
+BLS complies with the Statistical Policy Directives and the Standards and Information Quality Guidelines from OMB, as well as the National Research Council’s Principles and Practices for a Federal Statistical Agency.
+Together, these form the foundation for achieving and maintaining scientific integrity within and among the principal statistical agencies.
+BLS also conforms to the conceptual framework of the Interagency Council on Statistical Policy’s (ICSP) Guidelines for Reporting Performance by Statistical Agencies and the “Strengthening Federal Statistics” chapter of the Analytical Perspectives volume in the President’s Budget.
+BLS reports the full cost to produce its data products.
+BLS also measures accuracy, timeliness, relevance, dissemination, and mission achievement.
+Using these common concepts as a basis for measuring and reporting on statistical agency outcomes helps inform decision-makers more consistently about the performance of statistical agencies.
+The Women’s Bureau (WB) conducts research to formulate practices and policies aimed at increasing economic and employment opportunities and advancement for the 75 million working women and their families in the U.S. WB identifies trends, data gaps, policy and programmatic needs, and strategic mechanisms to safeguard the interest of working women.
+These efforts allow WB to inform and educate individuals and organizations at the local, state, and national levels about the issues facing women in the labor force.
+In FY 2018, in addition to updating existing resources containing labor force statistics on working women and information on their employment rights, WB conducted research and developed new products to help expand opportunities for women to access and thrive in apprenticeship programs; assist women affected by opioid abuse in enhancing their skills and obtaining family-sustaining jobs; reduce occupational licensing barriers to employment for military spouses; assess working families’ access to affordable, quality child care; and expand opportunities for women in entrepreneurship.
+WB is focused on increasing the impact of its work on policies, programs, and communities by assessing changes in employment outcomes and working conditions for women.
+WB based its FY 2018 targets on the proposed budget, but the appropriation exceeded the request.
+WB accelerated solicitation and obligation of grants and contracts, and exceeded its target for the number of policy and research deliverables, producing a total of 16 issue briefs, reports, and other resources.
+OSHA Strategic Objective 2.1 – Secure safe and healthful working conditions for America’s workers.
+The Occupational Safety and Health Administration (OSHA) was established by the Occupational Safety and Health Act of 1970 with the mission to ensure employers provide American workers safe and healthful working conditions.
+OSHA ensures the safety and health of America’s workers by setting and enforcing workplace safety and health standards; delivering effective enforcement; providing training, outreach, and education; and encouraging continual improvement in workplace safety and health.
+Through these efforts, OSHA aims to reduce the number of worker illnesses, injuries, and fatalities and contribute to DOL’s broader goals of promoting the competitiveness of our nation’s workforce.
+OSHA is working with OMB and the Department’s Performance Management Center (PMC) in FY 2019 to draft a Customer Experience (CX) Plan related to the Voluntary Protection Programs (VPP).
+This will include both a plan and public-facing dashboard.
+By September 30, 2019, increase trenching and excavation hazards abated by 10 percent compared to FY 2017, through inspections and compliance assistance at workplaces covered by OSHA.
+OSHA’s compliance officers strategically prioritize enforcement resources to target high hazard industries and irresponsible employers.
+Corporate Wide Settlement Agreements (CSAs) and the Severe Violator Enforcement Program (SVEP) are additional tools OSHA uses to target establishments that require improvement across a number of locations.
+OSHA demonstrated a similar number of hazards abated in trenching as the baseline number in FY 2017 by removing 2,324 trenching hazards from worksites in FY 2018.
+The agency will continue to focus on trenching hazards to meet the Agency Priority Goal (APG) by September 2019.
+OSHA seeks to reduce injuries and fatalities by targeting workplaces where there are potential trenching/excavation hazards for inspections as well as outreach.
+OSHA will work with industry associations and the public utilities who hire a significant portion of the work to create a public-private effort to impact these fatalities.
+Increased inspection activity focusing on trenching/excavation hazards should result in fewer injuries and fatalities – the ultimate outcome for DOL and American workers.
+Safety training is a critical piece of OSHA’s strategic effort to prevent workplace fatalities, injuries, and illnesses.
+OSHA conducts training programs at the OSHA Training Institute (OTI), administers the OTI Education Centers Program, and administers the Outreach Training Program.
+In FY 2018, preliminary data show OSHA provided training for 1,179,413 individuals.
+VPPs are another important component of OSHA’s compliance assistance activities.
+This program recognizes employers and workers who have implemented effective safety and health management systems and who maintain below-average injury and illness rates in their respective industries.
+The program also brings OSHA and employers together to cooperatively and proactively prevent future fatalities, injuries, and illnesses.
+In FY 2018, OSHA completed 260 VPP approvals and re-approvals.
+OSHA also administers and enforces 22 whistleblower protection statutes that protect workers who experience retaliation for reporting violations of the law.
+Principally, this includes Section 11(c) of the Occupational Safety and Health Act (OSH Act), which prohibits employers from retaliating against employees who bring workplace hazards to the attention of the employer or the Agency.
+The additional twenty-one whistleblower protection provisions protect workers in a variety of industries who speak out against unsafe and/or unlawful behavior, including violations of transportation, consumer protection, or financial reform laws.
+In FY 2018, OSHA completed 2,924 docketed whistleblower investigations, awarding nearly $28 million to complainants, including 59 reinstatements.
+MSHA Strategic Objective 2.2 – Prevent fatalities, disease, and injury from mining, and secure safe and healthful working conditions for America’s miners.
+The Mine Safety and Health Administration (MSHA) protects the safety and health of the nation’s miners through enforcement of the Federal Mine Safety and Health Act of 1977 (Mine Act), as amended by the Mine Improvement and New Emergency Response Act of 2006 (MINER Act).
+MSHA’s mission is to prevent death, disease, and injury from mining and to promote safe and healthful workplaces for the nation’s miners.
+This mission is carried out through the promulgation and enforcement of mandatory safety and health standards; mandated inspections which require four complete inspections annually at active underground mines and two complete inspections annually at active surface mines; miner training; and technical compliance assistance activities.
+By September 30, 2019, reduce the reportable injury rate associated with powered haulage equipment, the primary cause of miners’ injuries, by 10 percent per year based on a rolling 5-year average per 200,000 hours worked.
+MSHA has undertaken several measures to prevent mining deaths including: increased monitoring and strategic enforcement through targeted inspections at mines with identified problem areas; a Pattern of Violations (POV) program; special initiatives such as focusing on inexperienced miners and miners working alone; and outreach efforts such as “Safety Pro in a Box,” which provides guidance to the metal/nonmetal mining industry on best practices and compliance responsibilities.
+In FY 2018, MSHA reached its target to reduce the five-year rolling average of fatal injuries per 200,000 hours worked.
+The five-year fatality rate was 0.0110, a 41% decrease from FY 2010 when the measure was first reported.
+MSHA also reached its target to reduce injury rates based on a fiveyear rolling average per 200,000 hours worked.
+Reduced injuries and fatalities are attributed to a number of factors beyond enforcement, including better use of technology, safer mining practices, and improved training.
+MSHA’s Agency Priority Goal reflects efforts to reduce fatalities and injuries by targeting workplace hazards that represent a primary cause of fatalities and injuries.
+In FY 2018, accidents caused by powered haulage equipment, which is a category of moving machines used to transport miners or haul materials in mines, contributed to 62 percent of fatalities and 8 percent of total injuries.
+WHD is responsible for administering and enforcing laws that establish the minimum standards for wages and working conditions.
+WHD enforces and administers the minimum wage, overtime, and child labor provisions of the Fair Labor Standards Act; the prevailing wage requirements and wage determination provisions of the Davis Bacon Act and Related Acts, Service Contract Act, Contract Work Hours and Safety Standards Act, Walsh-Healey Act, and Copeland Act; the wages and working conditions under the Migrant and Seasonal Agricultural Worker Protection Act; the Family and Medical Leave Act; the Employee Polygraph Protection Act; and the garnishment provisions of the Consumer Credit Protection Act.
+WHD also enforces the field sanitation and temporary labor camp standards in agriculture and certain employment standards and worker protections of the Immigration and Nationality Act.
+Collectively, these labor standards cover most private, state, and local government employment.
+They protect over 143 million of America’s workers in more than 9.8 million establishments throughout the U.S. and its territories.
+WHD focuses its enforcement and compliance assistance efforts to achieve the greatest impact.
+The agency uses data and evidence to identify areas and industries in which serious violations may be widespread and often organizes educational and enforcement initiatives in those areas.
+WHD complements enforcement with outreach and education to employers.
+By partnering with industry and employers to produce meaningful compliance assistance, WHD can increase compliance with the laws it enforces.
+By combining enforcement with education, more workers in this country can obtain stable and secure income and responsible businesses can succeed.
+In FY 2018, WHD increased the results for “Percent of Agency-Initiated Investigations,” reaching the highest percentage (53 percent against a 46 percent target) in recent history.
+Data show that agency-initiated investigations and the strategic use of enforcement resources have achieved positive results for low-wage workers and result in a greater deterrent effect.
+WHD tracks “no violation” rates as indicators of whether the agency is selecting the right employers to investigate.
+In FY 2018, WHD succeeded in realizing the lowest no-violation rates (14 percent) in recent history for both “Percent of Agency-Initiated No Violation Investigations” and “Percent of Complaint No Violation Investigations.”
+The low no-violation rates indicate that WHD is selecting effective criteria to identify employers that are, in fact, in violation.
+These results show that the difference between complaint and agency-initiated investigations is insignificant, with WHD agency-initiated investigations as accurate as complaint investigations in identifying employers with violations.
+WHD’s performance has led to significant outcomes for workers.
+In the last 5 years, WHD has helped more than 1.3 million workers and recovered more than $1.3 billion dollars in back wages.
+In FY 2018 alone, WHD collected over $300 million in back wages—an all-time record for the agency.
+WHD enforcement actions in FY 2018 found, on average, approximately $1,150 for each employee due back wages.
+In FY 2018, to reflect its commitment to compliance assistance, WHD began reporting the number of outreach hours spent in compliance assistance.
+The goal is to increase impact through direct engagement with industry leaders and the use of more modern compliance assistance methods.
+EBSA Strategic Objective 2.4 – Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+The Employee Benefits Security Administration (EBSA) is charged with protecting more than 149 million workers, retirees, and their families who are covered by nearly 703,000 private retirement plans, 2.3 million health plans, and similar numbers of other welfare benefit plans.
+Together, these plans hold estimated assets of $9.8 trillion.
+In FY 2018, the agency recovered over $1.6 billion for direct payment to plans, participants and beneficiaries.
+EBSA’s enforcement program seeks to detect and correct violations that result in monetary recoveries for employee benefit plans, participants, and beneficiaries or secure other corrective remedies including, but not limited to, significant broad-based reforms for large plans or common service providers.
+In FY 2018, EBSA focused its enforcement resources on National Enforcement Projects and the Major Case Enforcement Priority.
+The Major Case Enforcement Priority concentrates a significant portion of the agency’s enforcement resources on cases likely to have the greatest impact on the protection of plan assets and participants’ benefits.
+In addition, EBSA introduced measures to evaluate the efficiency and effectiveness of investigative time.
+Because Major Case results can be highly volatile from year to year, EBSA based its enforcement measures on careful consideration of all the data available since inception of the Major Case initiative.
+EBSA’s FY 2018 results reflect the volatility of Major Case recoveries.
+The majority of FY 2018 recoveries came from a single initiative, the Terminated Vested Participant Project (TVPP).
+The TVPP cases have obtained unusually large recoveries for participants and beneficiaries while expending minimal investigative resources.
+Without the exceptional results of the TVPP initiative, EBSA’s FY 2018 results would have been in line with EBSA’s projected targets for the year, rather than dramatically exceeding them.
+In EBSA’s view, the TVPP results are anomalous, and TVPP recoveries will begin to decline over the next two to three years, as plan fiduciaries and sponsors improve their recordkeeping and notification practices with respect to “missing” terminated vested participants.
+In addition, EBSA expects the anticipated expansion of Association Health Plans (AHPs) to have a substantial impact on its enforcement workload, without a corresponding increase in significant monetary recoveries.
+The focus of AHP enforcement efforts will be as much on shutting down fraudulent operations and correcting plan mismanagement as recovering plan losses.
+If past history is any indication, even where losses have occurred, it will be much more difficult for the agency to recover losses from solvent breaching fiduciaries than is true of the TVPP cases.
+When EBSA shuts down a fraudulent operation or stops plan mismanagement, it prevents future breaches and losses, but such preventive results are not captured in metrics focused on monetary recoveries.
+As a result, EBSA expects its reported monetary recoveries to decline over the coming years.
+The Office of Federal Contract Compliance Programs (OFCCP) requires that employers that do business with the Federal Government comply with contractual equal employment opportunity and affirmative action requirements to ensure a fair and diverse workplace, free of discrimination and harassment.
+OFCCP recognizes the importance of striking a balance between its enforcement efforts and compliance assistance activity.
+The agency is strengthening contractor engagement through the use of additional compliance resources, tools, and national training.
+These and other strategies make OFCCP more efficient.
+Compared to FY 2017, when OFCCP conducted 79 percent of construction evaluations from High-Impact Construction Projects, in FY 2018 the agency completed 90 percent of construction evaluations from High-Impact Construction Projects, forty percentage points about the target of fifty percent.
+In addition, in FY 2018, on a new measure “Percent of Discrimination Conciliation Agreements with Systemic Pay Discrimination Findings,” OFCCP achieved 109 percent of the target.
+The Bureau of International Labor Affairs (ILAB) promotes a fair global playing field for workers in the United States and around the world by enforcing trade commitments, strengthening labor standards, and combating international child labor and forced labor.
+ILAB seeks to ensure that countries enforce their labor laws and adhere to internationally recognized worker rights so as to prevent exploitation of workers abroad and any risk that American workers are harmed by global competition based on such exploitation.
+The majority of ILAB’s work involves engagement with other U.S. government agencies, foreign governments, and employers, workers, and other civil society organizations to strengthen the rule of law with respect to labor rights globally and support the creation of quality jobs in the United States.
+In FY 2018, ILAB supported efforts in approximately 70 countries to strengthen compliance with labor related trade commitments, including improving labor enforcement and addressing child labor and forced labor.
+During FY 2018, ILAB-funded initiatives provided education or vocational services to more than 20,000 children engaged in or at risk of entering hazardous child labor and provided livelihood services to more than 7,000 families to reduce their reliance on child labor.
+ILAB initiatives also increased capacity in 26 countries to address child labor, forced labor, and other violations of workers’ rights.
+Outcomes achieved in FY 2018 include the adoption of national policies or plans against child labor in Cameroon, Ghana, Liberia, and Serbia; the development of electronic data systems to improve labor enforcement in Paraguay; the launch of child labor monitoring systems in Ecuador and Panama; institutionalization of labor inspectorate training materials in Paraguay and Peru; and publication of national child labor surveys in Ghana, Jamaica, Tunisia, and Ukraine.
+ILAB systematically monitored and analyzed labor issues and trade-related labor commitments, including child labor and forced labor in 153 countries.
+In addition, ILAB released the latest versions of its reports and accompanying mobile applications (Sweat & Toil and Comply Chain) on child labor and forced labor in September 2018.
+ILAB worked closely with interagency partners, governments, businesses, and workers in key countries to improve enforcement of labor-related trade commitments, including standards on child labor, forced labor, and worker rights issues, including in Colombia, Georgia, Ghana, Honduras, Peru, Malaysia, Mexico, Vietnam, and other countries.
+The Office of Labor-Management Standards (OLMS) administers the Labor-Management Reporting and Disclosure Act of 1959, as amended (LMRDA), and related laws.
+These laws primarily establish safeguards for union democracy and union financial integrity and require public disclosure reporting by unions, union officers, union employees, employers, labor consultants and surety companies.
+Timely resolution of election complaints accelerates restoration of democratic voice and a democratically operated union.
+In FY 2018, OLMS averaged 68.8 days elapsed from submission of a complaint to case closing versus a goal of 70 days per case.
+OLMS continues to fine-tune methods for further reducing its elapsed days, including use of a team-based approach for handling election cases (when resources permit) and early engagement with the Office of the Solicitor in cases that may result in litigation.
+The FY 2018 target is a result of balancing the changes OLMS can make to its processes with outside factors that can affect resolution of these types of cases, such as cooperation from the unions being investigated.
+OLMS’ investments in new technology and outreach to facilitate electronic filing of union financial reports led to continued progress, as 76.5 percent of all filings were submitted electronically – sixteen percentage points higher than the agency’s target.
+A new rule that required electronic filing of the Form LM-3 and LM-4 reports for fiscal years beginning on or after January 1, 2017, should maintain this trend in FY 2019 and beyond.
+Sources: Office of Labor-Management Standards (OLMS) electronic Labor Organization Reporting System (e.LORS) and internal data tracked by the OLMS Division of Enforcement.
+OWCP Strategic Objective 3.1 – Provide workers’ compensation benefits for workers who are injured or become ill on the job.
+The role of the Office of Workers’ Compensation Programs (OWCP) is to provide workers’ compensation benefits for workers injured or ill on the job.
+OWCP implements four statutory federal workers’ compensation programs providing monetary, medical, and return-to-work benefits for work-related injuries and illnesses to federal employees, coal mine workers, nuclear weapons workers, longshore and harbor workers, contractors serving overseas, and certain other designated employee groups.
+The agency adjudicates claims, administers the benefit funds authorized for these purposes, and provides oversight of claims resolutions by responsible parties.
+In FY 2019, OWCP will continue development of the OWCP Workers’ Compensation System (OWCS), an integrated claims processing and management system for all four programs.
+OWCP expects the Longshore program to fully implement OWCS in 2019.
+By September 30, 2019, reduce the percentage of initial opioid prescriptions and duration of new opioid prescriptions for federal employees with work-related injuries by 30 percent from the FY 2016 baseline.
+Priority Goal 4, improving Customer Experience (CX).
+Specifically, OWCP will identify dashboards measures, conduct and analyze the CX organizational self-assessment, meet with OMB-identified industry organizations with proven CX practices, and develop an action plan to increase OWCP’s CX capacity and CX program maturity.
+In FY 2018, the Federal Employees’ Compensation Act (FECA) program focused on its new APG.
+Preliminary results indicate that the program reduced the percentage of initial opioid prescriptions and duration of new opioid prescriptions for federal employees with work-related injuries by 56 percent from the FY 2016 baseline.
+A major aspect of the Longshore program focuses on ensuring that first payment of benefits are timely.
+The percentage of first payments of compensation issued for non-Defense Base Act (DBA) cases within 30 days from the date disability begins increased from 87 percent in FY 2014 to 88 percent in FY 2018.
+The Black Lung program has focused on maximizing productivity and managing pending claims – with a special emphasis on the cohort of claims pending more than 365 days.
+The continued use of prototype performance standards for claims staff in FY 2018 led to sustained high-level productivity with nearly 6,700 decisions issued during the year as well as a five percent reduction in the number of claims pending for more than 365 days and a seven percent reduction in the total pending inventory.
+The Energy program works closely with the Department of Energy, the Department of Justice, the Social Security Administration (SSA), and the National Institute for Occupational Safety and Health (NIOSH) to issue claim decisions.
+The federal-state Unemployment Insurance (UI) program, authorized under the Federal Unemployment Tax Act and Title III of the Social Security Act, provides temporary, partial wage replacement for unemployed workers, providing them with income support when suitable work is unavailable.
+To be eligible for benefits, unemployed workers must meet eligibility requirements established by state laws that conform to federal law, including that they are involuntarily unemployed, and are able, available, and actively seeking work.
+The federal role is to set broad policy for the program, establish performance measures and standards, provide technical assistance and training to states, monitor state performance, promote conformity and compliance of state laws and operations with federal law, and fund the administration of state and federal UI programs.
+The First Payment Timeliness measure of intrastate first payments made within 21 days decreased slightly to 84.0 percent in FY 2017 and did not meet the target of 87.0 percent.
+The Detection of Recoverable Overpayments measure, which is the percent of estimated overpayments that states detect and establish for recovery declined by more than 6 percentage points in FY 2018 to an estimated 52.4 percent (vs. the target of 61.9 percent).
+States have lost experienced staff due to retirements impacting timely processing and adjudication of claims, and the detection and establishment of improper payments.
+The reduction in administrative funding resulting from lower workloads has further limited states’ capacity to hire additional staff.
+Several states have also reported technology issues following system modernization implementation efforts or due to antiquated technology systems.
+ETA has a comprehensive strategic plan to prevent, reduce, and recover improper payments that includes identifying states with high improper payment rates for targeted technical assistance.
+ETA reports that the estimated UI improper payment rate increased in FY 2018 to 13.05 percent.
+The increase is primarily due to work search errors.
+Each state has its own work search requirements that are a condition of UI eligibility.
+There are structural issues that legally require states to make benefit payments and impact states’ ability to reduce the rate, including certain due process requirements before stopping payment to a person previously determined to be eligible for benefits.
+Certain root causes for improper payments declined over the previous year – Separation errors declined by 1.33 percentage points; base period wages and other eligibility issues declined by 0.5 percentage points and 0.7 percentage points respectively.
+The Department funded the implementation of a Suspicious Actor Repository (SAR) in 7 pilot states to share specific data elements associated with known fraudulent UI claims for cross-matching purposes.
+So far, 13 States are using the SAR, which has prevented approximately $1.7 million in improper payments.
+Thirty-four states met or exceeded the timeliness target.
+Additionally, 28 states improved their timeliness performance over the previous year.
+In FY 2018, ETA launched the UI benefits operations state self-assessment process to assist states in identifying and addressing operational issues impacting performance.
+The process includes a comprehensive review of functional and program areas within UI benefits operations.
+OASAM Strategic Objective M.1 – Improve human resources efficiency, effectiveness, and accountability.
+The Office of the Assistant Secretary for Administration and Management’s (OASAM) Human Resources Center (HRC) provides leadership, guidance, and technical expertise on all human capital areas to the Department.
+The Director of HRC serves as the Department’s Chief Human Capital Officer (CHCO).
+HRC oversees accountability reviews and implements accountability processes to improve HR efficiency, effectiveness, and compliance with laws and regulations.
+In support of the Department’s Strategic Plan and the Agency Priority Goal (APG), OASAM began a four-phase implementation plan to transition DOL HR to an Enterprise-wide Shared Services delivery model in FY 2018.
+By September 30, 2019, begin implementation of an enterprise-wide shared services model for DOL core administrative functions.
+The implementation of an effective shared services solution for HR service delivery will permit DOL program agencies to focus time and resources on mission-oriented outcomes.
+The shared services solution will allow agencies to shift from low-value to high-value work in support of the President’s Management Agenda (PMA) Cross-Agency Priority (CAP) Goal 6.
+Specifically, HRC will improve hiring outcomes and reduce burden on hiring managers particularly for mission critical positions.
+OASAM will also support PMA CAP Goal 5, Sharing Quality Services, by adopting federal-wide HR solutions where feasible.
+FY 2018 activities focused on the first phase, “Stand-up and Strategy,” which involved significant engagement with staff at all levels (e.g., functional leadership, front-line staff, customers, and senior leadership) to build a collaborative partnership between providers and customer agencies.
+Engagement was a critical component in the identification of best practices and areas of improvement needed in the design of the future-state delivery of DOL HR services.
+Additionally, the project team completed current-state assessments for DOL HR services as a whole, and for each of the Department’s current HR service providers, to inform the development of future-state organizational designs and phased implementation plans.
+4) services.
+In support of the “Stand-up and Strategy” phase, the project team created a governance structure to inform senior leadership decision-making in terms of prioritization, phasing, and other key components of shared services delivery.
+The Shared Services Executive Committee (SSEC) met on a weekly basis and was supported by the HR Functional Project Team, which comprised the servicing HR Officers.
+Through the collaboration and communication of these groups, the future-state HR organization design and concept of operations (CONOPs) were developed for leadership review and decision in FY 2019.
+The transition to DOL Enterprise-wide HR Shared Services will begin in FY 2019 and will involve phased implementation of HR providers by service/functional area (e.g., talent acquisition, compensation and benefits, HR policy, and workforce development) into the new DOL HR organizational design.
+This transition will be aided by the “Discovery,” “Analysis and Planning,” and “Implementation” phases.
+Discovery” includes: conducting a DOL HR process inventory and prioritizing processes for business process reengineering efforts; and, workforce and workload analysis, which will inform the organizational design details and future-state DOL HR staffing plan.
+Analysis and Planning” includes planning and documentation for the future-state staffing plan, and establishment of revised HR processes based on the prioritized business process reengineering efforts.
+Implementation” includes execution of the transition from the current-state HR structure to the new DOL HR structure utilizing all of the analysis and planning activities and documentation developed.
+Because current DOL HR services will be transitioned to the new organizational model by service/functional area over a period of time (i.e., not all at once), each service/functional area will progress through “Discovery,” “Analysis and Planning,” and “Implementation” at different times – beginning in Q1 of FY 2019 and concluding in Q2 FY 2020 with full implementation of all HR services/functional areas into the new DOL HR organization.
+Stakeholder engagement will continue throughout execution of this transition strategy to ensure all HR leadership, practitioners and agency customers are informed and able to provide valuable input to drive continuous process improvement.
+In addition to transition planning, DOL continues to take effective actions to address HR organizational needs.
+During the second quarter of FY 2018, OSHA leadership prompted the movement of HR services from the OSHA HR Office to the HRC.
+OSHA HR staff were reassigned into similar HR functions in the HRC.
+As a result of the move, DOL reduced one of its national HR offices.
+Currently, OASAM provides HR services for over 79.8 percent of the entire DOL population, which is an increase from 77.5 percent at the end of FY 2017.
+Also, HRC continued to provide retirement and benefits services to MSHA HR customers, a servicing relationship that is expected to continue in the new shared services model.
+HRC also supports PMA CAP Goal 3, People: Workforce of the Future by working toward improving employee performance management and engagement; reskilling and redeploying human capital resources; and enabling simple and strategic hiring practices.
+These actions will enhance alignment and strategic management of the workforce.
+In FY 2018, DOL’s hiring time was 97.9 days against the OPM time to hire model of 80 days with a 76 percent Hiring Manager Satisfaction score.
+DOL targets an 85 percent Hiring Manager Satisfaction score in FY 2019 and FY 2020.
+OASAM Strategic Objective M.2 – Provide modern technology solutions that empower the DOL mission and serve the American public through collaboration and innovation.
+The Office of the Assistant Secretary for Administration and Management’s (OASAM) Office of the Chief Information Officer (OCIO) provides IT leadership, products, and support for DOL.
+OCIO plays a critical leadership role in driving reforms in systems development, better managing technology spending, and succeeding in achieving real, measurable improvements in mission performance.
+OCIO provides guidance to the Department in support of government-wide directives for capital planning, IT security, information management, and enterprise architecture.
+In support of the Department’s Strategic Plan and the Administrative Agency Priority Goal (APG), OASAM will implement a shared service model for DOL IT services, products, and support that will leverage economies of scale, adhere to federal standards and requirements, enhance CIO oversight, and provide an improved customer experience.
+An IT Enterprise-wide Shared Services delivery model will allow DOL agencies and programs to operate more effectively and efficiently and to focus their resources on advancing DOL’s mission.
+The shared services solution will help agencies continue to shift from low-value to high-value work in support of PMA CAP Goal 6.
+DOL will also further develop the common enterprise platform, which will further refine standards, processes, and governance.
+By leveraging a common platform, DOL will eliminate redundancies and accelerate IT modernization, increase accessibility, and enhance security.
+OASAM will also support PMA CAP Goa 5, Sharing Quality Services, by adopting federal-wide IT solutions where feasible.
+In FY 2018, OASAM began a four-phase implementation plan to transition DOL IT beyond its current infrastructure capacity to an Enterprise-wide Shared Services delivery model incorporating bureau mission-application support.
+The first shared services phase, “Stand-up and Strategy,” involved significant engagement with staff at all levels (e.g., functional leadership, front-line staff, customers, and senior leadership) to build a collaborative partnership between providers and customer agencies.
+Engagement was a critical component in the identification of best practices and areas of improvement needed in the design of the future-state delivery of DOL IT services.
+Additionally, the project team completed current-state assessments for DOL-wide IT infrastructure services as a whole, and for each of the Department’s current IT mission-application service providers, to inform the development of future-state organizational designs and phased implementation plans.
+4) services.
+In support of the “Stand-up and Strategy” phase, the project team created a governance structure to inform senior leadership decision-making on prioritization, phasing, and other key components of shared services delivery.
+The Shared Services Executive Committee (SSEC) met on a weekly basis, supported by the IT Functional Project Team (IT FPT), which comprised the senior agency IT leads and other subject matter experts.
+3) IT governance.
+Through the collaboration and communication of these groups, the foundation needed for development of the future-state IT organization design and concept of operations (CONOPs) in FY 2019 was established.
+In early FY 2019, through engagement of the IT FPT and working groups, the future-state DOL IT organizational design and associated CONOPs will be finalized, as well as the revised IT governance structure.
+Beginning in Q2 FY 2019, the transition to DOL Enterprise-wide IT Shared Services will involve phased implementation of IT providers by agency into the new DOL IT organizational design.
+This transition will be aided by the “Discovery,” “Analysis and Planning,” and “Implementation” phases.
+Discovery” includes: conducting a DOL IT process inventory and prioritizing processes for business process reengineering efforts; and, workforce and workload analysis, which will inform the organizational design details and future-state DOL IT staffing plan.
+Analysis and Planning” includes planning and documentation for the future-state staffing plan, and establishment of revised IT processes based on the prioritized business process reengineering efforts.
+Implementation” includes execution of the transition from the current-state IT structure to the new DOL IT structure utilizing all of the analysis and planning activities and documentation previously developed.
+Because current DOL HR services will be transitioned to the new organizational model by agency over a period of time (i.e., not all at once), each agency will progress through “Discovery,” “Analysis and Planning,” and “Implementation” at different times – beginning in Q2 of FY 2019 and concluding in Q4 FY 2020 with full implementation of all IT services/functional areas into the new DOL IT organization.
+Stakeholder engagement will continue throughout execution of this transition strategy to ensure all IT leadership, practitioners and agency customers are informed and able to provide valuable input to drive continuous process improvement.
+OCIO will support PMA CAP Goal 1 - IT Modernization by embracing modern technology solutions, such as migrating major applications to the Cloud, working to continue to reduce cybersecurity risks, and building a modern IT workforce.
+OCIO also supports CAP Goal 2, Data Accountability & Transparency, by enabling agencies to make data available more quickly and to conduct advanced analytics analyses through its Enterprise Data Analytics Platform.
+Finally, OCIO supports CAP Goal 10, Federal IT Spending Transparency, by continuing to refine DOL’s implementation of the Technology Business Management (TBM) Framework.
+In addition, OCIO will continue to maintain a network and application service uptime of 99.9% in FY 2019 and FY 2020.
+OCIO achieved a network and application services uptime of 99.86% in FY 2018.
+The Office of the Assistant Secretary for Administration and Management’s (OASAM) Business Operations Center (BOC), Office of the Chief Procurement Officer (OCPO) provides leadership, guidance, and oversight of all procurement policy and services.
+In support of the Department’s Strategic Plan and the Administrative Agency Priority Goal (APG), OASAM began a four-phase implementation plan to transition DOL procurement services to an Enterprise-wide Shared Services delivery model in FY 2018.
+By centralizing procurement functions, DOL will: achieve economies of scale; gain managerial oversight and efficiencies to more rapidly implement government-wide procurement directives; enforce procurement legislation, regulation, and policies; and strategically plan for customer needs.
+An effective shared services solution for departmental procurement services will allow DOL program agencies to focus their resources on program delivery and mission outcomes.
+The shared services solution will allow agencies to shift from low-value to high-value work in support of PMA CAP Goal 6.
+An effective shared services solution will also leverage the government’s buying power, making it possible to obtain significant reductions in the price of goods and receive better services at lower costs.
+Cost savings may then be redirected toward high-priority mission activities.
+OASAM will also support PMA CAP Goal 5, Sharing Quality Services, by adopting federal-wide procurement solutions where feasible.
+FY 2018 activities focused on the first phase, “Stand-up and Strategy,” which involved significant engagement with staff at all levels (e.g., functional leadership, front-line staff, customers and senior leadership) to build a collaborative partnership between providers and customer agencies.
+Engagement was a critical component in the identification of best practices and areas of improvement needed in the design of the future-state delivery of DOL procurement services.
+Additionally, the project team completed current-state assessments for DOL procurement services as a whole, and for each of the Department’s current procurement service providers, to inform the development of future-state organizational designs and phased implementation plans.
+4) services.
+In support of the “Stand-up and Strategy” phase, the project team created a governance structure to inform senior leadership decision-making in terms of prioritization, phasing, and other key components of shared services delivery.
+The Shared Services Executive Committee (SSEC) met on a weekly basis and was supported by the Procurement Functional Project Team, which comprised of Heads of Contracting Authority (HCAs) for each of the procurement service providers.
+Through the collaboration and communication of these groups, the future-state procurement organization design and concept of operations (CONOPs) were developed for leadership review and decision in FY 2019.
+The transition to DOL Enterprise-wide Procurement Shared Services will begin in FY 2019 and will involve phased implementation of procurement providers by agency into the new DOL procurement organizational design.
+This transition will be aided by the “Discovery,” “Analysis and Planning,” and “Implementation” phases.
+Analysis and Planning” includes planning and documentation for the future-state staffing plan, and establishment of revised procurement processes based on the prioritized business process reengineering efforts.
+Implementation” includes execution of the transition from the current-state procurement structure to the new DOL procurement structure utilizing all of the analysis and planning activities and documentation developed.
+Because current DOL procurement services will be transitioned to the new organizational model by agency over a period of time (i.e., not all at once), each service/functional area will progress through “Discovery,” “Analysis and Planning,” and “Implementation” at different times – beginning in Q2 of FY 2019 and concluding in Q2 FY 2020 with full implementation of all procuremen services/functional areas into the new DOL procurement organization.
+Stakeholder engagement will continue throughout execution of this transition strategy to ensure all procurement leadership, practitioners and agency customers are informed and able to provide valuable input to drive continuous process improvement.
+BOC will also support PMA CAP Goal 7, Category Management, by providing and promoting DOL-wide procurement vehicles and Best-in-Class contract solutions.
+These vehicles will reduce redundancy in procurement vehicles for the same services and gain cost savings with DOL buying power.
+In FY 2018, BOC baselined a new measure, number of new DOL enterprise-wide procurement vehicles, with a result of 1.
+BOC targets three new enterprise-wide vehicles in FY 2019 and one new vehicle in FY 2020.
+BOC also aimed for 35 percent of its addressable spend through Best-in-Class solutions and achieved a result of 47.70 percent.
+Addressable spend is a figure determined by OMB based on an analysis of DOL’s spend broken down by Product Service Code (PSC) and North American Industry Classification Code (NAICS), compared to the PSC codes and NAICS codes of established BIC vehicles.
+Where DOL’s PSC and NAIC codes overlap with BIC PSC and NAICS codes, it is determined to be addressable spend.
+BOC’s FY 2019 and FY 2020 targets for cumulative percent of addressable spend through Best-in-Class solutions will be set by OMB.
+BOC will also support PMA CAP Goal 11, Improve Management of Major Acquisitions, by strengthening talent capabilities; using modern and innovative acquisition flexibilities; and tracking investments using program management principles.
+The Office of the Chief Financial Officer (OCFO) provides financial management leadership, direction, and guidance to the Office of the Secretary of Labor and all DOL program agencies on matters arising from financial statutes, as appropriate.
+OCFO oversees DOL-wide accounting, financial management, and financial system, and leads the Department’s annual audit of the Consolidated Financial Statements.
+OCFO will also support Administration efforts in PMA CAP Goal 5, Sharing Quality Services.
+Accurate and timely financial information demonstrates DOL’s accountability to stakeholders and facilitates data-driven operational, budget, and policy decisions.
+OCFO oversees the Department’s responsibility for internal controls by assisting program management in establishing and ensuring strong controls over all financial resources in DOL.
+OCFO leads the Department’s annual financial audit and efforts to eliminate findings resulting from the audit.
+In FY 2018, OCFO eliminated two material weaknesses from its FY 2016 audit.
+OCFO’s FY 2019 and FY 2020 targets for number of material weaknesses eliminated will be determined based on the audit findings of FY 2017 and FY 2018 AFR, respectively.
+OCFO supports DOL’s programs by providing reliable, relevant, and timely financial information and analysis.
+OCFO will develop and maintain integrated accounting and program management systems through modernized financial systems.
+OCFO provides DOL’s managers and decision makers with the financial management tools to drive high-performance and accountability, and to responsibly manage financial resources.
+A measure of spending efficiency is the “percent of discretionary appropriations cancelled after the five years period of obligation authority has expired.”
+This measure tells us what percent of dollars were not outlaid or spent.
+The result for FY 2018 is 1.32 percent, and the targets for this measure are 1.95 percent in FY 2019 and 1.90 percent for FY 2020.
+The Government Performance and Results Act Modernization Act requires that federal agencies annually report to Congress on “unmet goals.”
+Annually, agency leaders should review progress on each of the agency’s strategic objectives established by the agency Strategic Plans and updated annually in the Annual Performance Plan.
+These reviews should inform strategic decision-making, budget formulation, and near-term agency actions, as well as preparation of the Annual Performance Plan and Annual Performance Report.
+This document summarizes findings of the Department of Labor’s Strategic Review of our eighteen Strategic and Management Objectives.
+ETA Strategic Objective 1.1 Create customer-focused workforce solutions for American workers.
+Strong partnerships are necessary between the public workforce system, education providers, and employers in key sectors that provide well-paying jobs.
+In its report that identified “Helping Adults and Youth Succeed in the Labor Market” as one of DOL’s Top Management and Performance Challenges for FY 2018, OIG noted that the Department “needs complete and accurate performance information that allows it to make evidence-based and data-driven decisions about job training programs.”
+The Department has taken appropriate steps to institute a performance reporting and accountability structure and system, in accordance with WIOA.
+Given the time lags inherent in some of the primary indicators of performance defined in WIOA Section 116 (for example, employment rates in the second quarter after exit and fourth quarter after exit), the Department cannot yet report on some of the key WIOA primary indicators of performance.
+However, in October 2018, states report the second year of WIOA participant and performance information.
+This will be the first year of outcome data for indicators based on results measured at the second quarter after exit.
+The Program Year 2018 and all subsequent reports will contain states’ reported outcomes for indicators based on results after the second quarter of exit.
+Annual Performance Report in October 2019 (for PY 2018).
+Two years of results will be available for the employment in the second quarter after exit, median earnings, and measurable skill gains measures; baseline results will be available for the employment in the fourth quarter after exit and credential attainment measures.
+ETA is conducting a pilot and evaluation on the Effectiveness in Serving Employers measure; as such, results are not yet available.
+The WIOA transition has presented an opportunity for ETA and states to improve the performance accountability framework and data collection and program reporting processes, as well as to modernize information systems.
+ETA has developed a new reporting system – the Workforce Integrated Performance System (WIPS) – for states and competitive grantees to submit performance information, as well as a common Participant Individual Record layout facilitating the alignment of data.
+ETA’s innovative work on the new reporting system was recognized by Results for America’s Federal Invest In What Works 2017 Index, which highlighted the Department’s work as an agency leader in building the infrastructure necessary to best use data, evidence, and evaluation in budget, policy, and management decisions.
+ETA is continuing to provide technical assistance to its grantees to facilitate performance reporting.
+The OIG Top Management and Performance Challenge identified above also notes that “audits have found job training graduates were often placed in jobs unrelated to the occupational certifications and skills training they received, or in jobs that required little or no training.”
+WIOA established the credential attainment rate as one of the six required primary indicators of performance and required that credentials be industry-recognized; ETA is implementing this measure.
+In addition, for competitive grant programs, ETA designs grant competitions, where applicable, to specifically promote credential attainment.
+ETA also provides technical assistance to grantees on resources and strategies for increasing the attainment of industry-recognized credentials.
+For example, ETA updated its electronic tools to include information on credentials related to each occupation – from short-term certificates to apprenticeship to licensure and certifications – and the quality or value of specific certifications.
+According to DOL data, approximately 90 percent of registered apprentices are employed after completing their apprenticeship programs with an average starting salary of over $60,000 – $15,000 more than for all program participants (i.e., including those who did not complete the apprenticeship).
+On June 15, 2017, President Trump issued Executive Order 13801, Expanding Apprenticeships in America, which directed the Secretary of Labor to promote the establishment of industry-recognized apprenticeships programs by qualified third-party certifiers.
+Over the past year, and in line with the Executive Order, ETA established and supported the Presidential Task Force on Apprenticeship Expansion, comprising members from business, labor, education, government, and the non-profit sector.
+The mission of the Task Force is to identify strategies and proposals to promote apprenticeships, especially in sectors where apprenticeship programs are insufficient.
+The Task Force report to the President, which was released on May 10, 2018, focuses on strategies and proposals to promote apprenticeships; administrative or legislative reforms that would facilitate the formation and success of apprenticeship programs; the most effective strategies for creating industry-recognized apprenticeships; and the most effective strategies for simplifying and encouraging private sector initiatives to promote apprenticeship.
+DOL is now actively working to set up an Industry Recognized Apprenticeship Program (IRAP) system, which will empower third party “accreditors” to recognize new, industry-driven apprenticeship programs, focusing on those in high-growth sectors where apprenticeships are underutilized, such as healthcare, information technology, and advanced manufacturing.
+The Department also included expansion of apprenticeships as an Agency Priority Goal (APG) for FY 2018-2019.
+From PY 2011 to PY 2017, the percent of Job Corps students who entered employment or enrolled in post-secondary education and/or advanced training/occupational skills training in the first quarter after exit increased from 73 percent to 79 percent.
+However, some Job Corps centers continue to face challenges with safety and security.
+The OIG identified “Providing a Safe Learning Environment at Job Corps Centers” as a DOL Top Management and Performance Challenge for FY 2018.
+To address those challenges, Job Corps is conducting unannounced visits to centers with an elevated risk profile and issues formal correspondence to center operators regarding concerns about their ability to provide a safe center environment according to the terms of their contract.
+Compliance violations and poor performance are captured in operators’ past performance reports and factored into future contract awards.
+Job Corps also utilizes a contingency operations contract to allow for one of a small number of pre-qualified operators to take over the operation of a center in the event of a contract termination or a decision to forego the award of an option year.
+Each of the above can be used individually or in concert to hold operators accountable for ensuring safe and secure living and learning environments.
+Additionally, Job Corps has taken the following steps as part of its comprehensive approach to addressing center safety and security challenges: increased Center Mental Health Consultants’ staffing hours for mental health services; expanded and clarified requirements pertaining to campus access and disposal of unauthorized goods; clarified requirements related to law enforcement agreements; established a national Safety Hotline for students and staff; and hired a Physical Security Specialist to support targeted center assessments, safety- and security-related review guidelines, and continuous improvement of the program’s approach to monitoring and addressing center safety and security issues.
+Further, Job Corps is in the process of implementing Phase II of its Physical Security Project, which delivers physical access controls and video surveillance to 17 centers, in addition to the 13 centers completed during Phase I. Finally, Job Corps has implemented a system-wide policy regarding background checks on current employees and applicants prior to making an offer of employment.
+By adding temporary staffing and modernizing its business processes, ETA eliminated the backlog and reduced processing times to a 50-day median rate.
+ETA’s priority for TAA is to refocus TAA on apprenticeship and other work-based job training strategies to ensure that participants are training for in-demand jobs and industries.
+The President’s FY 2020 budget includes a legislative proposal to restructure TAA using an earn-asyou-learn approach that prepares participants for relevant, available occupations.
+In FY 2018, OIG also listed “Maintaining the Integrity of Foreign Labor Certification Programs” as a Top Management and Performance Challenge for the Department.
+Balancing the quality review of applications with employers’ needs for timely processing has been a challenge for years.
+OFLC consolidated case processing responsibilities for all program types across its three processing centers to facilitate deployment of staff to program work that is in highest demand during peak application filing periods.
+For H-2B labor certifications, OFLC has experienced a massive increase in the volume of applications over the past several years.
+To eliminate processing delays, Congress allowed for $20 million to be spent during FY 2017 and FY 2018 from the H-1B training fund.
+OFLC has implemented incremental enhancements to its electronic case processing system, re-assigned staff and hired temporary staff in anticipation of this peak filing season, and has already achieved major improvements in the efficiency of processing H-2B applications.
+Another significant increase in the number of applications received on January 1, 2018 (over 80,000 H-2B worker positions) created delays; however, the additional temporary resources helped OFLC issue 78 percent more certifications within 30 days of employers’ start date of need (April 1) than in FY 2017.
+VETS Strategic Objective 1.2 Provide veterans, service members, and their spouses with resources and tools to gain and maintain employment.
+VETS increased its share of veterans who received intensive services from Disabled Veteran Outreach Program specialists – from 25 percent in PY 2011 to 88.7 percent in PY 2016.
+VETS identified their ability to track and report performance outcomes from Jobs for Veterans State Grant (JVSG) grantees in PY 2016 and PY 2017 as a risk.
+Participant-level data for new WIOA outcome measures will be three quarters lagged, and since JVSG relies on ETA’s WIPS for these data, it faces the same risks to performance accountability identified for ETA Strategic Objective 1.1.
+The Honoring Investments in Recruiting and Employing (HIRE) American Military Veterans Act of 2017 required DOL to establish a program to recognize employer efforts to recruit, employ, and retain veterans.
+The HIRE Vets Medallion Program will launch in FY 2019 and will aim to reward small, medium, and large-sized business who hire our Nation’s veterans.
+ODEP Strategic Objective 1.3 Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+In FY 2018, ODEP demonstrated significant success in leveraging state intermediary membership organizations to promote state-level adoption and implementation of evidencebased policies and effective practices.
+ODEP produced 42 of its 63 policy outputs from this state intermediary work; through this work, state legislatures and governors across the country introduced legislation, executive orders, and other policies designed to improve employment outcomes for people with disabilities.
+ODEP collaborates with state legislative and administrative intermediary organizations, through the State Exchange on Employment and Disability (SEED), to promote state-level adoption and implementation of ODEP’s evidencebased policies and practices.
+ODEP faces ongoing challenges, such as budgetary constraints and competing priorities, in getting states to adopt policy recommendations.
+To understand the process of this initiative, ODEP, in coordination with the Department’s Chief Evaluation Officer, is conducting an implementation analysis of SEED to document its approach in engaging states to adopt policies and examine the barriers and facilitators to implementation, and the preliminary outcomes of SEED.
+The SEED implementation analysis will help ODEP understand the implications of the steps ODEP has taken so far to mitigate barriers and improve communication with the intermediaries.
+BLS Strategic Objective 1.4 Provide timely, accurate, and relevant information on labor market activity, working conditions, and price changes in the economy.
+With three exceptions over the last five years (FYs 2014-18), BLS reached 100 percent of the underlying timeliness, accuracy, and relevance targets for its Principal Federal Economic Indicators (PFEIs).
+In FY 2018, BLS reached 100 percent of the underlying timeliness targets, 85% (17 out of 20 measures) of the underlying accuracy targets, and 88% (7 out of 8 measures) of the underlying relevance targets for all of its PFEIs.
+The FY 2018 results reflect, in part, decisions to discontinue certain data series, such as data for industries with declining output.
+In addition, BLS measures dissemination through the Average number of BLS website page views each month, but in FY 2018, the result of approximately 14.9 million average page views each month fell short of the target of 15.6 million.
+BLS also measures mission achievement through customer satisfaction with the BLS website through the ForeSee Experience Index (FXI); the FY 2018 year-end score was 77, which was higher than the FY 2017 result of 75.
+BLS saw a 124 percent increase in respondents to the FXI survey with higher scores particularly in the areas of navigation and look and feel, when compared to fourth quarter results in FY 2017.
+BLS faces declining survey response rates, primarily due to competing surveys, less willingness on the part of respondents to participate, and concerns about safeguarding respondent confidentiality.
+BLS is addressing this challenge by upgrading strategic communications, offering alternative response modes to reduce burden, and using more alternative data sources.
+BLS is addressing this challenge by monitoring and responding to new developments related to data sharing.
+WB Strategic Objective 1.5 Formulate policies and initiatives to promote the interests of working women.
+In 2018, WB awarded four technical assistance grants to assist employers and labor unions in placing women in pre-apprenticeships, apprenticeships, and nontraditional occupations.
+WB also awarded a grant to train and employ women workers affected by opioid abuse.
+WB is working with the Census Bureau on a gender-based study on occupations and earnings, conducted at the request of Congress.
+In collaboration with VETS and the White House, WB launched an interactive map to assist military spouses in identifying options for obtaining and transferring professional licenses and credentials.
+In conjunction with the White House, WB held a national convention and 10 regional listening sessions to discuss approaches to expanding access to child care for working families.
+WB initiated a new project to produce a public-use database of child care costs based on local area data that will enable a better understanding of the effects of child care costs on women’s labor force participation.
+Additionally, in 2018, in conjunction with the White House, CEA, SBA, and U.S. Department of the Treasury, WB began developing an e-learning platform to connect women business owners with the tools and skills they need to scale their businesses.
+WB plans to develop more interactive, customizable, and mobile-friendly tools to increase awareness among workers of their rights, resources, and opportunities; enhance its community engagement efforts to strengthen state and local programs to support its priorities; and help workplaces integrate practices to support working women.
+WB’s commitment over the last few years to transitioning web content into mobile-friendly formats has facilitated access for a larger segment of consumers and, not surprisingly, has translated into an increasing proportion of visits occurring on mobile devices.
+Given the numerous factors that contribute to the challenges women face in achieving occupational integration, equal compensation, and work-life integration, as well as the length of time it takes for such changes to register, WB remains challenged in measuring the connection between its policy work and influence on programmatic changes and improved employment outcomes for women in the workforce.
+WB accepts the change in expectations around the measurement of impacts.
+In April 2018, the WB Director co-chaired a meeting with representatives from ODEP, VETS, the Chief Evaluation Office, OASP, ETA, and OWCP to discuss how to better measure policy outcomes and assess impacts, helping ensure all agencies at DOL yield tangible results that reflect the priorities of the Administration.
+WB will conduct agency-wide training for staff to ensure consistent understanding and uniform application of key concepts related to establishing and using impact measures.
+WB presented proposed short-term, medium-term, and long-term impact performance measures under each priority area in its FY 2019 operating plan.
+OSHA Strategic Objective 2.1 Secure safe and healthful working conditions for America’s workers.
+Fall protection continues to be the number one violation cited by OSHA.
+Falls are the leading cause of death in the construction industry and account for 20 percent of all serious injuries.
+The National Campaign to Prevent Falls in Construction Final Report indicated that thousands of employers received certificates by providing over one million workers and over 1.5 million military and civilian personnel fall prevention training.
+OSHA also has national and local emphasis programs, as well as a Strategic Plan to direct Compliance Safety and Health Officers (CSHOs) to establishments with the most significant risk of fall hazards.
+In FY 2018, preliminary data show that OSHA conducted about 10,278 inspections of worksites as a result of these programs, and approximately 7,306 fall-related hazards were abated.
+DOL’s Office of Inspector General (OIG) has identified “Protecting the Safety and Health of Workers” as a DOL Top Management and Performance Challenge for FY 2018.
+For OSHA, challenges are determining the best use of its resources to help protect worker safety and health (particularly in high-risk industries), verifying the abatement of construction hazards, and underreporting of injuries by employers.
+OSHA employs a triage process on severe injury reports to focus inspection resources on the most serious cases.
+Severe injury reporting data are also used to identify unknown occupational hazards.
+The agency addresses these hazards through enforcement, consultation, and outreach.
+OSHA’s enforcement policies require documentation of hazard abatement and training of enforcement staff in abatement verification policies and procedures.
+In addition, OSHA incorporates various inspection procedures to verify abatement of hazards, identify employers with past violations, and support the issuance of repeat and willful citations.
+In FY 2018, OSHA’s Compliance Assistance Specialists and other field staff conducted more than 1,200 outreach activities that addressed OSHA’s recordkeeping and reporting requirements.
+Citations issued to employers for not complying with the severe injury and illness reporting requirements increased from 546 in Calendar Year (CY) 2015 to 777 in CY 2017.
+The number of severe injury reports has also increased each year since the reporting requirements went into effect.
+In CY 2015, OSHA received 10,391 severe injury reports; by CY 2017, that number had increased to 11,462 – an increase of more than 10 percent.
+MSHA Strategic Objective 2.2 Prevent fatalities, disease, and injury from mining and secure safe and healthful working conditions for America’s miners.
+In FY 2018, MSHA reached its target to reduce the five-year rolling average of fatal injuries per 200,000 hours worked.
+The five-year rolling average rate has fallen about 13 percent over the last three years – from 0.0126 fatal injuries per 200,000 hours worked in FY 2015 to 0.0110 in FY 2018.
+MSHA also reached its target of reducing injury rates based on a five-year rolling average per 200,000 hours worked.
+The five-year rolling average rate fell 12 percent over the same period – from 2.56 injuries per 200,000 hours worked in FY 2015 to 2.26 in FY 2018.
+In “Protecting the Safety and Health of Workers,” a DOL Top Management and Performance Challenge in FY 2018, OIG identified a number of management and performance challenges facing MSHA, including the underreporting of injuries by employers, an increase in black lung cases, and powered haulage safety.
+MSHA has taken action to address each of these areas.
+In the past ten years, MSHA has conducted over 5,500 audits of Part 50 to identify underreporting of injuries by employers and has issued slightly over 5,200 citations for infractions of this standard.
+With regard to black lung, MSHA strictly enforces regulatory standards for respirable dust and quartz.
+MSHA has made the prevention of powered haulage accidents a priority for 2018 and beyond with an initial focus on three areas: large vehicles striking smaller ones; seat belt usage; and conveyor belt safety.
+MSHA’s powered haulage initiative has involved soliciting stakeholders for best practices for keeping miners safe around powered haulage equipment.
+In FY 2019, MSHA will develop guidance for reducing inspection hours in active, nonproducing mines, and as part of refresher training will train enforcement personnel on this guidance.
+WHD Strategic Objective 2.3 Secure lawful wages and working conditions for America’s workers.
+WHD increased agency-initiated investigations from 44 percent of all investigations in FY 2014 to 53 percent of all investigations in FY 2018, the highest in recent history.
+Data show that agency-initiated investigations have particularly positive results for low-wage workers who are less likely to file complaints and are more likely to work in industries with a high risk for violations.
+WHD also focused its investigations and resources better than ever on workplaces with violations.
+The percentage of agency-initiated investigations with no violations fell to 14 percent, down from 22 percent in FY 2014, while the percentage of complaint investigations with no violations fell to 14 percent, down from 19 percent in FY 2014.
+This indicates that agency-initiated investigations have been as accurate as complaint-based investigations in finding employers with violations.
+WHD’s performance has led to significant outcomes.
+In the last 5 years, WHD has helped more than 1.3 million workers and recovered more than $1.3 billion dollars in back wages.
+In FY 2018 alone, WHD collected over $300 million in back wages – the highest amount WHD has ever collected.
+WHD enforcement actions in FY 2018 found, on average, approximately $1,150 for each employee due back wages.
+In FY 2018, WHD updated its approach to enforcement in nonimmigrant visa programs such as H-1B consistent with the President’s Executive Order 13788 on Buy American and Hire American.
+WHD’s legacy IT systems are outdated.
+Although WHD has implemented various solutions to fund certain technology enhancements, it remains at a high risk of outdated technology eroding efforts to modernize business processes and carry out the range of compliance strategies necessary to address compliance systemically.
+Based on a 2008 internal survey of WHD field staff, WHD estimated that the inefficiencies of its legacy case management system (Wage and Hour Investigative Support and Reporting Database – WHISARD) add 2.5 hours to every investigation.
+This equates to 70,000 hours of lost productivity, or the equivalent of 46 FTE every year.
+The agency is now moving forward with implementing the roadmap, as funding allows.
+EBSA Strategic Objective 2.4 Improve the security of retirement, health, and other workplacerelated benefits for America’s workers and their families.
+Since FY 2015, EBSA has focused on National Projects and the Major Case Enforcement Priority so that it can have the greatest impact on the protection of plan assets and participants benefits.
+In FY 2018, EBSA spent 24 percent of total investigative staff time on Major Cases, and Major Cases produced $1.05 billion in monetary results – an increase of 71 percent from FY 2017.
+In FY 2018, EBSA enforcement also recovered another $102 million through non-Major Cases.
+EBSA conducted 330 national and regional compliance activities in FY 2018, a 2 percent increase over the 322 activities it conducted in FY 2013.10 EBSA also conducted 126 healthrelated national and regional compliance activities, exceeding its target of 54.
+In FY 2018, EBSA’s Benefits Advisors obtained recoveries of $443.2 million through their efforts, contributing to the agency’s total recoveries of over $1.6 billion for direct payment to plans, participants, and beneficiaries.
+Protecting Retirement, Health, and Other Benefit Plans for Workers, Retirees, and Their Families” was identified as a DOL Top Management and Performance Challenge in FY 2018.
+This challenge is a function of the vast number of plans and plan actors that the agency oversees, as compared to its small staff of investigators.
+The Major Case initiative is a way that a very small agency can have an outsized impact on the large universe it regulates.
+EBSA’s scope and workload is projected to increase as a result of the President’s October 2017 Executive Order to expand access to Association Health Plans, and the August 2018 Executive Order on expanding access to multiple employer retirement plans.
+In FY 2018, EBSA issued regulatory guidance regarding Association Health Plans and other related reforms.
+EBSA introduced several initiatives in FY 2018 that seek to increase collaboration among regional offices.
+These initiatives include increased emphasis on cross-regional cases, the development and deployment of subject-matter experts, and the use of Specialty Teams.
+Additionally, EBSA will continue to contract with qualified non-governmental organizations to provide audit services for the Thrift Savings Plan (TSP).
+The agency believes it is critical to improve the Department’s focus and oversight in areas where weaknesses with TSP have been identified but not adequately mitigated, and its efforts have aimed to develop greater accountability and oversight of the Federal Retirement Thrift Investment Board.
+OFCCP Strategic Objective 2.5 Promote fair and diverse workplaces for America’s federal contractor employees.
+OFCCP’s workforce right-sizing process, which reduced FTE from 729 in FY 2013 to 516 in FY 2018, aligned staff workload with federal contractor locations, improved consistency and collaboration in compliance evaluations, increased compliance assistance, established skilled regional centers, and reduced operating costs.
+OFCCP restricted hiring to filling critical vacancies, closed a few small offices through attrition, and improved overall cost center management (by reducing and consolidating regional office space, eliminating all but three GSA lease vehicles, etc.).
+About one-third of OFCCP’s settlements of discrimination cases now involve issues of pay discrimination, while in prior years the agency was addressing only a handful of such cases annually.
+All pay discrimination notices of violation issued by OFCCP in FY 2017 were related to systemic pay findings.
+Also, 79 percent of the construction compliance evaluations were associated with a high-impact mega construction project – up from 31 percent in FY 2015.
+These projects have the potential for greater success in increasing the representation of minorities, women, individuals with disabilities, and protected veterans in skilled trades through effective recruitment and training.
+In a recent study of OFCCP compliance evaluations (GAO-16-750 Equal Employment Opportunity: Strengthening Oversight Could Improve Federal Contractor Nondiscrimination Compliance), the Government Accountability Office found that OFCCP lacks reasonable assurance that it is focusing its compliance efforts on contractors with the greatest risk of noncompliance.
+Planned actions in response to recommendations include developing a statistical model to predict likely violators; realigning investigation staff with contractor locations; and evaluating its current training, development, delivery, and evaluation protocols.
+ILAB Strategic Objective 2.6 Promote a fair global playing field for American workers and businesses by effectively enforcing U.S. trade agreements and combating global child labor and modern slavery.
+As of mid-year FY 2018, working through grantees in over 10 countries, ILAB provided educational or vocational services to more than 7,500 children engaged in or at high risk of entering hazardous child labor and helped increase capacity to address child labor, forced labor, and other violations of workers’ rights in 12 countries.
+In addition, ILAB provided targeted technical assistance for projects in approximately 70 countries to strengthen compliance with the labor requirements of U.S. trade agreements and trade preference programs.
+ILAB worked closely with interagency partners, governments, businesses, and workers in key countries to improve enforcement of labor-related trade commitments, including standards on child labor, forced labor, and worker rights issues in Colombia, Georgia, Ghana, Honduras, Peru, Malaysia, Mexico, and Vietnam, among others.
+In FY 2019, ILAB is piloting new performance measures to better capture the results of technical assistance activities, with the intent of establishing targets in FY 2020.
+OLMS Strategic Objective 2.7 Promote union financial integrity, transparency, and democracy.
+By several measures, OLMS has done very well in a declining budget environment; appropriations decreased from $47.8 million and 321 FTE in FY 2007 to $39.3 million and 195 FTE in FY 2017.
+In FY 2017, the average number of days to resolve union election complaints was 64.7 days, the lowest in the FY 2012-17 period.
+The percentage of targeted audits that result in a criminal case rose from 13.81 percent in FY 2012 to 18.75 percent in FY 2017 and the efiling rate for required reports increased from 37.8 percent in FY 2012 to 58 percent in FY 2017.
+OLMS continues effective target-setting practices, factoring in staff availability and caseload to roll up targets from the regions into the agency’s overall target.
+In FY 2018, OLMS will continue leveraging relationships with the 41 national and international unions participating in the Voluntary Compliance Partnership (VCP) program.
+This program is designed to improve compliance with filing deadlines, increase electronic filing, and ensure that unions are adequately bonded – enabling investigators to devote more of their time to high priority investigations.
+OLMS continues to implement patches to its 17-year old electronic Labor Organization Reporting System (e-LORS), which cannot support common functions such as content search.
+Also, much of the system was “hard-coded,” necessitating manual fixes to the source code that increase the risk of errors leading to a system crash.
+The system is characterized by an inflexible application architecture, constrained complex workflow processes, and the use of legacy software and database design.
+OLMS’ ability to fully leverage available data is hampered by the absence of an automated data analytics capability, and the use of a client server architecture limits the ability to leverage Cloud and mobile computing.
+Finally, due to its age, the e-LORS system remains increasingly vulnerable to cybersecurity incidents.
+OWCP Strategic Objective 3.1 Provide workers’ compensation benefits for workers who are injured or become ill on the job.
+Results for key Longshore and Energy program measures continued positive trends.
+In Longshore, the first payment of compensation within 30 days for non-Defense Base Act cases rose slightly, from 87 percent in FY 2014 to 88 percent in FY 2018.
+For Energy cases not sent to the National Institute for Occupational Safety and Health when a hearing was not held (approximately 70 percent of all claims), the average number of days from filing date to final decision improved from 166 in FY 2014 to 163 in FY 2018.
+In FY 2018, OWCP reduced the number of black lung claims pending more than 365 days from 20 percent at the beginning of the Aged Case Elimination (ACE) Project to 15 percent, and the pending claims inventory was reduced by seven percent.
+Also in FY 2018, the Black Lung program issued more Proposed Decisions and Orders (PDO) than claims received.
+However, the average number of days to process Black Lung claims increased from 234 days in FY 2014 to 335 days in FY 2018, and indebtedness of the Black Lung Disability Trust Fund remains a challenge.
+Debt servicing equaled 89.4 percent of Trust Fund expenditures in FY 2018, yet under current law, coal excise tax rates of $1.10 per ton on underground-mined coal and $0.55 per ton on surface-mined coal reverted to the levels established in 1977 – $0.50 per ton and $0.25 per ton, respectively – on January 1, 2019.
+The OIG identified “Monitoring and Managing Pharmaceuticals in the FECA Program” as a Top Management and Performance Challenge in 2018.
+In response to a dramatic increase in the number of claimants, prescriptions, and expenditures for compounded drugs from FY 2011 to FY 2016, the FECA program instituted controls for compounded medication such as a two-tiered pricing structure and a prior authorization process by requiring the submission of a Letter of Medical Necessity (LMN) by the claimant’s physician prior to authorization of any compounded medication.
+The FECA program’s actions led to a significant decrease in expenditures on compounded medication from an average of $23.1 million per month during the first half of 2016 to under $250,000 per month in the second half of 2018.
+The program also implemented an LMN for new opioid prescriptions in August 2017 and established an Agency Priority Goal (APG) for FY 2018-19 to address this issue.
+Preliminary FY 2018 results indicate the program reduced the percentage of initial opioid prescriptions and duration of new opioid prescriptions for federal employees with work-related injuries by 56 percent from the FY 2016 baseline.
+OIG also identified “Reducing Improper Payments” as a DOL Top Management and Performance Challenge in FY 2018.
+In FY 2018, the FECA program implemented a new process to perform an in-depth review of initial payments in each district office to determine the root cause of any improper payment and then provide specialized training specific to that office’s errors.
+The program also worked with the Office of the Chief Financial Officer to update the methodology used to estimate the improper payment rate.
+The updated sampling methodology captures all areas of payments, including initial 90-day payments and payments on non-imaged cases for older claims that originated before the FECA program implemented its electronic case management system.
+Additionally, the updated methodology for estimating the improper payment rate reiterates a three-year rolling average of actual fraudulent payments based on courtordered restitution amounts, and strengthens OWCP’s commitment to working closely with the OIG to ensure effective flagging of potential fraud.
+In the FY 2017 audit of DOL’s consolidated financial statements, independent auditors identified a need for improvement in the review of Energy program liability estimates as a material weakness.
+OWCP continues to implement a review process for its actuarial models in FY 2019.
+ETA Strategic Objective 3.2 Support states’ timely and accurate benefit payments for unemployed workers.
+DOL has designated Reducing Improper Payments as a Major Management Challenge (see Other Information section).
+The UI program is required to make timely payments “when due” of benefits once a person is found eligible and states may not stop benefits payments without required procedures.
+These structural factors create improper payments under the federal definition, since the payments cannot be stopped until the proper due process is provided.
+In addition, there are lags in the current data sources used by states to identify individuals that continue to claim benefits after returning to work, which further contribute to the inability to prevent these types of improper payments.
+Finally, states are facing capacity issues in dedicating staff to conduct random work search audits.
+Due to declining claims workloads and the resulting reductions to state administrative funding, many states have had to reduce staff and are struggling to meet program performance standards.
+In addition to six states designated as High Priority in FYs 2016 and 2017, ETA designated three new states as High Priority for FY 2018.
+These states are targeted for intensive technical assistance and monitoring.
+On-site visits with each High Priority state are conducted by an expert review team comprising National, Regional, and State subject matter experts on the issue areas identified as needing improvement.
+Each designated state receives a formal Monitoring Report that identifies findings, areas of concern, and best practices.
+States are advised of the different strategies and tools and are highly encouraged to implement and use those strategies and tools to improve their program performance to be removed from this designation.
+State corrective actions are developed and monitored through quarterly reviews.
+Improve human resources efficiency, effectiveness, and accountability.
+The average time to hire a new employee has increased from 86.2 days in FY 2014 to 97.9 days in FY 2018.
+However, the Hiring Manager Satisfaction Index score increased from 71 percent in FY 2016 to 76 percent in FY 2018.
+DOL has a decentralized Human Resources (HR) delivery model with 12 HR offices servicing DOL employees across the country.
+While OASAM’s Human Resources Center (HRC) establishes HR policy for the Department and performs some central functions, this structure makes policy implementation difficult, leads to inconsistent service quality, and complicates responses to the Department’s HR needs.
+To facilitate improved HR delivery at DOL, HRC has developed standardized performance plans for HR leaders (HR Officers and Deputies) across DOL agencies; established a consolidated departmental Classification Division to develop standardized position descriptions for mission critical positions; issued a Table of Offenses and Penalties that will enforce standardized discipline within DOL; and created a Community of Practice among leading HR practitioners across DOL for establishing consistent policy interpretation and information sharing.
+In addition to these activities, the Department has made implementation of an enterprise shared services model for the delivery of HR services an APG for FY 2018-19.
+Specifically, the Department seeks to implement an HR service delivery model that is consistent, efficient, and measurable.
+Development of an empirically based HR shared service model at DOL will create greater consistency in the delivery of HR products and services across the Department; reduce overall HR costs; gain efficiency in HR service delivery through economies of scale; and improve efficiency and effectiveness of HR service delivery.
+The implementation of an effective shared services solution for HR service will permit DOL program agencies to focus time and resources on mission-oriented outcomes.
+Provide modern technology solutions that empower the DOL mission and serve the American public through collaboration and innovation.
+OASAM’s Office of the Chief Information Officer (OCIO) leads the Department’s IT modernization efforts, which include consolidating, integrating, and updating the IT infrastructure (e.g., DOL legacy systems and applications); building cloud-based and mobile capabilities; implementing a DOL-wide data strategy and analytics program; modernizing the Department’s High Value Assets (HVA); and enhancing the security of the IT infrastructure.
+The Department has a number of legacy mission applications and while significant progress has been made on enterprise level modernization, there is a need for additional resources and authorities to modernize these applications in a timely manner.
+The Department has inventoried and prioritized modernization of over 50 legacy systems but can only work on a few at a time due to available resources.
+The FY 2020 Budget includes requests for additional resources for mission application modernization and for increased flexibilities in the Working Capital Fund to address agency-specific modernization needs.
+All new applications will be hosted in OCIO’s Cloud environments.
+In FY 2018, OCIO issued a DOL IT Systems and Application data call to begin assessing and prioritizing modernization candidates across the Department.
+Some of those criteria include Secretarial priorities, HVAs, Legislative Mandates, Mission Critical Systems (i.e. Business Impact), etc.
+OCIO will reach out to DOL system owners and business process owners to discuss the appropriate funding strategies, system assessments, opportunities for modernizing and reengineering, and development of transition and sequencing plans.
+DOL has already completed several projects to modernize, secure, and consolidate IT.
+DOL was able to improve its Material Weakness on “Lack of Sufficient Information Technology General Controls over Key Financial Feeder Systems” to a Significant Deficiency in the FY 2017 Agency Financial Report (AFR) and remains a Significant Deficiency in the FY 2018 AFR.
+The control deficiencies occur in account management, configuration management, system audit log configuration and reviews, and patch management.
+To further enhance DOL’s security posture, OCIO now maintains a process to track separated users and has issued Access Controls/Identity and Authentication security controls assessment guidance.
+In FY 2018, OCIO implemented centralized access control and Identity and Access Management tools, to include required training of identified staff.
+The OIG also identified a Top Management and Performance Challenge on “Securing and Managing Information Systems,” identifying deficiencies in configuration management, contingency planning, third-party oversight, risk management, and continuous monitoring.
+The Department has worked to strengthen security operations by implementing tools for monitoring network traffic and conducting weekly scans for externalfacing systems.
+The Department also faces IT management challenges in the areas of maintaining its current systems, modernizing or replacing legacy systems, and moving additional systems into the Cloud.
+As with the entire IT industry, DOL faces the need to maintain an effective IT workforce, dealing with skills gaps as the Department upgrades to new technologies, and personnel shortages in the competitive IT security sector.
+In addition to these activities, the Department has made implementation of an enterprise shared services model for IT services an APG for FY 2018-19.
+Specifically, the Department seeks to implement an IT service delivery model that is consistent, efficient, and measurable.
+Development of an IT shared service model at DOL for IT services products and support will leverage economies of scale; ensure adherence to federal standards and requirements; solidify CIO oversight; and provide an enhanced customer experience.
+An empirically based IT shared services solution will allow DOL agencies and programs to operate more effectively and efficiently, and focus their resources on advancing the Department’s mission.
+Maximize DOL’s federal buying power through effective procurement management.
+Workload and skill set imbalances inherent in DOL’s decentralized procurement functions have led to delayed actions, inappropriate awards, and poor performance against government-wide benchmarks for procurement metrics.
+The percentage of contracts awarded competitively has decreased from 98 percent to 81 percent between FY 2013 and FY 2018, due in large part to the continued award of sole source Job Corps contracts.
+On the other hand, the Business Operations Center (BOC) has increased its percentage of contracts per quarter awarded within target timeframes from 91 percent in FY 2013 to 98 percent in FY 2018.
+The Department has made implementation of an enterprise shared services model for procurement services an APG for FY 2018-19.
+BOC seeks to transform DOL procurement by realigning the Department’s procurement functions to improve the efficiency, effectiveness, and accountability of procurement products and services.
+Implementing a shared services model for procurement services will facilitate enforcement of procurement legislation, regulations, and policies and improve the consistency of acquisition services.
+It is also expected to increase DOL’s buying power, leading to significant reductions in the price of goods or to receive better services at lower costs.
+Finally, realigning procurement services will help bring DOL into compliance with federal government best practices (e.g., category management and shared services).
+Safeguard fiscal integrity, and promote the effective and efficient use of resources.
+OCFO works closely with agencies with identified Significant Control Deficiencies and Material Weaknesses, including ETA, OWCP, and OASAM OCIO, and with agencies susceptible to improper payments.
+OCFO has worked with DOL agencies to manage and track corrective action plans in response to audit findings and strengthen internal controls.
+OCFO is also working on centralizing all routine, transactional accounting and financial management operations across the Department to achieve greater economies of scale and improved risk mitigation.
+To continually improve the efficiency and effectiveness of its programs, DOL uses results-based, data-driven management techniques.
+Each DOL agency prepares an annual Operating Plan that details the strategies and resources it will apply to reach goals and objectives at all levels of the organization.
+Departmental leaders review performance against those operating plans each quarter to monitor progress and hold agencies accountable for implementing the plans, achieving milestones, and making adjustments as needed.
+This review process has focused Departmental leadership on strategic management of core functions through the use of program performance and budget data.
+Identification and discussion of key measures; annual and seasonal targets; and how budgets, workload, and strategies affect results have helped clarify priorities and improve performance against benchmarks.
+The PMA sets out a long-term vision for effective and modern government capabilities, with a focus on mission, service, and stewardship.
+The Department is committed to implementing the applicable CAP Goals, as discussed throughout the document.
+DOL has five APGs that support Strategic Objectives and the Management Objective; each is identified in a text box on the first page of the relevant narrative section of this report.
+More information about each goal is available on Performance.gov.
+The GPRMA requires that federal agencies identify and address in their APPs Major Management Challenges (MMCs) – defined as programmatic or management functions that have greater vulnerability to waste, fraud, abuse, and mismanagement and where failure to perform well could seriously affect the ability of an agency or the federal government to achieve its mission or goals.
+MMCs may include issues the GAO identifies as high risk or Top Management and Performance Challenges for DOL identified by the Office of Inspector General (OIG).
+The Deputy Secretary is the accountable official for each of these challenges, which are described briefly below.
+As noted by OIG, the estimated improper payment rate for the Unemployment Insurance (UI) program remains above the 10 percent threshold set in the Improper Payment Elimination and Recovery Act, and fraud “continues to be a significant threat to the integrity of the UI program, as identity thieves and organized criminal groups have found ways to exploit program weaknesses.”
+OIG also recognizes the structural challenge of making timely benefits while ensuring claimants meet eligibility requirements each week.
+A payment may later be determined improper due to receipt of information that was not available at the time the payment was required to be made, or as a result of requirements that claimants be provided due process prior to stopping payment of benefits.”13 Yet another source of improper payments is the lag in data sources used by states to identify claimants collecting benefits after returning to work.
+To address the improper payment challenges in the UI program, the Department has a continuously evolving, comprehensive strategic plan in place to work with states that targets the largest root causes of UI improper payments.
+Currently, thirteen states are using the Suspicious Actor Repository (SAR) to actively cross-match weekly claims against known suspicious claims data, with 21 additional states in various stages of implementation.
+The SAR is the first component of a broader Integrity Data Hub that will serve as a secure portal for states to crossmatch with public and private sources of data, including new identify verification tools that will help prevent improper payments before they occur.
+In addition, the states have available targeted consultative services and business process analysis directly by UI subject matter experts to identify customized solutions to state specific root causes of improper payments.
+The UI program is also working with DOL’s Chief Evaluation Office to pilot and evaluate messaging tools using behavioral science techniques focused on improving claimant compliance with work search requirements to prevent improper payments.
+OIG also notes that “[T]he Department has been challenged to estimate the full extent of improper payments being made. The Department has excluded certain categories of compensation payments in its improper payment estimate for FECA [Federal Employees’ Compensation Act], but did not determine the full effect of those exclusions on its estimate. Further, the Department did not determine the effect of issues identified by fraud investigations, nor did it estimate the extent to which these issues existed in the payment population. The lack of a more comprehensive analysis of FECA improper payments hampered the Department’s ability to identify and prevent these payments.”
+The FECA program utilizes methodology for incorporating fraud into improper payment reporting consistent with federal guidance.
+In addition, the program continues to use data analytics to assist in detecting and monitoring inherent risk in claims, payments, and providers.
+Summary-level information about how DOL is addressing improper payments for both programs is in the OWCP Strategic Objective 3.1 and ETA Strategic Objective 3.2 sections of the Strategic Review Summary of Progress in this document.
+Additional information about measures and remediation efforts is available in the Improper Payments Reporting Details section of the FY 2018 AFR (https://www.dol.gov/sites/dolgov/files/OPA/reports/2018annualreport.pdf).
+As noted in the Strategic Review Summary of Progress under ETA Strategic Objective 1.1, OIG has also identified safety and security at Job Corps centers as a DOL Top Management and Performance Challenge.
+ETA has taken significant steps to increase security at Job Corps Centers including implementation of a revised, Zero-Tolerance Student Conduct Policy that established higher behavioral standards, clarified the meaning of infractions, and implemented a new structure for behavioral interventions in response to minor infractions.
+Job Corps has taken a strategic approach to risk management to identify centers with high levels of programmatic risk.
+Those factors include safety, student conduct, and zero tolerance.
+Job Corps executed announced and unannounced assessments of centers that resulted in a record number of contractual actions.
+Job Corps has established the Division of Regional Operations and Program Integrity to coordinate regional operations and activities.
+This new division functions to ensure consistency, strengthen quality assurance, and improve communication and coordination across the Job Corps system.
+In 2011, OIG cited numerous problems with Job Corps’ cost per student metrics.
+The technical performance incentive fee provision is designed to encourage high performance, as measured by achievement of student learning and employment goals.
+Job Corps, working with the Office of Contracts Management (OCM), is transitioning OA and CTS contracts from cost reimbursement to firm fixed price contracts, with the goal of generating cost savings and increasing contract expenditure certainty.
+As noted in the Strategic Review Summary of Progress under OASAM Strategic Objective M.2 and OCFO Strategic Objective M.4, OIG has identified information security and management as a DOL Top Management and Performance Challenge.
+This challenge is magnified by the presence of legacy information technology systems in DOL’s operating environment.
+These legacy systems represent an increased risk of hardware or software failures, complications from non-support for end-of-life products, and the lack of current security patches.
+Degradation of any of DOL’s mission-critical systems would imperil mission delivery, with potential impacts to worker safety, inviolability of sensitive economic data, or the confidentiality of citizens’ Personally Identifiable Information.
+Whether the negative impacts are man-made, as is the case with hackers of an unpatched legacy system, or simply the failure of unsupported, irreplaceable legacy system components, the risks are significant.
+Given the realities outlined above and taking full account of DOL’s business environment and resource constraints, DOL remains committed to its effort to address the highest-risk legacy systems by applying focused and purposeful attention to developing and implementing appropriate mitigation strategies.
+DOL OCIO, in partnership with all agencies, has developed a modernization plan for IT systems and applications.
+It has determined modernization sequencing and transition plans for DOL systems and applications based on prioritization criteria that include: years of operation, level of obsolescence and extent of end-of-life technologies, operational performance analysis, and overall operational and security risk assessment.
+IT and cybersecurity requirements, the DOL Cloud environment, and the common IT platforms, to ensure both security of infrastructure and information and increased performance and capability in mission and business systems and applications.
+DOL has established additional measures to focus on the ongoing performance and effectiveness of IT security operations.
+Implement various DOL enterprise-wide CDM tools aimed at reducing vulnerabilities and enhancing cyber defenses, and continue to integrate with the Federal Security Dashboard to pursue refining data quality.
+Complete Unified Communications (UC) deployment at FPB and at 18 field locations to enhance network security.
+In FY 2019, DOL OCIO will continue to modernize the actual network technology to improve information security.
+Implement Security Information and Event Management (SIEM) capability and other critical ESOC capabilities for enhanced monitoring and incident management and intrusion detection and prevention.
+Implement capabilities to detect and block unauthorized connections to the network through the IT asset management tool.
+Implement an enterprise Identity and Access Management solution for decentralized access control, which will include standardized PIV-based access to Department IT systems and applications, and provide Simplified Sign On (SSO) capabilities across the DOL enterprise.
+Beginning in FY 2018, under the direction of the Deputy Secretary, the Department began an aggressive approach to closing outstanding OIG recommendations, especially those older than two years.
+From March 2018 to September 2018, DOL agencies worked with OIG to close 64 recommendations.
+Further, each DOL agency has developed a plan to address additional open recommendations in FY 2019.
+The Chief Evaluation Office (CEO) in the Office of the Assistant Secretary for Policy works closely with agency staff to design, fund, and implement program evaluations.
+The results from evaluations inform policy and improve DOL’s performance-based management initiatives in support of the GPRMA.
+For more information see http://www.dol.gov/asp/evaluation/.
+Because this is primarily a planning document that uses historical information to inform future strategies and targets, it is organized around Departmental goals and measures for the budget year (FY 2020).
+However, DOL is obliged to report results for measures with PY 2017 or FY 2018 targets published in the FY 2017 APR but not included in this year’s plan.
+The following table lists these performance measures with their targets and results organized by Strategic Objective.
+Results are not provided for measures that were collecting baseline data and therefore did not have targets.

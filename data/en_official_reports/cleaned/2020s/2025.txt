@@ -1,0 +1,713 @@
+This document explains how the Department of Labor (DOL) improves the lives of America’s workers through the management of its agencies and programs.
+As required by the Government Performance and Results Modernization Act of 2010 (GPRMA), it provides information on actual performance and progress in achieving the four strategic goals, one management goal, ten strategic objectives, and twenty performance goals identified in the DOL FY 2022-2026 Strategic Plan.
+Outlined below is the basic structure of this document, which provides an overview of each Strategic Goal and Objective0F1 and each partner agency’s performance goal.
+DOL agencies with performance goals contributing to the objective are listed along with an FY 2024 performance summary chart and selected performance highlights.
+Each DOL partner agency section presents performance information supported by a table with applicable measures, targets, and results1F2.
+Where “baseline” appears in the target cell, no data were available for establishing a numerical target.
+Mission: To foster, promote, and develop the welfare of the wage earners, job seekers, and retirees of the United States; improve working conditions; advance opportunities for profitable employment; and assure work-related benefits and rights.
+Agency Priority Goals (APGs)2F3 identify near-term improvements in outcomes, customer service, or efficiencies that advance progress toward longer-term strategic goals and objectives.
+They are two-year goals that reflect the top performance improvement priorities of agency leadership and the Administration, and therefore do not reflect the full scope of the agency mission.
+Implementation and management of APGs require decisions about agency priorities, trade-offs, measurement, evidence, strategies, timing, and leadership that are reviewed at least quarterly to see that sufficient time, resources, and attention are allotted to addressing specific problems or opportunities related to the goal.
+Please note these APGs and any supporting activities will be reconsidered under the next Presidential Administration’s strategic planning process.
+DOL will demonstrate concrete and sustained progress toward outcomes in the advancement of diversity, equity, inclusion, and accessibility through key strategies and priority measures and milestones.
+2) reduce the estimated improper payment rate of unemployment benefits.
+The Department will also plan and offer new, innovative technical assistance and grants to strengthen Unemployment Insurance (UI) service delivery, fraud prevention, and equitable access.
+1.1 Advance training, employment, and return-towork opportunities that connect workers to higher-wage jobs, especially in ways that address systemic inequities.
+Create customer-focused workforce solutions that serve all workers, including underserved communities.
+Provide veterans, service members, and military spouses with resources and tools to gain and maintain employment.
+Formulate policies and initiatives to promote the interests of working women.
+Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+Advance training, employment, and return-to-work opportunities that connect workers to higher-wage jobs, especially in ways that address systemic inequities.
+The American economy must work for all workers.
+The Employment and Training Administration (ETA), the Veterans' Employment and Training Service (VETS), the Women’s Bureau (WB), and the Office of Disability Employment Policy (ODEP) oversee programs and develop policy as part of the nation’s public workforce system, providing support to workers and employers.
+Collectively, these agencies’ performance goals contribute to helping workers access quality jobs today and tomorrow, and to improving DOL’s agility to evolve in an ever-changing environment.
+The number of apprentices served by ETA in FY 2024.
+Satisfaction with the facilitation of core workshops by VETS.
+Targeted technical assistance events to facilitate adoption of policies and expand opportunities for individuals with disabilities by ODEP.
+Create customer-focused workforce solutions that serve all workers, including underserved communities.
+ETA works to increase the amount of work-based learning such as apprenticeships and on-the-job training to ensure that job skills best meet industry needs.
+In Program Year 2023, the Work-Based Learning (WBL) outcome improved by 1.3 percent from the previous year’s result of 46.6 percent to 47.9 percent.
+The Office of Workforce Investment (OWI) surpassed its target to increase the representation of vulnerable populations (Workforce Innovation and Opportunity Act (WIOA) Adult program priority populations).
+In Program Year (PY) 2023, 45 states reported at least 75 percent of their participants coming from these populations, exceeding the target of 44 states.
+While the percentage of participants attaining a credential within one year of exit slightly declined from the previous year to 52.8 percent in PY 20233F4, the result was driven by slightly lower results in Registered Apprenticeships (representing larger programs).
+Additionally, there were changes in the number of participants per program, resulting in fewer participants represented in programs with historically higher Credential Attainment rates, like WIOA Dislocated Worker.
+In PY 2023, the Employment Rate 2nd Quarter After Exit was 70.6 percent, a slight decrease from the previous year.
+This outcome appears to be the result of shifts in the number of participants served by each program.
+In PY 2023, programs that tend to serve harder to serve populations (e.g., Reentry Employment Opportunities) comprised a larger percentage of this measure’s denominator, while programs with historically higher employment rate outcomes served fewer participants (such as Trade Adjustment Assistance, which saw a roughly 50 percent decrease in its participants in this measure from 2022 to 2023, as the program tapers off).
+The Office of Apprenticeship (OA) surpassed its target by serving 948,166 apprentices in FY 2024.
+The Office of Foreign Labor Certification (OFLC) exceeded its target for percentage of complete H-2A employer applications resolved thirty (30) days before the date of need, finishing FY 2024 at 98.6 percent.
+This marks four consecutive years of continuous improvement.
+In FY 2024, ETA continued to adjust funding opportunity announcements (FOAs) to increase federal funding access for more organizations, reviewed grants data to understand the impact of changes, and worked with the Chief Evaluation Office to inform a third-party study on strategies agencies can pursue to make grantmaking more equitable.
+ETA conducted more outreach to potential applicants, offered extended open periods on several FOAs, and offered smaller planning grants, alongside larger grants, to scale impact and expand the number of organizations able to deliver services.
+In FY 2024, ETA also took several steps to continue to increase access to grant opportunities through several FOAs.
+Round 6 Funding Opportunity Announcement and awarded $48.9 million in grants across 18 states.
+These grants are designed to address the employment and training needs of the local workforce, in collaboration with community partners and aligned with existing economic and workforce development plans and strategies.
+Often awarded to community organizations without previous DOL grant experience, the WORC grants continue to create economic mobility and address historic inequities for underserved and underrepresented communities.
+In FY 2024, ETA continued to engage with stakeholders that represent underserved communities.
+Engagements included participation in stakeholder activities and events with Historically Black Colleges and Universities (HBCUs) and other minority-serving institutions, community-based organizations, and tribal representatives.
+In November 2024, DOL launched the HBCU Registered Apprenticeship Collaborative.
+The initiative brings together leaders from institutions of higher education, the private sector, community organizations, State Apprenticeship Agencies and the Office of Apprenticeship to work together to increase information sharing, collaboration, and partnership building across the HBCU network.
+The HBCU Registered Apprenticeship Collaborative will leverage the HBCU experience and expertise to develop career pathways in new industries and ensure equitable access to Registered Apprenticeship.
+ETA awarded almost $51 million in grants to improve job quality, expand access to good jobs in critical sectors and prepare workers for good-paying jobs being created by the Biden Administration’s Investing in America agenda.
+Funding from the second round of the Building Pathways to Infrastructure Jobs Grant Program and Critical Sectors Job Quality Grants Program supports 21 organizations serving 13 states and the District of Columbia.
+In addition to expanding access to grant opportunities, ETA worked to ensure that existing grants provide broad access to services.
+Yes, WIOA Can! is an initiative to pursue bold and innovative actions to strengthen and expand access to the public workforce system.
+This initiative elevates state and local workforce stakeholders’ innovative uses of WIOA funds to demonstrate the flexibilities that WIOA affords states and local areas.
+In FY 2024, ETA featured twelve examples of innovative uses, along with blogs, videos, and technical assistance to demonstrate how states and local areas have implemented new practices to expand workforce system access and promote job quality.
+In addition to showcasing these innovative strategies, ETA published several sets of guidance to highlight flexibilities within WIOA.
+U.S. employers requested more than 1.6 million worker positions through the FLC programs in FY 2024.
+Despite rising application levels across the FLC programs, the Department resolved 98.6 percent of complete H-2A employer applications at least thirty (30) days before the date of need, exceeding its target of 97.0 percent.
+Provide veterans, service members, and military spouses with resources and tools to gain and maintain employment.
+VETS tracks Jobs for Veterans State Grant (JVSG) and Homeless Veterans’ Reintegration Program (HVRP) employment outcomes through the median earnings in the second quarter after exit indicator.
+JVSG recipients are served by Disabled Veteran Outreach Program (DVOP) specialists who provide individualized career services to veterans with qualifying employment barriers, eligible transitioning service members, and wounded, ill, or injured service members and their caregivers.
+The JVSG PY 2023 result for median earnings in the second quarter after exit was $9,036.
+Since PY 2020, median wages have increased 30 percent.
+HVRP grant recipients provide a variety of services to serve the unique needs of veterans experiencing homelessness.
+The PY 2023 result for this measure in the HVRP was $8,840.
+Since PY 2020, median wages have increased 17 percent.
+Additionally, HVRP served 15,974 participants and placed 63 percent of program exiters into employment with an average hourly wage of $19.44 in PY 2023.
+The Uniformed Services Employment and Reemployment Rights Act (USERRA) investigations ensure each complaint is investigated appropriately in terms of quality and timely completion.
+In FY 2024, VETS continued to monitor and report on its current statutory requirement measuring the percentage of cases closed within 90 days or within an extension of time agreed to by the claimant, resulting in an outcome of 99.8 percent for the year.
+VETS offers a mandatory one-day Employment Fundamentals of Career Transition workshop, along with two elective courses.
+The agency reviews facilitator satisfaction survey results from the three core workshops.
+In FY 2024, the post-course survey result for facilitator satisfaction was 96.3 percent through the third quarter.
+Notes: The FY 2024 result for the facilitator satisfaction post-course survey measure is through the third quarter.
+The FY/PY 2023 Median Earnings (2nd quarter after exit) for veterans served by DVOP result does not include data from Wyoming due to reporting delays.
+Formulate policies and initiatives to promote the interests of working women.
+Through a combination of grants, programming, community engagement activities, communications products, and sustained participation in a variety of intra- and inter-agency equity initiatives, WB has led efforts to bring greater gender and racial equity to the workforce and the skilled trades.
+In FY 2024, WB allocated $8.65 million in grants to support women gaining access to infrastructure jobs and ensuring workplaces are free of gender-based violence and harassment.
+WB led the community-based component of DOL’s Investing in America strategy, providing technical assistance and capacity-building support to worker organizations, community-based organizations, elected officials, and other stakeholders to operationalize DOL’s Good Jobs Principles in cities across the U.S.
+In FY 2024, these efforts led to 548 strategic partnerships with organizations primarily serving underserved communities.
+In FY 2024, WB produced 67 policy and research deliverables focused on strengthening America’s care infrastructure, improving job quality, and expanding economic opportunities for traditionally vulnerable worker populations, including older women, justice-involved women, and migrant women workers.
+These included a year-long research project analyzing equity in paid family and medical leave programs and a new round of data collection for the National Database of Childcare Prices, the most comprehensive federal source of childcare prices at the county level.
+By addressing occupational segregation, pay equity, and barriers to employment, WB has lifted thousands of women, particularly women of color, out of poverty and opened pathways to higher-paying jobs.
+Develop evidence-based policies, practices, and tools to foster a more inclusive workforce to increase quality employment opportunities for individuals with disabilities.
+In FY 2024, ODEP continued its critical role in shaping inclusive workforce policies and practices that lead to more quality employment opportunities for people with disabilities.
+ODEP achieves its mission through a range of activities, which include policy guidance, stakeholder engagement, technical assistance, implementation tools, collaborations with state intermediaries, and through grants and contracts that provide direct support to people with disabilities and generate evidence on best practices.
+In FY 2024, ODEP produced 40 policy outputs, exceeding the target of 39, which include legislative recommendations, regulatory recommendations, formal policy guidance, and proposed policy directives.
+Additionally, ODEP developed 111 tools to provide educational or explanatory information to further the adoption of recommended practices.
+ODEP continued to engage stakeholders and enhance policymaker involvement in identifying state-level challenges and providing guidance that addresses their specific needs.
+ODEP held 311 targeted technical assistance (TA) events to facilitate disability employment policy adoption and expand opportunities for individuals with disabilities, exceeding the planned 294.
+ODEP tracks how often information provided through its technical assistance center is helpful, achieving a 92 percent satisfaction rate in FY 2024.
+ODEP also collaborated with state intermediaries to respond to disability employment policy requests through peer-to-peer exchanges, learning collaboratives, and communities of practice.
+To support competitive integrated employment (CIE) for individuals with mental health disabilities, ODEP produced valuable resources for states to align policies to promote CIE and supported employment, including for individuals with mental health conditions from underserved populations.
+In addition, ODEP provided ongoing assistance to National Provider Organizations (NPOs), helping them adopt policy frameworks for CIE and develop targeted work plans for implementation.
+To further boost participation in CIE, ODEP launched a new resource hub that consolidates guidance and best practices for individuals with disabilities, their families, providers, and employers.
+Finally, ODEP awarded the Equitable Transition Model grants to four states to enhance postsecondary outcomes for low-income youth with disabilities.
+2.1 Secure safe and healthful workplaces, particularly in high-risk industries.
+2.2 Protect Workers’ Rights.
+2.3 Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+2.4 Strengthen labor rights, improve working conditions, promote racial and gender equity, and empower workers around the world.
+Secure safe and healthful working conditions for America’s workers.
+Prevent fatalities, disease, and injury from mining, and secure safe and healthful working conditions for America’s miners.
+Secure safe and healthful workplaces, particularly in high-risk industries.
+All workers have a right to a safe and healthful work environment.
+The Occupational Safety and Health Administration (OSHA) and the Mine Safety and Health Administration (MSHA) aim to increase workplace safety by strategically scheduling inspections and outreach in high-risk areas, in addition to completing mandated enforcement activity.
+Secure safe and healthful working conditions for America’s workers.
+Embracing health and safety as a core value means fostering a culture that does not tolerate employers that disregard health and safety and whistleblower laws.
+In FY 2024, OSHA continued to improve in three key strategic areas including enforcement, training, and whistleblower protection.
+In FY 2024, OSHA conducted 34,696 inspections, exceeding the target.
+Of these, 28,249 were safety inspections and 6,447 were health inspections.
+Although OSHA did not meet its target for health inspections, this represents a one percent increase over the number of inspections conducted in FY 2023.
+In FY 2024, OSHA met its target of 34 percent of inspections conducted through emphasis programs specifically focused on reducing or eliminating employee exposure to fall, struck-by, caught-in, and electrical hazards in all workplaces.
+In FY 2024, OSHA also increased enforcement in two emphasis programs for health hazards, heat stress and respirable silica.
+Under the Heat National Emphasis Program (NEP), OSHA’s 2,875 inspections represented an increase of 15 percent over FY 2023.
+Agricultural employers utilizing seasonal, nonimmigrant laborers on H-2A visas were a focus of enforcement efforts, with the FY 2024 Heat NEP encompassing over 100 inspections of these employers.
+Under OSHA’s Silica NEP for FY 2024, the 1,028 inspections conducted exceeded the NEP’s annual goal by 43 percent.
+Part of this increase was due to OSHA’s prioritization of inspections targeting fabricators and installers of engineered stone countertops with high silica content.
+That effort resulted in over 230 additional inspections in those industry sectors this year—i.e., a total of 268 inspections with $3.86 million in initial penalties.
+Safety training is a critical piece of OSHA’s effort to prevent workplace fatalities, injuries, and illnesses.
+OSHA conducts training programs at the OSHA Training Institute (OTI) and administers the OTI Education Centers Program and the Outreach Training Program.
+OSHA also provides training through its compliance assistance efforts in support of agency regulatory, enforcement, and outreach initiatives.
+OSHA trained 1,537,039 people through OTI (excluding Harwood Grant trainees) and an additional 243,248 through compliance assistance efforts for a total 1,780,287 persons trained in FY 2024.
+This is a ten percent increase from the 1,619,892 trained in FY 2023.
+In FY 2024, OSHA improved its progress in clearing out the backlog of whistleblower complaints and reducing the average age of pending whistleblower investigations.
+In FY 2023, the average age of pending investigations was 199 days, which decreased to 187 days in FY 2024—38 percent below the FY 2024 target of 300 days.
+The average time to complete the screening process for new complaints was five days, surpassing the FY 2024 target of eight days by 38 percent.
+OSHA achieved an 18 percent reduction in the backlog of whistleblower complaints in FY 2024, exceeding the annual target of five percent.
+Prevent fatalities, disease, and injury from mining, and secure safe and healthful working conditions for America’s miners.
+In FY 2024, MSHA implemented several key programs intended to reduce injuries and fatalities.
+These include impact inspections, the “Stand Down to Save Lives” campaign, promotion of its Miner Safety & Health App, enforcement of a final rule on surface mobile equipment, and formation of a Fatal Accident Prevention Committee.
+On July 17, 2024, MSHA began enforcing the Surface Mobile Equipment Rule to reduce accidents involving mobile equipment.
+The rule requires operators to develop tailored safety programs with input from miners and their representatives.
+MSHA has already issued several citations under the rule and held stakeholder meetings in each district to ensure compliance.
+In FY 2024, the five-year rolling average of all injuries decreased six percent to 1.87, better than the target of 1.99.
+The five-year rolling average of reportable injuries associated with powered haulage equipment decreased six percent to 0.168, better than the target of 0.169.
+While falling short of the target of 0.0091, the five-year rolling average of fatal injuries decreased five percent from FY 2023 to 0.0125.
+MSHA published a final rule that will reduce overexposure to respirable crystalline silica, a known carcinogen, and a cause of illness and death among miners.
+Coal mine operators must comply with the final rule by April 14, 2025, and metal/nonmetal mine operators, by April 8, 2026.
+MSHA made available compliance assistance and miner education resources related to the final rule such as outreach materials, including Frequently Asked Questions, fact sheets on silica, respiratory protection, and medical surveillance.
+On March 6, 2024, MSHA unveiled an online platform to help miners and their families navigate the process of finding healthcare providers, facilities, and related resources.
+The “Health Resource Locator Tool” includes care options tailored specifically to miners, including National Institute for Occupational Safety and Health-certified B Readers, black lung clinics, buprenorphine providers, audiologists and speech-language pathologists, drug and alcohol treatment facilities, federally qualified health centers, mental health facilities, and Veterans Administration healthcare facilities.
+MSHA’s outreach focuses on ensuring miners are aware of their rights and that the agency “has their back.”
+This includes the right to request MSHA inspections for dangerous conditions, exercise Part 90 rights, receive Part 46 or Part 48 training, identify a miners’ representative to accompany inspections, file hazardous conditions complaints, and submit discrimination and retaliation complaints within 30 days.
+By the end of FY 2024, 71 participants were enrolled in the Part 90 program.
+Notes: MSHA’s fatality and injury rates reflect the number of fatalities or injuries per 200,000 hours worked during the prior five-year period.
+The FY 2024 results are estimates and subject to revision as additional data becomes available regarding the number of injuries and reportable hours.
+Enforce labor standards and ensure workers in the U.S. are paid the wages they have earned.
+Promote equitable and diverse workplaces for America’s federal contractor employees.
+Promote union financial integrity, transparency, and democracy.
+All workers have the right to be paid properly and treated equitably.
+The Wage and Hour Division (WHD), the Office of Federal Contract Compliance Programs (OFCCP), and the Office of Labor-Management Standards (OLMS) promote fair pay, worker rights, and equal opportunity, and serve as the voice of America’s workforce.
+These agencies enforce laws and provide compliance assistance that address worker pay and leave, equal rights, and labor-management transparency.
+Together, these agencies protect tens of millions of employees in millions of workplaces across the country.
+Enforce labor standards and ensure workers in the U.S. are paid the wages they have earned.
+In FY 2024, WHD carried out strategic initiatives guided by cross-cutting goals to address egregious, systemic forms of child labor, to provide protections for workers misclassified as independent contractors, to protect workers from retaliation and exploitation, and recover wages for all workers.
+These efforts were also guided by the overarching goals of advancing equity and building stakeholder partnerships in ways that strengthen outcomes for workers and improve industry compliance.
+Through this focus, WHD expanded outreach efforts to stakeholders working in historically underserved and marginalized communities.
+Strategic initiatives are carried out through evidence-based, worker-focused strategies in agriculture, food services, residential construction, health care, building services (e.g., janitorial, guard services, and landscaping), warehousing and transportation, and government contracts.
+In addition to its enforcement efforts, WHD educated employers, workers, and other stakeholders on a range of compliance topics, including workers’ rights, how to prevent violations, common violations, and industry best practices.
+Performance results in FY 2024 demonstrated the agency’s focus on carrying out impactful strategies through strategic initiatives.
+WHD conducted most compliance actions (77 percent) through strategic initiatives.
+Thirty-three percent (33 percent) of investigations under the Fair Labor Standards Act (FLSA) met or surpassed a threshold FLSA index score of 30 or more.
+The FLSA index captures the magnitude and egregiousness of violation findings, and since FY 2021, the percent of cases meeting or exceeding that threshold has increased by 83 percent (18 percent in FY 2021).
+WHD conducted more than 4,700 outreach events in FY 2024, with 92 percent of those events being designed to reach a larger audience and carried out as part of strategic initiatives.
+As a result, WHD engaged more than 609,000 participants through outreach events in FY 2024.
+In FY 2024, 80 percent of back wages due were paid to workers, falling below the targeted 85 percent due to challenges with employers and fund disbursement.
+Promote equitable and diverse workplaces for America’s federal contractor employees.
+In FY 2024, OFCCP continued its commitment to tackling long-standing employment practices that create barriers to opportunity and perpetuate inequality in our social and economic systems for underrepresented workers.
+By conducting compliance evaluations of contractors and addressing complaints, OFCCP works to address systemic barriers to employment opportunity in hiring, compensation, and promotion.
+OFCCP settled 33 discrimination cases totaling $12.1 million in monetary recoveries for 9,679 victims of discrimination and negotiated 407 job opportunities.
+The agency recovered an additional $10.4 million in salary adjustments for 3,077 affected class members during conciliation agreement monitoring, bringing the total FY 2024 monetary recoveries amount to $22.5 million for 12,756 affected individuals.
+OFCCP also hosted 553 education and outreach events focused on workers’ rights, roughly 65 percent of all outreach events hosted by OFCCP.
+Nearly 40,000 workers attended these events.
+OFCCP prioritizes the timely completion of compliance evaluations and has implemented several strategies to close cases more quickly and to more efficiently identify and prioritize cases involving systemic barriers to equal opportunity.
+However, cases that involve discrimination are complex and involve multiple parties to reach a resolution.
+OFCCP completed Supply and Service cases that involved discrimination in about 3.7 years (1,356 median days), which is above the target of 1,200 median days.
+OFCCP found discrimination in three percent of the 771 supply and service compliance evaluations completed in FY 2024.
+OFCCP rigorously investigates complaints alleging employment discrimination at federal contractor workplaces.
+In FY 2024, OFCCP received 2,384 complaints from workers, and 89 percent of closed complaints were processed within the standard timeframe of 15 days for data perfection and either 120 days (if there are no findings) or 180 days (if conciliation is required) for investigated complaints.
+In FY 2024, OFCCP implemented a pre-complaint inquiry process and updated its Information Technology (IT) system.
+These updates increased efficiency of the process by enabling complaint data to be directly uploaded, tracked, and reported through the system in real time.
+Promote union financial integrity, transparency, and democracy.
+In FY 2024, OLMS continued its commitment to strong unions and empowered workers, protections for organizing and collective bargaining, and worker equity through union representation and other means.
+OLMS continues to work on a regulatory action seeking to expand reporting of expenses made by an employer to persuade employees to reject unionization and collective bargaining.
+OLMS uses a risk-based audit targeting model to identify unions where criminal activity may be present by identifying anomalies in union financial reports and using other targeting strategies.
+For many years, the effectiveness of this methodology has been measured by the percent of audits resulting in the opening of a “fallout” criminal case.
+Improved targeting techniques are now ingrained throughout the agency.
+As a result, OLMS retired its fallout goal in FY 2023 and started a new compliance audit program goal in FY 2024.
+OLMS’ goal is to increase the resolution of violations uncovered through the Compliance Audit Program by obtaining voluntary compliance.
+This measure intends to increase interactions with the unions, improve customer relations, and reduce administrative time from unnecessarily opening and tracking violations under other programs.
+With a target of attaining a 73 percent resolution rate, through strong collaboration and compliance assistance provided during the audits, OLMS ended the fiscal year obtaining an 83 percent resolution rate of violations through voluntary compliance.
+Employers and labor relations consultants must report activities concerning agreements or arrangements to persuade employees concerning their rights to organize and bargain collectively or surveil employees or a labor organization in connection with a labor dispute involving the employer.
+In FY 2024, OLMS created a tip line for interested parties to report employers or labor relations consultants that are involved in persuader activity and should be filing.
+OLMS ramped up its efforts to publicize reporting requirements and the tip line and created an online portal to more efficiently receive and process tips regarding employer/consultant activities.
+OLMS received 116 tips, which secured 69 employer/consultant reports.
+In FY 2024, the average number of days to resolve union officer election complaints decreased 10 percent from FY 2023, a significant achievement, but fell just short of the target of 65 days.
+OLMS developed enforcement strategies to protect vulnerable workers, focusing on reducing ethnic and racial wage gaps by sharing insights on union benefits and fostering equity through private labor-management partnerships.
+OLMS also researched areas of high poverty with a high density of minority workers.
+OLMS assessed unionization levels, union activity, and anti-union activity in that area.
+If reports were owed but had not been filed, OLMS targeted investigations of those employers and consultants with the intent of providing additional information and transparency to marginalized and low-income employees.
+Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+Workers must be confident in their retirement and health benefit plans.
+The Employee Benefits Security Administration’s (EBSA) mission is to ensure the security of the retirement, health, and other workplace related benefits of America’s workers and their families.
+The agency’s enforcement program uses a wide variety of approaches to accomplish its mission, such as voluntary compliance programs, civil and criminal litigation, regulations and guidance, and research-based analysis.
+EBSA protects over 156 million American workers, retirees, and families covered by private retirement, health, and welfare benefit plans.
+Inquiries resolved by Benefits Advisors through EBSA’s participant assistance program.
+544.1M Recovered by Benefits Advisors for 71,692 participants.
+11,463 EBSA’s monetary recoveries per staff day spent on health cases.
+Improve the security of retirement, health, and other workplace-related benefits for America’s workers and their families.
+In FY 2024, EBSA completed priority rulemaking to protect the retirement savings of millions of workers.
+The agency made significant progress in implementing the SECURE 2.0 Act, which builds on the original SECURE Act of 2019 by introducing reforms aimed at increasing retirement savings, simplifying plan administration, and expanding access to workplace retirement plans.
+EBSA issued a proposed regulation to facilitate the transfer of retirement savings when changing jobs and provided guidance on emergency savings accounts linked to individual retirement plans.
+The agency submitted a report to Congress on pension risk transfers and offered enhanced performance benchmarks to help workers evaluate asset allocation funds.
+EBSA also conducted a tri-agency study to assess how effective current retirement plan reporting and disclosure requirements are under the Employee Retirement Income Security Act (ERISA) and the Internal Revenue Code.
+Additionally, the agency rolled out comprehensive disclosure requirements for participants considering lump-sum payments and educated them on the potential impacts of these choices.
+EBSA also increased its focus on protecting the interests of workers and their families in promised health benefits.
+Individuals under age 65 overwhelmingly receive their health benefits from the private employer-sponsored plans that EBSA regulates, and EBSA completed important regulatory projects aimed at enhancing their protections.
+For example, EBSA took the lead in issuing new regulations and reforms aimed at promoting parity in the provision of mental health benefits.
+The tri-agency regulations (Labor, HHS, and Treasury) are designed to ensure that claimants for mental health and substance use disorder benefits do not face special burdens and impediments when seeking promised benefits.
+Similarly, EBSA committed extensive resources to enforcing the rights of claimants to mental health benefits.
+For example, in FY 2024, experienced investigators dedicated nearly 16 percent of their available investigative time to addressing mental health non-qualified treatment limitation (NQTL) cases.
+Specifically, EBSA focused on issues that restrict access to mental health and substance use disorder (MH/SUD) care.
+EBSA worked directly with service providers to remove these limitations and expand coverage for patients requiring mental health or substance abuse care, positively impacting thousands of plans and participants.
+As a result, EBSA exceeded its FY 2024 target for health monetary recoveries per major case staff day by 18 percent.
+In FY 2024, EBSA recovered $741.9 million for participants and beneficiaries through enforcement actions.
+EBSA also obtained 324 non-monetary corrections in civil cases and recovered $44.3 million through its Voluntary Fiduciary Correction Program and $53.5 million through its Abandoned Plan Program.
+This result reflects EBSA’s emphasis on resolving cases as efficiently and thoroughly as possible despite existing resource constraints.
+EBSA has continued to reduce civil case openings overall due to competing priorities and reduced staffing.
+In FY 2024, EBSA did not meet its monetary recovery goals for major cases per staff day for Terminated Vested Participant Project (TVPP) or Pension and Non-Health Welfare.
+The agency anticipated this result, as after the agency reduced its targeting of new TVPP cases, issued compliance assistance documents to the public regarding missing participants, and continued to shift resources to categories of cases and activities that generate important results that are less readily quantifiable, such as health cases that eliminate illegal plan terms, increase access to mental health benefits, and comply with ERISA’s requirements, but do not result in large recoveries of retrospective relief.
+EBSA is developing new investigative techniques and trainings to enhance its investigative work in pension and health cases, and to ensure that investigators pursue new categories of cases.
+Developing these novel issues takes more time than when EBSA conducts investigations where they have a deep experience pool to rely on.
+EBSA is committed to delivering results while providing quality customer service through its participant assistance program.
+In FY 2024, Benefits Advisors resolved 194,094 inquiries and recovered $544.1 million for 71,692 participants.
+EBSA measures the quality of these interactions using independent polling customer satisfaction surveys and monitors live exchanges with the pubic to ensure accurate information is provided.
+In FY 2024, EBSA conducted 2,157 outreach events with a total audience of 33,157,514 individuals.
+Additionally, EBSA conducted 1,002 events, reaching over 29 million individuals living in underserved communities.
+Strengthen labor rights, improve working conditions, promote racial and gender equity, and empower workers around the world.
+The Bureau of International Labor Affairs (ILAB) safeguards dignity at work, both at home and abroad – by strengthening global labor standards, enforcing labor commitments among trading partners, promoting racial and gender equity, and combating international child labor, forced labor, and human trafficking.
+ILAB accomplishes this goal through trade enforcement, policy engagement, technical assistance, and research and reporting.
+In FY 2024, ILAB made significant progress in implementing the President’s Trade Agenda, through the publication of international policy documents reflecting U.S. labor interests and economic research products, as well as through advances in combatting child labor and forced labor, and efforts to promote equity.
+In cooperation with the United States Trade Representative, ILAB continued to have success implementing the labor provisions of the United State-Mexico-Canada Agreement (USMCA) in FY 2024.
+Potential violations to the USMCA agreement can be reported to DOL, and in FY 2024, DOL received 1,591 hotline tips and 190 tips through the 1-800 line, of which 106 resulted in investigations.
+ILAB reviews Rapid Response Labor Mechanism (RRM) petitions, which permits the U.S. Government to take expedited enforcement actions against individual factories that appear to be denying workers the right of freedom of association and collective bargaining (under Mexican law).
+In FY 2024, 14 RRM petitions resulted in remedial action, and two petitions went to a panel for decision.
+USMCA technical assistance funding expired on December 31, 2023, and the expiration of this funding will impact ILAB’s ability to implement future technical assistance in support of the USMCA.
+ILAB tracks the percentage of high-engagement trading partner countries or multilateral institutions that take actions to improve labor rights to understand how well those engagements are driving change.
+In FY 2024, 86 percent of these partners implemented actions to improve protection of labor rights, including through law or enforcement, which exceeded the target of 84 percent.
+Of the 37 highengagement trade partner countries that acted in FY 2024, 28 countries supported the elimination of child labor and forced labor, 15 countries supported freedom of association and collective bargaining, 21 countries supported the improvement of acceptable conditions of work, and 15 countries supported the elimination of discrimination in employment.
+ILAB contributed to the negotiation of new trade agreements, including labor commitments under the U.S.-Taiwan Initiative on 21st Century Trade, and began implementation of labor provisions under the recently concluded Indo-Pacific Economic Framework for Prosperity’s Supply Chain Agreement.
+In addition, ILAB systematically monitors and analyzes labor rights, including child and forced labor, in trade partner countries.
+In FY 2024, ILAB exceeded its target of 154 for this measure, having monitored and analyzed 156 trade partner countries.
+ILAB also develops economic research products to assess international labor issues.
+In FY 2024, ILAB exceeded the targeted number of research products (target 25; result 39) with products focused on labor market and trade topics in countries of high interest to ILAB.
+ILAB published a redesigned Trade and Development Act Report, which included nearly 1,900 suggested actions for countries to take to eliminate child labor.
+In addition, ILAB enhanced its Sweat & Toil smartphone app with new information on child labor and forced labor from ILAB’s reports and used anonymized metrics to identify how users are interacting with the app and improve user experience.
+Better Trade Tool to include enhanced search, updated data, and a new global data dashboard to highlight the risk of child labor and forced labor in global supply chains.
+ILAB continued working with expert consultants to disseminate research on promoting worker voice through policy interventions and technical assistance programs under the Multilateral Partnership for Organizing, Worker Empowerment, and Rights (M-POWER) initiative.
+In FY 2024, ILAB published the latest edition of the List of Goods Produced by Child or Forced Labor (TVPRA List), which included a record number of additions (72 products) and removals (four products).
+The TVPRA List also included 43 downstream goods produced with the use of child labor, forced labor, or both in the production of their inputs.
+In addition, ILAB published nine supply chain reports on its website, which focus on child labor and forced labor risks within supply chains in several sectors and countries, including fish in Thailand, sugarcane in the Dominican Republic, and tobacco in Malawi.
+Many of ILAB’s efforts are advanced through providing cooperative agreements, cost increases, and professional service contracts, which also provide an opportunity utilize an equity lens to increase reach to underserved communities and create new opportunities for small businesses.
+In FY 2024, ILAB incorporated an equity lens in 78 percent of these awards.
+Sources: Staff monitoring, enforcement, and engagement records, labor attaché records, grantee Technical Progress Reports, project monitoring and internal records, embassy reporting, administrative records and ILAB’s annual Trade and Development Act Report.
+3.1 Ensure timely and accurate income support when work is unavailable by strengthening benefits programs and program administration.
+Support states’ timely and accurate benefit payments for unemployed workers.
+America’s economy must have a strong safety net to support unemployed, injured, and ill workers.
+The Employment and Training Administration’s Unemployment Insurance programs focus on supporting unemployed workers and employers.
+The Office of Workers' Compensation Programs (OWCP) focuses on workers who were injured or became ill on the job.
+These programs leverage evidence-based strategies and strengthen the oversight of new and/or existing programs to accelerate delivery of benefits, reemployment, and return-to-work outcomes for workers.
+Rate of OWCP’s return-to-work outcomes for injured federal workers during the initial 45-day post-injury period for traumatic injuries.
+ETA’s American Rescue Plan Act projects completed to improve state UI programs.
+OWCP’s Black Lung pending decisions resolved by the end of the fiscal year, surpassing the 88 percent target.
+ETA’s UI transformation strategies completed or in-progress to strengthen UI operations.
+OWCP’s Energy Program sampled Part B and Part E initial claims rated as being accurate, exceeding the target of 91 percent.
+ETA’s reduction in the improper payment rate since FY 2022.
+Increase the efficiency and accuracy with which OWCP provides workers’ compensation benefits for certain qualified workers who are injured or become ill on the job and improve return-to-work outcomes for injured workers.
+OWCP provides workers’ compensation benefits for workers injured or ill on the job.
+OWCP implements four statutory federal workers’ compensation programs that provide monetary, medical, and return-to-work benefits for work-related injuries and illnesses including, but not limited to federal employees, coal mine workers, nuclear weapons workers, longshore and harbor workers, contractors serving overseas, and certain other designated employee groups.
+The agency adjudicates claims, administers the benefit funds authorized for these purposes, and provides oversight of claims resolutions by responsible parties.
+The Black Lung program exceeded the target of 88 percent for the measure, “Percent of Black Lung claims pending at the start of the fiscal year that are resolved by the end of the fiscal year,” by issuing decisions on 92 percent of claims pending at the beginning of the fiscal year.
+Additionally, the program built on performance over the past five years and completed Proposed Decision and Orders following completion of all claim development for all Responsible Operator Merit Claims within 23 days, exceeding the target of 30 days.
+In FY 2024, the Black Lung program made efforts to reduce improper payments by reviewing and analyzing medical bills, Do Not Pay matching, and routine audits.
+The Longshore program received 94.5 percent of First Reports of Injury for non-Defense Base Act cases within 20 days, exceeding the target of 93.0 percent.
+The program conducted outreach activities on the importance of timely filing and encouraged the use of electronic submissions.
+The Energy program continued to conduct quality assurance and supervisory sampling to review the quality of individual cases throughout the year and implemented corrective actions where appropriate.
+The quality assurance analysts also conducted the annual Payment Processing Review.
+In FY 2024, the program rated 96.85 percent of sampled Part B and Part E initial claims as being accurate, exceeding the target of 91 percent.
+The Federal Employees’ Compensation Act program continued to ensure that the workforce receives timely benefits through a modern and efficient workers’ compensation system.
+In FY 2024, the rate of return-to-work outcomes was 81.60 percent for injured federal workers during the initial 45-day postinjury period for traumatic injuries, exceeding the target of 70.51 percent and significantly improving upon the Government’s FY 2020 baseline performance.
+In FY 2024, OWCP continued to be a High-Impact Service Provider.
+The Energy program continued to submit quarterly reports, conducted an annual assessment, and developed an Action Plan and Customer Journey Map.
+Additionally, the program continued ongoing surveys and mailed three paper surveys to expand customer experience data collection.
+Sources: Integrated Federal Employee’s Compensation System, OWCP Workers’ Compensation System, Black Lung Program Automated Support Package, and Energy Compensation System.
+Support states’ timely and accurate benefit payments for unemployed workers.
+ETA’s work to improve the UI program as an Agency Priority Goal (APG), has succeeded in improving UI service delivery and fraud prevention.
+ETA made significant progress in the performance of the UI program in FY 2024 including a reduction in the Improper Payment Rate (IPR) from 14.83 percent in FY 2023 to 14.41 percent in FY 2024.
+Additionally, the timeliness of first payments improved from 69.10 percent in FY 2023 to 72.40 percent5F6 in FY 2024, and the lower authority appeals promptness improved from 33.4 percent in FY 2023 to 36.5 percent 6F7 in FY 2024.
+This overall progress reflects meaningful advancements in UI program performance.
+Throughout FY 2024, ETA continued to provide support to states as they accomplished significant progress on various projects funded by the American Rescue Plan Act (ARPA), with 49 of the 52 states receiving ARPA grants completing 152 projects, including integrity/fraud prevention projects, projects identified through Tiger Team engagements in 36 states, and 46 states completing at least one customer experience/equitable access improvement project.
+ETA also captured information from these activities to develop technical assistance resources, tool kits, and trainings to support the UI system overall.
+On April 5, 2024, ETA published a comprehensive UI transformation plan, Building Resilience, A Plan for Transforming the UI Program, which sets forth a vision to respond to the lessons of the pandemic and identifies 53 strategies to improve the UI program.
+ETA has completed 20 of the identified strategies and began work on another 21.
+The strategies focus on seven action areas: Adequately funding UI administration; Delivering high-quality customer service; Building resilient and responsive state IT systems; Bolstering state UI programs against fraud; Ensuring equitable access to robust benefits and services; Rebuilding and stabilizing the long-term funding of state UI benefits; and Strengthening reemployment and connections to suitable work.
+In July 2024, ETA announced the availability of Treasury’s Do Not Pay Data Sources to state UI agencies through the UI Integrity Data Hub to further support states in preventing and detecting improper payments and strengthening UI program integrity.
+By the end of FY 2024, fifteen states were live with the National ID Verification Offering, choosing to implement online identity verification (General Services Administration’s Login.gov) and/or in-person identity verification (U.S. Postal Service) to further strengthen their fraud prevention and detection efforts.
+In FY 2024, ETA published two training modules for states to address equitable access in the UI program: Equitable Access and Integrity (comprised of six lessons) and Equitable Access in Agency Processes (comprised of five lessons).
+These online training resources build on the FY 2023 Fundamentals of Equitable Access in UI training and were developed in partnership with the National Association of State Workforce Agencies.
+Both modules provide strategies and suggestions for how state agencies can improve UI integrity and agency operations through an emphasis on ensuring equitable access to benefits for all customers.
+In FY 2024, ETA awarded $378 million in Reemployment Services and Eligibility Assessment (RESEA) funding to 52 RESEA states and territories supporting evidence-based strategies and interventions to help UI claimants return to work.
+Additionally, in FY 2024, ETA gathered data to develop targets for the new RESEA reemployment performance measure.
+Sources: First Payment Timeliness: ETA 9050 report; Improper Payment Rate: Benefit Accuracy Measurement (BAM) survey; Lower Authority Appeals Promptness: ETA 9054 report; Reemployment Rate in the 2nd Quarter after Program Exit Quarter for RESEA Participants: WIOA Individual Performance Record Data.
+4.1 Provide timely, accurate, and relevant information on labor market activity, working conditions, price changes, and productivity in the U.S. economy.
+Provide timely, accurate, and relevant information on labor market activity, working conditions, price changes, and productivity in the U.S. economy.
+The Bureau of Labor Statistics (BLS) is the principal federal statistical agency responsible for measuring labor market activity, working conditions, price changes, and productivity in the economy.
+Its mission is to collect, analyze, and disseminate some of the nation’s most sensitive and important economic data to support public and private decision-making.
+Of Principal Federal Economic Indicators released on schedule.
+Of the time, the BLS public website was available for data dissemination.
+Average monthly page views on the BLS website.
+Provide timely, accurate, and relevant information on labor market activity, working conditions, price changes, and productivity in the U.S. economy.
+BLS produces various estimates and indexes, including the Consumer Price Index (CPI), which is the nation’s principal gauge of inflation, and the Employment Situation, which comprises the Current Employment Statistics (CES) and Current Population Survey (CPS).
+CES measures employment, hours, and earnings by industry and geography from the payroll records of employers.
+CPS, a monthly household survey, provides a comprehensive body of information on the employment and unemployment experience of the nation’s population, classified by age, sex, race, Hispanic ethnicity, and a variety of other characteristics.
+In FY 2024, BLS achieved its objectives of producing accurate and relevant data for its Principal Federal Economic Indicators (PFEIs), improving on the results from FY 2023.
+BLS also substantially achieved its objective of producing timely PFEIs by releasing 83 out of 84 releases on schedule, a result of 99 percent for FY 2024.
+On average, BLS publishes over 3.5 million series, indexes, and other data products across its programs annually.
+In FY 2024, BLS data series, along with other information on the website, were viewed on the BLS website nearly 16 million times on average per month.
+The BLS public website was available for data dissemination 100 percent of the time.
+BLS also strives to ensure that customers are satisfied with their ability to access material on the website.
+In FY 2024, BLS implemented the General Services Administration customer satisfaction measurement tool, Touchpoints, to the BLS website.
+BLS began collecting baseline data in April 2024 and will set targets for the Mission Achievement measure for the second half of FY 2025.
+Drive innovation in administrative, management, and financial services.
+M.2.
+Strengthen the Department’s commitment and capacity for evidence-based decision-making.
+Optimize the Department of Labor’s enterprise services.
+Promote fiscal integrity and the effective and efficient use of resources through innovation.
+Drive innovation in administrative, management, and financial services.
+Administration, management, and financial services are the backbone of DOL, providing the critical infrastructure required to support its core mission work.
+Ensuring these services are operating efficiently allows for more resources to go toward the programs that impact America’s workers.
+The Office of the Assistant Secretary for Administration and Management (OASAM) and the Office of the Chief Financial Officer (OCFO) are focusing on improving service delivery through modern, streamlined processes and IT infrastructure.
+DOL applications with Simplified Sign-On capability, exceeding the target of 180.
+DOL’s rating in five of the six Federal Information Technology Acquisition Reform Act (FITARA) Scorecard categories.
+Staff trained on the upgrading of the New Core Financial Management System (NCFMS).
+Optimize the Department of Labor’s enterprise services.
+In FY 2024, OASAM implemented the new Office of Field Operations (OFO) organization, which consolidated the six regional OASAM offices into one structure.
+This transformation was a critical step toward improving efficiency and better meeting the evolving needs of customers and stakeholders.
+This shift has resulted in significant cost savings, notable improvements in processes, and enhanced service delivery.
+OASAM’s Office of the Senior Procurement Executive (OSPE) manages procurement services for DOL, which enables the efficient and effective procurement of goods and services, resulting in reduced procurement time, reduced cost, best value, and improved quality of goods and services procured.
+OSPE continues to use its proven department-wide small business approach to meet and exceed its small business goals, which include contracts to small businesses, small-disadvantaged businesses, and small women-owned businesses.
+Many of these are minority-owned businesses.
+In FY 2024, DOL exceeded its small business goals.
+Historically, DOL’s spend across category management categories has been negatively affected by the high percentage of Job Corps spend relative to DOL’s total spend.
+Currently, there are no governmentwide Best-in-Class (BIC) vehicles available for Job Corps Center requirements, which negatively affected DOL’s ability to achieve its BIC goal.
+DOL fell just under the targeted percent of BIC spend with a result of 14.3 percent.
+In FY 2024, OSPE worked closely with the Office of Management and Budget (OMB) to successfully reclassify certain Job Corps contracts as Tier 1 Spend Under Management (SUM) contracts, which resulted in a significant increase in DOL’s SUM results for FY 2024 when compared to FY 2023.
+DOL exceeded its SUM goal of 65 percent with a result of 84.1 percent.
+Throughout FY 2024, OASAM’s Office of the Chief Information Officer (OCIO) continued proactive bandwidth utilization monitoring and circuit upgrades and continued to upgrade to newer Metro Ethernet technology.
+OCIO is tasked with ensuring maximum network availability and exceeded its target of 99.9 percent with a result of 99.97 percent scheduled network availability.
+In FY 2024, DOL improved its score and is one of 13 agencies to receive an overall ‘A’ on the Federal Information Technology Acquisition Reform Act (FITARA) Scorecard, with a score of 18.0.
+DOL received an ‘A’ rating in five of the six FITARA categories.
+OCIO has continued to prioritize cybersecurity and proactively identified improvements to DOL’s cybersecurity framework.
+OCIO exceeded the target sending all Open Plan of Action and Milestones (POA&Ms) reports timely, and meeting the planned finish date for all POA&Ms.
+In FY 2024, OCIO continued legacy information systems modernizations, which included enhanced cybersecurity consistent with Executive Order 14028, and Simplified Sign-On (SSO) capabilities.
+As of the end of FY 2024, OCIO has 203 DOL applications with SSO capability, exceeding the target of 180 by 13 percent.
+In FY 2024, the Centralized Office of Language Assistance (COLA) continued supporting DOL agencies as they developed agency-specific language access plans aimed to promote equitable access to their activities, programs, and services to individuals with limited English proficiency (LEP).
+Promote fiscal integrity and the effective and efficient use of resources through innovation.
+OCFO is responsible for oversight of all financial management activities in the Department and supports overall departmental management through effective and efficient stewardship of DOL’s financial resources.
+Additionally, OCFO provides comprehensive direction to all DOL program agencies on financial matters arising from legislative and regulatory mandates.
+OCFO leads DOL through an annual audit in which DOL’s programs, accomplishments, challenges, and management’s accountability for the resources entrusted to DOL are summarized in the Agency Financial Report.
+OCFO tracks the number of material weaknesses 19 identified through the annual audit after the conclusion of the fiscal year.
+In FY 2024, there was one material weaknesses identified during the FY 2024 audit.
+OCFO is working to address the finding.
+OCFO oversees DOL’s financial system.
+To further facilitate fiscal integrity and efficient use of resources through innovation in FY 2024, OCFO offered six SkillSpark sessions to share best practices and provide resources to the financial community at DOL.
+These training sessions provided tips, tools, and insights into critical financial functions within DOL that can be applied to daily tasks for financial staff across DOL.
+Over 600 people attended these trainings in FY 2024.
+Additionally, DOL prioritized the data encryption requirements which ensured that New Core Financial Management System data-at-rest and data-in-transit is properly encrypted with appropriate, approved versions of encryption algorithms.
+These three efforts have helped NCFMS to continue providing decision makers with accurate and reliable information and allowed OCFO to continue to process payments in a timely manner.
+OCFO exceeded the target of percentage of payments made without incurring prompt payment interest with a result of 99.77 percent.
+OCFO provides DOL’s managers and decision makers with the financial management tools to drive high performance and accountability and to responsibly manage financial resources.
+A measure of spending efficiency is the percent of discretionary appropriations cancelled after the five years period of obligation authority has expired.
+OCFO works with agencies to reduce the amount of their cancelled appropriations.
+Once cancelled, these funds are no longer available for obligation or expenditure and are returned to the U.S. Department of Treasury.
+In FY 2024, DOL returned 1.66 percent of discretionary appropriations Treasury, below the target of 1.80 percent.
+Integrate risk-based decisionmaking to enhance the Department’s operations.
+Invest in strategic and evidencebased decision-making, policy and regulatory development.
+Strengthen the Department’s commitment and capacity for evidence-based decision-making.
+Decisions should be based on evidence – especially those that affect the employment, safety and health, and retirement and benefits security of America’s workers.
+The Office of the Assistant Secretary for Administration and Management (OASAM), the Office of the Chief Financial Officer (OCFO), and the Office of the Assistant Secretary for Policy (OASP) take significant steps to make evidence-based decision making a part of the culture by improving the integration of budget and performance with evaluation and risk management.
+A strong culture of evidence-based decision-making is creating improved policies and programs that support and protect America’s workers.
+Departmental Budget Center's customers rated their satisfaction of the budget formulation and execution services a 4.3 out of 5.
+Integrate budget and performance with evaluation and risk management to improve decisionmaking.
+OASAM’s Departmental Budget Center (DBC) provides DOL with leadership, direction, policy advice, and technical assistance concerning budget formulation, justification, and apportionment of funds.
+DBC gauges the success of the budget formulation and execution services it provides by collecting a customer satisfaction score.
+In FY 2024, DBC exceeded its targeted score of 4, with a result of 4.3.
+The survey helped DBC identify strengths and areas of improvement within its work products and procedures.
+As a result of agency feedback to the survey, DBC began an ongoing and iterative process to write budget formulation and execution guidance using plain language.
+In addition, DBC continued to offer training sessions and office hours to better assist agencies with their understanding of budget guidance and its requirements.
+OASAM’s Performance Management Center (PMC) issues requirements and provides support to DOL agencies as they develop their annual Agency Management Plans (AMP).
+PMC measures the success of these services through a survey, asking DOL agencies whether they believe their AMP is effective for their agency’s strategic planning and budget execution.
+In FY 2024, 81.58 percent of agencies responded that the AMP is effective.
+The survey collected additional agency feedback which PMC used to design updates and adjust future operational planning requirements and the services it provides.
+Integrate risk-based decision-making to enhance the Department’s operations.
+OCFO and OASAM convened a workgroup (the Enterprise Risk Management Council) as part of a larger effort to better integrate enterprise risk management, performance management, budget, and evaluation into the strategic decision-making process.
+The workgroup ensures that the Budget, Strategic Plan, AMPs, Risk Profile, and Evaluations all inform one another.
+All four offices review AMPs, which map out an agency’s actions and priorities over the upcoming year.
+Through integration of budget, evidence, and key risks into DOL internal management plans, DOL agencies develop and execute strategies and activities to achieve their mission and management priorities and develop priority- and evidence-driven budget requests.
+Additionally, DOL’s OCFO integrates Enterprise Risk Management into agency operations planning, performance management, and budget processes to make strategic, risk-based decisions to make DOL more resilient, effective, and efficient.
+Involving risk-based decisionmaking in the strategic planning, organizational performance management, and budget processes enables DOL to better allocate scarce resources to address the highest priority risks, enhance performance, drive efficiencies, and promote cost savings.
+In FY 2024, 100 percent of DOL agencies reported (via survey response) that ERM practices better inform strategic and operational decision-making.
+Invest in strategic and evidence-based decision-making, policy, and regulatory development.
+DOL’s Office of the Assistant Secretary for Policy (OASP) plays a crucial role in helping design and execute evidence-based strategies across the Department by conducting new policy-relevant evaluations and research for agencies and Department leadership.
+Through this work, OASP’s Chief Evaluation Office (CEO) builds a base of evidence and data for further policy development/refinement and program administration.
+To educate DOL leadership and staff on findings, OASP provides regulatory and evaluation briefings.
+OASP exceeded the targeted number of quarterly briefings provided in FY 2024 by conducting eight regulatory and six evaluation briefings.
+One key briefing, provided to DOL leadership and state workforce agencies/practitioners, presented early findings on community outreach activities that grantees used to support equity in access to Unemployment Insurance benefits.
+DOL understands the importance of making its high-value data more accessible to federal programs, staff, stakeholders, entrepreneurs, researchers, policy makers and the public.
+To support this goal, OASP leveraged Technology Modernization Fund funding to build a modernized Application Programming Interface (API), model open data service, and consolidated data portal that makes DOL’s public and private data more findable and accessible.
+OASP’s Office of Data Governance (ODG) created and published DOL’s first enterprise Open Data Plan, establishing an enterprise approach to how DOL shares data with the public.
+DOL’s new API and open data service significantly improves the way in which the public accesses and obtains data on program outcomes, participants, and actions.
+ODG led efforts to create standardized and predictable data documentation for all public data in the API and launched a critical assessment of enterprise data management maturity that will objectively inform organizational, technological, and programmatic improvement efforts.
+DOL is committed to fostering an environment that values innovation, inclusivity, and excellence.
+The DOL’s success in carrying out its mission is attributed to the dedication, perseverance, and ingenuity of the DOL’s workforce.
+The Office of the Assistant Secretary for Administration and Management (OASAM) provides support through initiatives that empower employees and enhance operation efficiency to ensure the organization continues to be a model workplace.
+OASAM’s Office of Human Resources (OHR) provides best-in-class Human Resources services by working with DOL agencies as partners.
+OHR is leading DOL’s efforts through strategic agency engagement and recruitment planning to rebuild its workforce and support the Administration’s plans to rebuild the American economy.
+OHR is building long-term capacity to support DOL’s recruitment and hiring through the development of strategic partnerships that will enable DOL to better reach diverse and inclusive talent pools.
+OHR reported an average of 79 business days to hire a new employee, meeting the FY 2024 target.
+DOL continued to push forward Diversity, Equity, Inclusion, and Accessibility (DEIA) initiatives to advance the strategic goals.
+In FY 2024, OHR held Lived Experience trainings for DOL Agency Administrative Officers and hiring managers with over 1,100 personnel trained through these programs.
+Additionally, OASAM conducted annual recruitment and hiring consultations with each DOL agency, resulting in comprehensive reports that identify needs and share best practices to improve recruitment efforts.
+OASAM created six additional “I am DOL” agency recruitment and outreach videos for DOL agencies and a video to highlight employees with disabilities hired through Schedule A.
+To further promote inclusion within DOL, the Civil Rights Center (CRC) provides training and technical assistance to employees, managers, and supervisors to prevent discrimination and harassment.
+In FY 2024, CRC led the revision and publication of three important internal directives on civil rights requirements.
+CRC developed the new Department of Labor Manual Series chapter on Language Access designed to implement standards for effectively engaging with persons with limited English proficiency across DOL agencies.
+In FY 2024, CRC issued 100 percent of final agency decisions on formal Equal Employment Opportunity (EEO) complaints within regulatory timeframes, significantly exceeding the target.
+Other significant achievements for the Department include successful submission of reports, such as Federal Equal Opportunity Recruitment Program (FEORP), Management Directive (MD) 715, and Barrier Analysis.
+The Department leveraged these reports to identify strategies for addressing disparities within the organization.
+OASAM effectively managed the DOL Student Volunteer Program, placing 109 student volunteers in FY 2024.
+OASAM played a leadership role in managing the Southeast Hiring Initiative, exceeding its FY 2024 target and coordinating university events and outreach sessions.
+OASAM relaunched the Disability Census initiative, collecting accurate data to support employees with disabilities, and led the first DEIA Summit, providing 10 interactive workshops to DOL employees.
+DOL’s Mental Health Initiative led efforts to promote mental health awareness and well-being within the organization and organized 30 training sessions for employees and managers/supervisors to address topics of interest identified in previous employee surveys.
+DOL also promoted mental health resources, targeting various underrepresented groups and raised awareness about domestic violence, sexual assault, and stalking.
+Additionally, DOL created an action plan to support the President's Executive Order on Diversity, Equity, Inclusion, and Accessibility.
+DOL partnered with Office Senior Procurement Executive to launch Suicide Gatekeeper Training and developed a Veterans Worklife Resources page to support military families.
+OASAM implemented a reorganization to create a unified center for reasonable accommodation, a critical mechanism that DOL utilizes to improve the work experience for DOL personnel, and interpreting services to improve and streamline DOL’s reasonable accommodation process.
+Notably, OASAM baselined the average number of calendar days for a reasonable accommodation request to be successfully deployed and processed with a result of 48 calendar days in FY 2024.
+The Security Center (SC) is engaged in the implementation efforts of the Trusted Workforce 2.0 initiative to transition DOL from the legacy periodic reinvestigations to an ongoing investigative program using the Government’s Continuous Vetting and FBI Rap Back programs.
+These programs have improved prescreening determinations and will allow Personnel Security to receive real-time criminal history data on DOL personnel and assess for possible intervention or assistance.
+In FY 2024, SC significantly exceeded the target for the average number of days to adjudicate a background investigation for suitability (3 days) and met the target for the average number of days to adjudicate a background for investigation national security (15 days).
+To continually improve the efficiency and effectiveness of its programs, DOL uses results-based, data-driven management techniques.
+Each DOL agency prepares an Agency Management Plan that details the strategies and resources it will apply to reach goals and objectives at all levels of the organization.
+Departmental leaders review performance against those plans each quarter to monitor progress and hold agencies accountable for implementing the plans, achieving milestones, and adjusting as needed.
+This review process has focused departmental leadership on strategic management of core functions using program performance data, risk assessments, evaluations, and budgets.
+Identification and discussion of key measures, annual and quarterly targets, and how budgets, workload, and strategies affect results have helped clarify priorities and improve performance.
+The CEO in OASP leads DOL’s evaluation agenda, working closely with agency staff to implement program evaluations to answer key questions.
+The results from evaluations inform policy and improve DOL’s performance-based management initiatives in support of the GPRMA.
+Further, as described in DOL’s Evidence-Building Plan for Fiscal Years 2022-2026, CEO coordinates key evidence-building activities (as per the Foundations for Evidence-Based Policymaking Act of 2018, Public Law No. 115-435).
+For more information, see http://www.dol.gov/asp/evaluation/.
+Under GPRMA, performance goals, measures, and targets are identified for reporting purposes in the Congressional Budget Justification issued during that fiscal year.
+Therefore, DOL is obliged to report results for measures with PY 2023 or FY 2024 targets in its FY 2023 Annual Performance Report, which was published as part of the FY 2025 CBJ in March 2024 (www.dol.gov/dol/budget/).
+The table below provides this information for performance measures that have since been revised, replaced, or discontinued.
+Results are not provided for measures that were collecting baseline data.
+The U.S. Department of the Interior (Interior or the Department) protects and manages the Nation’s natural resources and cultural heritage, provides scientific and other information about those resources, and honors its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated Island Communities.
+As the steward of one fifth of the Nation’s land the U.S. Department of the Interior fills several critical roles.
+Manage Parks, Refuges and Public Lands: Interior manages 433 units of the national park system, 573 national wildlife refuges, 71 fish hatcheries, and one historic fish hatchery, as well as 25 national conservation areas and similarly designated areas, and 30 national monuments in BLM’s national conservation lands.
+Annually, more than 565 million visits are made to these sites.
+In total, Interior manages more than 480 million acres, or about 20 percent of the land area of the United States; more than 700 million acres of subsurface minerals; and more than 760 million acres of submerged land in five national monuments.
+The Department also has jurisdiction over nearly 3.2 billion acres of the Outer Continental Shelf.
+Manage Water and Energy Capacity: Interior manages lands, subsurface rights, and offshore areas that produce approximately 18 percent of the Nation’s energy, including 14 percent of natural gas, 27 percent of oil, and 43 percent of coal.
+Federal lands also host projects that account for a significant portion of the Nation’s renewable energy-generating capacity, including 14 percent of hydropower, one percent of wind power, 66 percent of geothermal energy, and 8 percent of solar energy.
+The Department is the largest supplier and manager of water in the 17 Western States.
+Reclamation manages 490 dams and 294 reservoirs that deliver water to more than 31 million people and one out of every five Western farmers, irrigating 10 million acres of farmland.
+Conservation and Environmental Restoration: The Department also plays a critical role in the reclamation of high-priority abandoned coal mine sites through OSMRE’s Abandoned Mine Lands program.
+FWS protects 2,389 endangered and threatened species, 1,391 of which are in the United States.
+Supporting Tribal Sovereignty and Managing Trust Obligations: The Department provides services to American Indians and Alaska Natives from the 574 federally recognized Tribes in the 48 contiguous States and Alaska.
+BIE provides education services to approximately 45,000 students in 23 States attending 183 elementary and secondary schools and dormitories and supports 33 BIEfunded community colleges, universities, and postsecondary schools.
+There are 101 BIA-funded corrections programs and 191 bureau and Tribal law enforcement programs.
+Additionally, Interior has responsibility for the largest land trust in the world.
+Today, the Indian trust encompasses approximately 56 million surface acres and 59 million acres of subsurface mineral estates.
+On these lands, Interior manages more than 127,000 leases for uses such as farming, grazing, and oil and gas production on behalf of individual Indians and Tribes.
+BTFA manages approximately $8.8 billion of trust funds held in about 4,200 Tribal accounts and about 411,000 open Individual Indian Monies accounts.
+Supporting scientific monitoring and data: Interior provides unbiased, multidisciplinary science for use in understanding, mapping, and managing natural resources and hazards.
+Data are available to the public from more than 11,800 stream gauges and more than 4,000 earthquake sensors.
+Interior is also responsible for operating three Earth observation satellites: the Landsat 7, 8, and 9 missions.
+The USGS has provided Landsat data products from its archives at no cost since 2008.
+In 2024, the USGS distributed more than 99 million remotely sensed data products with more than 17 billion data deliveries via the commercial cloud.
+The Fiscal Year (FY) 2024 Annual Performance Report (APR) is aligned with the Interior FY 2022-2026 Strategic Plan.
+This APR highlights the strategies, performance goals, and performance measures the Department uses to assess performance.
+It provides to the public an overview of progress towards achieving strategic goals and objectives and demonstrates Interior’s commitment to using performance data to better deliver on Interior’s mission.
+This report demonstrates progress towards program outcomes and mission delivery.
+It was prepared in compliance with the requirements of the Government Performance and Results Modernization Act (GPRAMA) of 2010, (P.L. 111-352).
+Manage our land, water, and resources for the benefit of all Americans, both today and tomorrow.
+The U.S. Department of the Interior protects and manages the Nation’s natural resources and cultural heritage; provides scientific and other information about those resources; and honors its trust responsibilities or special commitments to American Indians, Alaska Natives, Native Hawaiians, and affiliated insular communities.
+The success of the Department in achieving its mission outcomes is predicated on several guiding principles that reflect tenets of the Biden-Harris Administration and Secretary Haaland.
+We use science and evidence-based information to guide our decisions.
+We balance our decisions to best meet the needs of today and tomorrow.
+We value diversity and inclusion in our activities, operations, and services.
+We manage and achieve through meaningful collaboration, engagement, and partnerships.
+Leading the missions of the Department are the Secretary of the Interior, the Deputy Secretary, and six Assistant Secretaries.
+Supporting them and implementing program responsibilities and operational activities are Interior’s bureaus and offices.
+Each Departmental organization has specialized responsibilities and the expertise to identify, enable, and pursue the goals and objectives set forth in this plan.
+The Office of Inspector General’s (OIG) Statement Summarizing the Major Management and Performance Challenges Facing the U.S. Department of the Interior, Fiscal Year 2024 identifies the Department’s major management challenges and findings.
+The OIG’s risk-based, tiered approach to providing independent oversight is instrumental to achieving improved outcomes for the Department’s programs and operations.
+Interior manages significant funding using contracts, grants, and cooperative agreements.
+According to USAspending.gov, the Department awarded $8.1 billion in contracts and approximately $12.4 billion in financial assistance totaling $20.5 billion in FY 2024 (through August 30, 2024).
+The FY 2024 OIG work identified substantial risks regarding grants oversight and the OIG said Interior will continue to face challenges managing its contracts and grants to prevent fraud, waste, and mismanagement.
+Grant and contracting improvements support outcomes across all strategic goals.
+According to Interior’s Agency Financial Report 2023, deferred maintenance was estimated at $32.8 billion for FY 2023, an increase of $2.7 billion from FY 2022.
+Interior has seen a two-fold increase in reporting of its deferred maintenance since FY 2015, which GAO attributes to factors such as funding constraints, labor and material cost increases, the size and age of agencies’ real property portfolios, as well as construction supply chain issues and inflation, which raised costs and delayed projects.
+The Great American Outdoors Act National Parks and Public Land Legacy Restoration Fund (GAOA LRF) directs up to $8.1 billion over five years to address the Department’s priority deferred maintenance and repair (DM&R) activities.
+GAOA has funded 326 projects across 50 States and multiple U.S. territories to address an estimated $5.1 billion in deferred maintenance and repairs.
+For FY 2025, the Department proposed 83 GAOA projects to address deferred maintenance.
+The OIG’s oversight work found that the Department and its bureaus face challenges accurately and reliably estimating the cost of deferred maintenance.
+Interior is in the process of implementing a new condition assessment process that would enable it to assess the condition of its assets in a timelier fashion than traditional condition assessments.
+As the steward for America’s public lands, the Department manages critical infrastructure that it describes as essential to protect natural resources, support American jobs, and provide water to the Western United States.
+The Infrastructure Investment and Jobs Act/Bipartisan Infrastructure Law (BIL) enacted in 2021 addresses aging infrastructure among other Administration priorities.
+The Department also received funds from the Inflation Reduction Act (IRA), which is focused on similar programs including water infrastructure and drought mitigation.
+Since the passage of the BIL in November 2021, the Department reported that it has invested more than $11 billion in over 2,060 projects Nationwide; hired more than 450 staff across bureaus and offices to implement new programming; and hosted meetings to hear directly from States, Tribes, and local communities to determine where funding is needed most.
+Per the OIG, the Department of the Interior continues to face challenges in ensuring it can promptly deploy BIL funding, maintain staffing and resource capacity, produce reliable information, and establish appropriate program controls.
+In FY 2025, Interior will continue to expend BIL and IRA resources to promote new jobs and advance local economies.
+It will also address longstanding health and safety risks from abandoned coal mines and orphaned oil and gas wells; advance clean energy development and carbon reduction efforts; accelerate the completion of Indian water rights settlements; and strengthen the resilience of critical ecosystems, Tribal Nations, and communities in the face of unprecedented risks from extreme weather events, devastating drought, and threats of wildfires.
+Cybersecurity continues to be a high-risk area for Federal agencies, including Interior.
+The Department relies on complex, interconnected information systems to carry out its daily operations and spent about $2 billion in FY 2024 on its portfolio of IT assets, according to the Federal IT Portfolio Dashboard.
+OIG audits have described ongoing challenges in implementing an enterprise cybersecurity program that balances compliance, cost, and risk while enabling bureaus to meet their diverse missions.
+Additionally, the FY 2023 annual independent Federal Information Security Modernization Act audit issued by the OIG identified necessary improvements and made 29 recommendations intended to strengthen the Department’s information security program as well as those of the bureaus and offices.
+Interior relies on a wide variety of data to perform its mission, and the quality and accuracy of this data substantially affects how the Department accomplishes its mission.
+In its FY 2022–2026 Strategic Plan, the Interior acknowledged the importance of reliable data and reliable information to the development and improvement of sound programs and equitable program delivery.
+The OIG continues to identify data reliability issues across a variety of Departmental programs.
+Without complete, timely, and accurate data, Interior will continue to face challenges in fostering accountability and accomplishing its mission efficiently.
+The Department is the steward of Federal energy resources that provide 30 percent of the United States’ domestically produced energy—including oil, gas, coal, hydropower, and renewable energy.
+The Department continues to face challenges in managing complex energy operations, including collecting revenues; overseeing leasing; and ensuring that development is safe, efficient, and sustainable.
+As the country’s largest wholesale water supplier, the BOR maintains 490 dams and operates 294 reservoirs with a total storage capacity of 140 million acre-feet.
+It provides 140,000 western farmers—1 out of every 5—with irrigation water for 10 million farmland acres that produce 60 percent of the Nation’s vegetables and one quarter of its fresh fruit and nut crops.
+In addition to the BIL funding received, the BOR received an additional $4 billion in funding through the Inflation Reduction Act for drought mitigation in the West, with priority given to Colorado River Basin activities, including compensation for reduction in water diversions and funding for system conservation projects and ecosystem restoration to address drought.
+The OIG reported that even though drought conditions have improved since April 2023, the Department faces challenges in managing the delivery of water, protection of fish and wildlife habitat, and the generation of hydroelectric power.
+Interior’s FY 2022–2026 Strategic Plan sets forth its policy to fulfill its legal obligations to identify, protect, and conserve Tribal trust resources; carry out its trust relationship with Tribal Nations; and engage in robust, interactive, pre-decisional, informative, and transparent consultation on a Government-to-Government basis through all bureaus and offices on plans or actions that affect Tribal interests.
+The Department’s Assistant Secretary for Indian Affairs—including the BIA, BIE, BTFA, and the Office of the Assistant Secretary for Indian Affairs—is responsible for carrying out Interior’s trust responsibilities, which include enhancing quality of life and promoting economic opportunity upholding Tribal sovereignty and providing quality education opportunities in accordance with Tribes’ needs for cultural and economic wellbeing.
+Wildfires can have devastating effects on local communities, public resources, ecosystems, life, and personal property.
+According to the most recent figures available from the National Interagency Fire Center, more than 56,000 wildfires burned around 2.7 million acres in the United States during 2023; 18 percent of these fires burned 1.5 million acres of Federal land, representing 54 percent of total acres burned.
+In 2024, Interior fire suppression costs totaled more than $739 million.
+Continuing trends in the size and severity of wildfires, and the increasing length of fire season continue to pose challenges for maintaining and recruiting a firefighting workforce, managing ecosystems to reduce fuels, and responding to wildfires.
+A recent GAO report identified seven barriers to recruitment and retention: (1) low pay, (2) career advancement challenges, (3) poor work-life balance, (4) mental health challenges, (5) remote or expensive duty stations, (6) limited workforce diversity, and (7) hiring process challenges.
+In addition to previous increases to firefighters’ pay, the Department has taken several steps to address workforce challenges including implementing a new occupational series for Federal wildland firefighters intended to identify, define, and provide for their unique duties and responsibilities and foster more standardized career trajectories and specified occupational paths.
+Interior reported that it is developing a joint Federal Wildland Firefighter Health and Wellbeing Program with the U.S. Department of Agriculture.
+The OIG believes that Interior is likely to continue to face increased costs associated with responding to wildfire activity, which is exacerbated by abnormally dense vegetation, increased development in or near wildlands, drought, and other climate stressors.
+The Department’s total FY 2025 budget request for the wildland fire management program is $1.6 billion, which includes increases for firefighter pay, enhancing support for firefighter health and wellbeing, expand firefighting capacity, and providing increased housing for wildland fire personnel, as well as other wildfire funding increases beyond workforce reforms.
+Interior’s law enforcement and public safety responsibilities include protecting natural and cultural resources; working with Tribes; managing special events and providing crowd control in areas where multiple agencies must coordinate; and ensuring the safety of employees, volunteers, and visitors on public lands.
+Among executive branch departments, Interior has the fourth largest law enforcement component, totaling approximately 3,400 law enforcement officers across the Department.
+Much of the OIG’s work pertaining to law enforcement in recent years has focused on use-of-force issues and public trust in law enforcement, including a report on the Department’s taser policies and oversight.
+The OIG found that Interior had not finalized its taser policy (at that time), and its interim policy did not address the actions supervisors must take after receiving an incident report on a taser deployment.
+According to the U.S. Government’s Fifth National Climate Assessment, due to climate change, extreme weather events such as heatwaves, heavier rainfall, intense hurricanes, and wildfires, have become more frequent and severe.
+These events expose Federal real property assets—including office buildings, levees, roads, and bridges—to physical damage that can require substantial resources to repair or rebuild.
+There were 28 weather and climate disasters in 2023, surpassing the previous record of 22 in 2020, tallying a price tag of at least $92.9 billion.
+Interior has taken steps to address the challenges related to its climate change response.
+In June 2024, the Department released its updated Climate Adaptation Plan, which includes a risk assessment that uses historical data and future projections to measure Interior’s exposure to the impacts of climate change.
+It also includes an implementation plan that describes how the Department will build on recent actions to address climate hazards in the years to come.
+The U.S. Government Accountability Office (GAO) provides Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information that can be used to improve government and save taxpayers billions of dollars.
+GAO’s work is done at the request of congressiona committees or subcommittees or is statutorily required by public laws or committee reports, per congressional protocols.
+GAO maintains a High-Risk List, updated at the start of each new Congress, of programs and operations that are vulnerable to waste, fraud, abuse, or mismanagement, or in need of transformation.
+The Department is actively working to address the recommendations in the five identified high risk areas and make improvements to better achieve the Interior mission.
+Interior’s FY 2022-2026 Strategic Plan identifies strategic goals and strategic objectives that align with the priorities of the Biden-Harris Administration and Secretary Haaland to tackle the climate crisis; promote diversity, equity, inclusion, and accessibility; advance environmental justice; support tribal and Native communities; and support a strong outdoor recreation economy.
+The priorities are cross-cutting and support Interior’s achievement of the outcomes in the plan.
+Interior’s FY 2022-2026 Strategic Plan outlines the vision, strategic goals, and strategic objectives of the Department that reflect Administration priorities.
+Many performance goals established in this plan focus on the outcomes that go beyond traditional reporting to better demonstrate the impact of Interior's work.
+Annually, the Department reflects on these measures in the Annual Performance Plan and Report where we detail the measures and the progress being made towards established targets.
+The FY 2022–2026 Strategic Plan established performance measures that track progress and outcomes in Interior’s goals and objectives.
+The Department met 67 percent of the targets set for the fiscal year shown in the preliminary results for FY 2024.
+Of the 95 performance measures, only 63 had targets reported; 42 measures met or exceeded their targets, 21 did not meet their targets, 16 had not set targets for 2024 and 16 were unreported at the time of publication.
+Interior was able to meet a high level of performance through efforts that included increased coordination between tribes and the Department, executing sound program and project management, and through availability of grants and funding that support outcomes.
+In 2024, every Strategic Goal performed better than FY 2023.
+Goal 1 improved from 60% in FY 2023 to 71% in FY 2024; Goal 2 improved from 47% of targets being met to 53% in FY 2024; Goal 3 and Goal 4 also improved from FY 2023 percentages to 80% and 75%, respectively.
+There are many reasons why performance measures in FY 2024 did not meet the targets and these range from staffing and hiring issues, policy changes during the year, level of demand for permitting, to construction and contracting issues and delays.
+The performance results of FY 2024 will inform future planning to ensure that Interior can make better progress on the goals and objectives to deliver results for the American people.
+In FY 2024, the Department designated strategic objectives 1.1, 2.1 and 3.3 as focus areas for evidencebuilding.
+Through the use of evidence, we anticipate additional progress in these three focus areas in coming years.
+Performance results are available in Interior’s Annual Performance Plan and Reports on the Interior performance website.
+The FY 2024 Annual Performance Report (APR) is the Department’s performance report of the previous fiscal year.
+The plan translates the priorities, goals, and objectives of the Biden-Harris Administration and Secretary Haaland from the FY 2022-2026 Strategic Plan into performance goals and measures that can be assessed on an annual basis.
+The document is organized by the strategic goals and strategic objectives in the Strategic Plan.
+1. Identification and description of the strategic objective.
+Progress Summary – Highlights of accomplishments that support progress on the strategic objective.
+Performance goals – Customer-focused outcome goals that identify how the public benefits from Interior efforts.
+Performance Measures – Measurements of progress toward the performance goal.
+Performance measure targets are set based on requested funding levels in the budget justifications, anticipation of successful execution of strategic actions, and treatment of any enterprise risks to the strategic goals, strategic objectives, or performance goals.
+Baseline - As new measures are being developed, initial data is gathered to better target the measure’s attainment in the future.
+This is often noted with ‘Baseline’ in a cell.
+Occasionally this takes more than one year.
+N/A – Some targets are not available due to the need to baseline, or the timing of data collection.
+This will be noted with an N/A in a cell and may have an associated footnote explaining further.
+The report includes numbering throughout which help you identify the portion of the Strategic Plan it ties to.
+Performance measure number will be the last digit in the sequence.
+One of the primary goals of the Department is to champion equity and justice for Tribes, American Indians, Alaska Natives, Native Hawaiians, and insular communities.
+The scope of the Department’s responsibilities includes fulfilling fiduciary trust responsibilities, supporting tribal self-governance and self-determination, and strengthening the government-to-government relationship between the Federa Government and tribal nations.
+Interior hosts consultations with Tribal Nations to honor our nation-tonation relationship, engage directly with tribal leaders as we work to address health, economic, racial justice, and climate crises, and commit ourselves to a process that addresses tribal needs and ensures we respect and take input to heart.
+Additionally, the Department provides educational services to approximately 45,000 students in 23 states through 169 elementary, secondary schools and 14 dormitories, and supports 33 tribal colleges, universities, technical colleges, and post-secondary schools.
+Moreover, the Department also offers technical assistance through partnerships with Native Hawaiian and insular communities to efficiently and effectively secure and manage federal funds through planning and program activities.
+Title: Tribal and Native Hawaiian Community Consultations In FY 2024, the Bureau of Safety and Environmental Enforcement conducted both formal and informal consultations with federally recognized American Indian Tribes, as well as engagements with the Native Hawaiian Community.
+These efforts furthered government-to-government and government-to-sovereign relationships and played a critical role in informing the Bureau’s decisionmaking processes.
+Topics included oil and gas decommissioning, offshore wind, environmental justice, and more.
+As a result of the consultations and engagements undertaken, input received from Tribes, ANCSA Corporations, and the Native Hawaiian Community directly informed environmental analysis for oil and gas decommissioning activities; BSEE’s Environmental Justice Strategy and Action Plan; and the drafting of the carbon sequestration rulemaking.
+These consultations and engagements exemplify BSEE’s commitment to Tribal engagement and ensuring the voices of Indigenous Communities are heard in the decision-making process.
+Built stronger government-to-government relationships with federally recognized tribal governments and engaged in opportunities that promote self-governance and selfdetermination through meaningful consultations and shared technical expertise with tribal communities.
+O Technical assistance was provided to Tribes managing projects under P.L. 100-297 and P.L. 93-638, underscoring a commitment to supporting Tribal sovereignty in project oversight and implementation.
+Reduced the time required to process land into trust applications.
+Piloted the National Native Relations Training to help develop cultural competencies with Tribes and build trust and respect through culture and knowledge sharing.
+This place-based training model will help Regional Native American Liaisons develop training tailored to the specific cultures of local Tribes across the country.
+Implemented multiple co-stewardship and co-management agreements with Tribes to care for lands within the National Wildlife Refuge System.
+Achieved a 54.72% clearance rate for violent crimes, surpassing the target of 52.52%, reflecting progress in addressing public safety concerns in Tribal communities.
+Maintained roads in acceptable conditions and helped people have safe and healthy housing.
+However, the Department did not reach its goal for connecting homes to potable water systems as we focused on improving electricity access.
+The Department anticipates being able to extend water systems in the next fiscal year.
+Pre-consultation meetings under the Bipartisan Infrastructure Law (BIL) facilitated Tribal input into road maintenance program reforms.
+These consultations reflect a commitment to collaborative policy development.
+O Increased Office of Justice Services staffing by 15 positions in FY 2024, bringing the total to 749.
+Enhanced staffing levels ensure Federal resources align effectively with Tribal safety priorities.
+Increased support for insular community health activities.
+Increased support for native Hawaiian trust responsibilities such as preventing the extinction of native birds, improving climate resilience, repatriating iwi kūpuna (ancestral human remains), and safeguarding native cultural items.
+Supported Tribal communities in restoring and revitalizing their traditional languages, thereby preserving the essence of their cultural identities and sovereignty.
+Increased number of participants and earnings gained through the jobs training program, though performance did not meet anticipated targets.
+Invested in economic development for insular communities.
+Trained native peoples and supported communities in developing financial literacy, capacitybuilding, self-determination, and economic well-being.
+Targeted Outreach to Tribal Communities.
+Expanded recruitment efforts for Native American students, promoting culturally relevant education and career pathways despite staffing and budgetary constraints.
+Provided resources to support career opportunities in underserved communities, aligning with Tribal needs and priorities.
+Increased the percentage of students who graduate high school in 4 years.
+Increased the percentage and number of students who are in schools that are in acceptable conditions.
+Professional Development Data.
+Tracked over 30 hours of in-person teacher training per school, contributing to a repository of actionable data on educator needs and progress.
+Data-Driven Improvements in Education Infrastructure.
+Conducted IT infrastructure assessments for Bureau Operated Schools (BOS), producing data essential for quality control and planning.
+Identified gaps in student information system (SIS) integration, highlighting critical areas for federal collaboration to enhance education data management.
+Interior is a steward of more than 480 million acres of public lands, accounting for approximately 20 percent of the nation’s land mass, over 700 million acres of subsurface minerals, and nearly 3.2 billion acres of the Outer Continental Shelf.
+Interior ensures that America’s natural heritage, the natural land and water resources of the United States, is managed for the benefit, use, and enjoyment of current and future generations.
+In the face of climate change and other stressors, the Department uses the best available science, evidence-based natural resource management techniques, technology, engineering, and partnerships and alliances to guide stewardship of public lands and waters.
+Title: Integrating Evidence with Priority Land Use Planning Efforts (BLM, SO 2.2) In FY 2024, the Bureau of Land Management’s Assessment, Inventory, and Monitoring (AIM) program staff worked with priority land use planning efforts within BLM to apply available ecological evidence to the decision-making process.
+At least four priority land use planning efforts utilized AIM’s data related to the health of upland rangelands (terrestrial), as well rivers and streams (lotic).
+Multiple interagency groups worked with AIM data and AIM-powered remote sensing data to produce new insights about western U.S. ecosystems.
+Finally, planning efforts that utilized AIM data, including Grand-Staircase-Escalante and Gunnison Sage Grouse, were used as case studies to inform BLM staff how future resource management planning efforts can benefit from AIM program evidence.
+Supported the conservation or restoration of 91,425 acres of wetland and associated upland habitats for waterfowl, shorebirds, and other birds in 17 states.
+Prioritized evidence in conservation decision-making, including for international species and for pollinators.
+Maintained or slightly increased the number of bird, horse and burro, and fish species that are at healthy and sustainable levels.
+Increased the area with intact native plant communities.
+There have been some minor delays in seed collections.
+Crews are still collecting seeds and should be well over 1,500 soon.
+Maintained final recovery plans for threatened and endangered species, as well as recovery activities to support these species.
+There were challenges in determining critical habitat for some species, which reduced the number of proposed rules completed.
+Exceeded the goal for controlling target invasive plant species with the inclusion of additional resources and treatment approaches being more effective than planned.
+There were challenges in controlling animal species that resulted in missing planned targets.
+Implemented multiple co-stewardship and co-management agreements with Tribes to care for lands within the National Wildlife Refuge System.
+Satisfaction with the recreational opportunities provided by the Department are very high.
+Many people were given opportunities to directly engage in making America’s lands, waters, and infrastructure climate adaptive and sustainable.
+As the manager of one-fifth of the nation's land, mineral, and energy resources, as well as 3.2 billion acres of the OCS, the Department plays a crucial role in meeting America's energy needs and guiding the nation towards a cleaner energy future.
+Interior manages a comprehensive energy strategy that includes the exploration and development of oil, natural gas, geothermal, hydroelectric, solar, and wind power resources.
+Projects on lands and waters managed by Interior are not only generating the energy needed to power our homes, vehicles, and businesses, but also creating jobs and providing an average annual revenue of over $10 billion that supports the economies of federal, state, local, and Tribal communities.
+The Realtime Opportunity for Development Environmental Observations (RODEO) study collects direct, real-time evidence related to the construction and initial operations of selected offshore wind facilities.
+In FY 2024, the RODEO project collected extensive evidence, focused on marine sound measurements, at several offshore wind facilities.
+The project also conducted underwater noise monitoring during construction of the first two commercial offshore wind farms on the federal outer continental shelf.
+Evidence collected led to several reports and presentations, and lessons learned have guided the monitoring strategy for subsequent sites.
+Improved the timeliness of plan reviews significantly exceeding the target.
+This occurred even as the number of renewable projects grew 10 times from FY 2023 to FY 2024.
+Increased the approved capacity for low-cost energy from public lands and also made significant progress on assessing the potential for geothermal energy in the Great Basin.
+Conducted proactive inspections and testing that identified hydropower components in critical condition, and many have now been repaired or replaced.
+Additional repair plans are being developed as part of the Department’s regular maintenance schedule that focuses on mitigating risk.
+The next assessment should show significant improvements.
+Exceeded water conservation capacity due to additional Congressional investments that supported additional projects in collaboration with state, local, and tribal governments that allowed water users to decrease water diversions and increase efficiency, operational flexibility and achieving a more sustainable water supply.
+Two of three offshore sand and gravel requests were approved on time.
+One of the requests has been delayed and Interior is working with the applicant on a remedy.
+Continued to make progress in geologic, geophysical and geochemical mapping and sharing data about the nation’s geologic framework, especially for critical mineral resources.
+Provided new types of water information in user-friendly formats, such as real-time camerabased imagery, which will help communities at risk prepare for and respond to water hazards.
+Interior is also working with local communities to improve the water quality of streams so that they can be safely used by more people.
+Trust and confidence are cornerstones of the Department’s unique and expansive mission.
+This mission includes a geographically distributed workforce, a vast set of management responsibilities, and diverse customers and partners with varying needs and responsibilities.
+The American people have entrusted Interior with the sustained use of critical natural resources, the preservation of our most iconic places, and the science to ensure robust decision making.
+All these responsibilities require assurance and fairness at the highest levels.
+In FY 2024, the Reclamation Information Sharing Environment (RISE) – a publicly accessible data portal for accessing Reclamation’s water management, hydropower, biological monitoring, water quality, and infrastructure/asset related data – transitioned to Google Analytics 4 to learn which data are most commonly accessed to better understand what users are most interested in.
+Other data collected included information on number of site users and the types of devices users are using to access the website.
+Insights gained have been, and will continue to, help identify high value data sets, additional data for publication, and areas of the RISE website to be enhanced or modified.
+Succeded in making departmental data more findable, accessible, interoperable, and reusable (FAIR).
+Made updated information on natural hazards such as earthquakes, volcano hazards, coastal change, and landslides available to the public, though not all areas were able to reach their target performance levels.
+Made new mapping products available to the public and people who need a broader topographic view of landscapes for recreation, land management, and emergency response.
+Expanding the number of service corps training opportunities through the Indian Youth Service Corps Program to include the Bureau of Indian Affairs, the National Park Service, the US Fish and Wildlife Service and the Bureau of Reclamation.
+Significant expansion of pre-apprenticeship programs, including the NPS Traditional Trades Advancement Program and Landscape Stewardship Conservation Corps Program, and the US Fish and Wildlife Service Maintenance and Infrastructure Fellows Program to increase equitable access to skill-building opportunities.
+Robust outreach and engagement to facilitate $82 million investment for planning, design and construction of domestic water supply projects to support disadvantaged communities or households lacking access to reliable domestic water supplies in Indian Country and 17 western states.
+Increased utilization of special hiring authorities for student youth hiring, direct hiring, and veteran hiring.
+Maintained a consistent retention rate across the workforce.
+Exceeding the goal of 85% of water infrastructure facilities in acceptable condition by 11% maintaining 325 out of 337 water facilities are in acceptable condition.
+Tested continuity / contingency plans for IT systems so that digital resources are safe and resilient.
+Over $492 million in awards for fiscal year 2024 to address dangerous and polluting abandoned mine lands, create good-paying, family-sustaining jobs and catalyze economic opportunity in coal communities.
+The single largest grant investment ever from the Land and Water Conservation Fund’s Outdoor Recreation Legacy Partnership Program (ORLP), investing $254.68 million into 54 projects in 24 states for the redevelopment or creation of new local parks.
+The GPRA Modernization Act of 2010 established the need for agencies to identify performance goals, report progress against targets, and conduct data-driven reviews.
+These practices serve two key purposes within and outside of the organization: (1) to assess the organization’s health and impact; and (2) to inform decision making, resource allocation, and strategy.
+The Department will complete annual portfolio reviews and provide quarterly priority goal reviews to continuously learn and improve as we advance our outcomes in the Department’s strategic plan.
+Along with periodic reviews, Interior assesses the past year’s performance and sets targets for the next fiscal year.
+The results of these reviews are published in the Interior Annual Performance Plan and Report and published on the Interior performance management website.
+Means used to verify and validate measured values: All performance data reported in the APP&R and on http://www.performance.gov/ by the Department is subject to the data verification and validation standards (see https://www.doi.gov/performance/data-validation-and-verification).
+Implementing organization heads or chief officials confirm in writing the validity of the data and present the data on a quarterly basis to the Deputy Secretary.
+Sources for the data: Program managers provide performance data based on their observations that can include extrapolations of selected representative samples or history adjusted for estimates of changing conditions.
+The data is tracked and maintained in separate systems.
+Following review by the providing bureau or office, data is collected, reviewed, integrated, and maintained by the Department’s Office of Planning and Performance Management (PPP) in its APP&R available through the Department’s Budget and Performance Portal (www.doi.gov/performance), and www.performance.gov.
+Level of accuracy required for the intended use of the data: Performance data reported in the APP&R and on http://www.performance.gov/ is used for management purposes, as a representative indicator of progress in relation to a target or goal established by the corresponding implementing organization.
+Limitations to the data at the required level of accuracy: Performance data is subject to potential errors from the use of estimations and extrapolations (especially where direct measurement is impractical and/or too costly), individual observation, miscommunication, and/or failure to effectively employ the guidance described in the performance measure template or the “Indicator” description in http://www.performance.gov/.
+However, based on multiple review levels and accuracy certifications, these limitations are not significant.
+How the agency has compensated for such limitations if needed, to reach the required level of accuracy: The measurement procedures for each performance measure used in the APP&R are described and documented in data measurement templates posted on the Office of Management and Budget (OMB) MAX website, or described in the “Indicator” block for each APG on http://www.performance.gov/.
+Along with the implementing organization’s official assurance of faithfully employing the data verification and validation standards, submitted data are reviewed within the context of the scope and nature of the activity, plans, and experience to help confirm accuracy.
+Following review and verification by the submitting bureau or office, the data is reviewed again by PPP to determine if further consultation with the data provider is necessary to adjust or correct the reported data before publication.
+Senior management and leadership consider this leve of accuracy to be acceptable for their use of the data.
+Experience in using the data, historical trend and programmatic context assessments, and bureau data quality certifications indicate that the limitations are considered minor and compensating measures are not considered necessary.
+In addition to employing the Department’s data validation and verification standards, and internal reviews of submitted data, the best “test” of the data’s accuracy is in its use.
+APG updates are reviewed during quarterly status reviews where senior officials report their data directly to the Deputy Secretary and are made publicly available through http://www.performance.gov/.
+Performance information is provided with historical, organizational, and supporting context to provide the reader with a fuller perspective of the data and is reviewed annually at the strategic objective level.
+This Fiscal Year 2024 Annual Performance Report was prepared and published by the Office of Planning and Performance Management.

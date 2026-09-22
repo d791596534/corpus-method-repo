@@ -1,0 +1,983 @@
+The Department accomplishes its mission through component agencies and offices that administer various statutes and programs.
+These programs are carried out through a network of regional offices and smaller field, district, and area offices, as well as through grantees and contractors.
+The largest program agencies, each headed by an Assistant Secretary, Commissioner, or Director, are the Employment and Training Administration (ETA), Employment Standards Administration (ESA), Occupational Safety and Health Administration (OSHA), Mine Safety and Health Administration (MSHA), Veterans’ Employment and Training Service (VETS), Employee Benefits Security Administration (EBSA), Pension Benefit Guaranty Corporation (PBGC)1, and Bureau of Labor Statistics (BLS).
+The following organization chart and table describing major activities include the most significant offices of the Department.
+The Secretary’s Message is a letter from the chief executive that highlights the Department’s achievements for the year and communicates direction and priorities.
+Management’s Discussion and Analysis (MD&A) introduces the Department’s mission, vision, organization, and activities; summarizes program and financial performance, including Program Assessment Rating Tool reviews and compliance with relevant financial management legislation; addresses top management challenges such as those identified annually by the Office of Inspector General (OIG); and reports on DOL’s implementation of the President’s Management Agenda.
+The Performance Section presents program results and costs and includes assessments of progress achieving performance goals presented in the Department’s Strategic Plan and Performance Budget.
+The Financial Section demonstrates our commitment to effective stewardship over Federal funds.
+It includes a letter from the Chief Financial Officer, the Independent Auditors’ Report (an independent opinion on the Consolidated Financial Statements) and the Annual Financial Statements.
+Two other sections at the end of the report supplement the performance and financial sections: Other Accompanying Information provides additional information on improper payments reduction and Appendices include a list of acronyms and a list of Web sites featuring labor programs and issues.
+Fiscal Year (FY) 2008 marks the 10th year that the Department has reported program results under the Government Performance and Results Act (GPRA).
+Most DOL program level goals and indicators for this reporting period are included in the FY 2009 Performance Budget Overview2; they provide the basis for assessments of DOL’s effectiveness.
+Goal 1 – A Prepared Workforce: Develop a prepared workforce by providing effective training and support services to new and incumbent workers and supplying high quality information on the economy and labor market.
+Goal 2 – A Competitive Workforce: Meet the competitive labor demands of the worldwide economy by enhancing the effectiveness and efficiency of the workforce development and regulatory systems that assist workers and employers in meeting the challenges of global competition.
+Goal 3 – Safe and Secure Workplaces: Promote workplaces that are safe, healthful and fair; guarantee workers receive the wages due them; foster equal opportunity in employment; and protect veterans employment and reemployment rights.
+Goal 4 – Strengthened Economic Protections: Protect and strengthen worker economic security through effective and efficient provision of unemployment insurance and workers’ compensation; ensuring union transparency; and securing pension and health benefits.
+Each strategic goal is supported by several performance goals that are aligned with DOL’s organization and appropriations to provide clarity of purpose and accountability at the program level.
+This report includes 24 performance goals.
+The following table indicates FY 2008 program performance goal achievement by strategic goal.
+Seven of the 24 performance goals are for forward funded Workforce Investment Act (WIA) programs whose spending and performance are reported for a Program Year (PY) that lags the Federal fiscal year by nine months.
+The total of 50 percent achieved or substantially achieved compares with 64 percent last year.
+At the indicator level, the percent of targets reached or results improved was 71 percent, compared to 79 percent last year.
+However, there is no single explanation for the successes or the failures.
+To understand what was achieved in terms of benefits to the public, look at how activities impact outcomes and consider significant trends in the data and their implications.
+Narratives in the Performance Section, which are organized by strategic and performance goal, discuss these matters.
+Total Net Cost6 of DOL activities for FY 2008 was $58.307 billion.
+An allocation based on the Department’s goal structure indicates that Goal 4 is dominant – accounting for $48.957 billion, or 84 percent of the total (see first chart below).
+Most of these costs are mandatory – unemployment benefit payments to individuals who are laid off or out of work and seeking employment ($42.281 billion) plus disability benefit payments to individuals who suffered injury or illness on the job ($3.204 billion).
+The second chart illustrates allocation of an adjusted net cost of $12.822 billion that excludes these Income Maintenance expenditures.
+On this basis, Goal 4 accounts for 27 percent of the total.
+Goal 1 required $3.464 billion (six percent and 27 percent of unadjusted and adjusted totals) for employmentrelated services.
+Goal 2 accounted for $4.829 billion, eight percent and 36 percent, respectively, which went toward job training programs and other services focused on maintaining America’s position in a global market for labor.
+Approximately $1.281 billion (two percent and 10 percent of the totals) went toward Goal 3 to fund direct services (such as salaries of Federal employees) aimed at improving safety and health in the workplace.
+The next table provides a comprehensive view of performance goal achievement and cost information.
+Year).
+Most DOL programs also associate costs with their performance indicators; this information is provided in the Performance Section.
+For many performance goals, charts display four years of net cost data.
+Cost data reported in the preceding table – and in the Financial Section of this report – do not include the costs incurred by non‐DOL entities to comply with these regulations, most notably the private sector.
+In the Performance Section, we quantify our results (benefits) via outcome or output indicators that are seldom monetized, or valued in dollars.
+Headings include the rule name, identifier number, date published in the Federal Register, and related performance goal.
+Summary text describes the purpose and estimated economic impact.
+The amendments contained in this rule revise the Form 5500 Series, Annual Return/Report of Employee Benefit Plan, and related regulations.
+The changes are intended to facilitate the transition to an electronic filing system, reduce and streamline annual reporting burdens, especially for small businesses, and update the annual reporting forms to reflect current issues, agency priorities and new requirements under the Pension Protection Act of 2006.
+Over the next ten years, the Department anticipates an average annual reduction of $97 million – about 23 percent – in reporting costs.
+This rule provides a safe harbor for pension plan fiduciaries that select and invest funds on behalf of participants in defined contribution plans who don’t give instructions on how they want their funds invested.
+Fiduciaries investing funds for participants would be required to select investment options (i.e., default investment alternatives) that meet specified criteria.
+This rule describes the types of investments that qualify as default investments in order to obtain fiduciary relief.
+Plan sponsors may incur some administrative costs in order to meet the conditions of the regulation.
+The Department generally expects such costs to be low.
+By facilitating the adoption of automatic enrollment plans and by encouraging investments appropriate for retirement savings, the Department estimates the rule will result in between $70 billion and $134 billion in retirement savings by 2034.
+This final regulation under the Fair Labor Standards Act implements the exemption from minimum wage and overtime pay for executive, administrative, professional, outside sales and computer employees (often referred to as the ‘‘white collar’’ exemptions).
+To be considered exempt, employees must meet certain minimum tests related to their primary job duties and, in most cases, must be paid on a salary basis at not less than minimum amounts as specified in pertinent sections of these regulations.
+Some 19 to 26 million employees are estimated to be within the scope of these regulations.
+Because the rules had not been adjusted in decades, the final rule imposes additional costs on employers, including up to $375 million in additional annual payroll and $739 million in firstyear (i.e., 2004) implementation costs.
+However, updating and clarifying the rule will reduce Part 541 violations – and liquidated damages – and are estimated to save businesses at least an additional $252.2 million every year that could be used to create new jobs.
+This rule governs DOL responsibilities under the Energy Employees Occupational Illness Compensation Program Act of 2000, as amended (EEOICPA or Act).
+DOL administers both Part B and Part E of EEOICPA.
+Part B provides lumpsum payments of $150,000 and medical benefits to covered employees and, where applicable, to survivors of such employees, of the Department of Energy (DOE), its predecessor agencies and certain DOE vendors, contractors and subcontractors.
+Part B also provides lump‐sum payments of $50,000 and medical benefits to individuals found eligible by the Department of Justice (DOJ) for $100,000 under section 5 of the Radiation Exposure Compensation Act (RECA) and, where applicable, to their survivors.
+Part E of the Act provides variable lump‐sum payments (based on a worker's permanent impairment and/or calendar years of qualifying wage‐loss) and medical benefits for covered DOE contractor employees and, where applicable, provides variable lump‐sum payments to survivors of such employees.
+Part E also provides these same payments and benefits to uranium miners, millers and ore transporters covered by section 5 of RECA and, where applicable, to survivors of such employees.
+DOL estimated annual administrative expenses of this regulatory action implementing Part B and Part E of EEOICPA would start at $162 million in FY 2007 and fall to $111 million by FY 2011.
+Benefit payments were estimated at $1,123 million in FY 2007 and projected to drop to $579 million by FY 2011.
+OWCP reaps substantial aggregate cost savings that benefit both OWCP (by strengthening the integrity of the program) and the taxpayers to whom the costs of the program are eventually charged.
+Many OSHA health, safety, maritime, and construction standards require employers to provide their employees with protective equipment, including personal protective equipment (PPE), when such equipment is necessary to protect employees from job‐related hazards that can result in illnesses, injuries, and fatalities.
+This rule address PPE of many kinds: hard hats, gloves, goggles, safety shoes, safety glasses, welding helmets and goggles, face shields, chemical protective equipment, fall protection equipment, and so forth.
+In this rule, OSHA requires employers to pay for the PPE provided, with exceptions for specific items.
+The rule does not require employers to provide PPE where none has been required before.
+Taken in its entirety, this final rule will avert approximate 21,798 injuries annually.
+OSHA estimated the total annual benefits of the final rule to be $349 million under a willingness‐to‐pay methodology and $228.3 under a direct‐cost methodology.
+OSHA estimated total employer compliance costs to be $85.7 million annually for all establishments.
+The Program Assessment Rating Tool (PART) was developed to assess and improve programs’ outcomes that matter to the public.
+A review using the PART helps identify a program’s strengths and weaknesses to inform funding and management decisions aimed at making the program more effective.
+Federal programs are scored on their purpose and design, strategic and performance planning, management, and results and accountability.
+Total scores (0‐100) determine ratings: Effective, Moderately Effective, Adequate, Ineffective, or Results Not Demonstrated.
+Summaries of each program’s assessment and improvement plan are published on ExpectMore.gov, a site dedicated to making meaningful information about Federal program performance more accessible to the public.
+To date, 35 DOL programs have been assessed using the PART.
+One is rated Effective, ten Moderately Effective, sixteen Adequate, three Ineffective, and five Results Not Demonstrated.
+The table below lists the programs as they are identified in ExpectMore.gov.
+For cross‐referencing with the performance section of this report, goal numbers are provided.
+The list is sorted first by the calendar year in which the review was conducted, then by total score.
+In addition to clearly reporting program strengths and shortcomings, PART assessments are useful because they lead to improvement plans that enhance accountability and strengthen performance.
+Improvements DOL has recently implemented include development of new outcome‐oriented performance measures for two DOL programs currently rated Results Not Demonstrated (Job Training Apprenticeship and YouthBuild) and development and implementation of efficiency measures for each of the DOL programs assessed through the PART.
+The Department of Labor has undergone many changes over the past eight years, but each year, DOL furthers its mission to “foster and promote the welfare of job seekers, wage earners, and retirees of the U.S. by improving their working conditions, advancing their opportunities for profitable employment, protecting their retirement and health care benefits, helping employers find workers, strengthening collective bargaining, and tracking changes in employment, prices and other national economic measures.”
+The following highlights of program and management accomplishments are organized around elements of this mission and DOL’s stewardship of resources.
+In 2008, the all‐injury rate (including fatalities) in the mining industry reached an alltime low of 3.19 incidents per 200,000 hours worked (estimated) – a 33 percent decline over the last six years.
+Since 2003, the rate of cases involving days away from work, job restriction, or job transfer has declined by 19 percent ‐‐ from a rate of 2.6 cases per 100 fulltime workers to 2.1 cases in 2007, according to the most recent data available.
+Since FY 2001, ILAB has prevented or withdrawn more than 1.2 million children from exploitive child labor in over 75 countries worldwide through its international technical assistance projects.
+The Mine Improvement and New Emergency Response Act of 2006, also known as the MINER Act, signed into law by President George W. Bush on June 15, 2006, is the most significant mine safety legislation since the Mine Safety and Health Act of 1977.
+In 2006 and 2007, the Department quickly and successfully implemented key provisions of this Act, including the publication of rules on emergency mine evacuation, civil penalties for violations and new safety requirements for seal strength criteria and construction – all of which provide better protections for our nation’s miners.
+Photo Credit: DOL.
+ESA’s Office of Labor Management Standards increased protection of union members’ rights by enforcing the laws on union transparency and democracy through its investigations and compliance program.
+In 2008, the number of indictments reached 130 – an increase of 31 percent from 2001.
+The number of financial compliance audits rose by 232 percent – from 238 in 2001 to 791 in 2007.
+ESA’s Office of Federal Contractor Compliance Programs’ efforts to ensure that Federal contractors achieve equal opportunity workplaces resulted in a 170 percent increase from FY 2001 in the number of Americans recovering back pay and benefits.
+From FY 2001‐08, ESA’s Wage and Hour Division (WHD) recouped more than $1.46 billion for over two million workers.
+In FY 2007, 341,624 workers received back wages of $220,613,703, the highest back wage recovery in one fiscal year – a 67 percent increase since 2001.
+In 2005, Hurricanes Katrina and Rita devastated the Gulf Coast.
+Within months, employees of ESA’s Wage and Hour Division (WHD) began securing wages on behalf of the men and women who were engaged in the clean up and rebuilding efforts.
+Since then, WHD has opened nearly 800 hurricane‐related cases and collected over $10 million in back wages for 14,000 workers.
+WHD responded to these challenges by using innovative compliance outreach, working with faith‐based organizations, community activists, the federal contracting community, foreign consulates, and local media to provide information to employers and employees of the region.
+WHD detailed investigators to area offices on a temporary rotationa basis, and used virtually every enforcement tool at its disposal: directed cases, complaint cases, conciliations, withholding of funds on federal contracts, debarments, litigation, and referrals to criminal prosecutors to ensure compliance on behalf of workers.
+In responding to the recent hurricanes, WHD offices along the Gulf Coast have stepped up efforts to reach affected workers by providing public service announcements over the radio and visiting relocation centers.
+WHD is also coordinating with Federal agencies engaged in clean‐up and reconstruction in the affected areas to promote compliance with Federal government contracting labor statutes.
+Between 2001 and 2008, EBSA closed over 32,000 civil and 1,400 criminal cases.
+Since 2001, EBSA has received over 111,000 filings from plan officials and administrators who want to self‐correct plan violations through the agency’s voluntary compliance programs.
+EBSA’s record‐setting enforcement program has yielded $12 billion in monetary results and more than 900 criminal indictments since 2001 for retirement and health benefit plans.
+OWCP has paid over $4 billion in compensation benefits to covered employees and survivors since the Energy Employees Occupational Illness Compensation Program’s inception in 2001.
+In August 2008, OWCP paused to reflect on the results of the Black Lung Benefits Act.
+ESA’s Black Lung Offices in Charleston and Parkersburg, West Virginia, were created as a result of the 1978 enactment of amendments to the Federal Coal Mine Health and Safety Act of 1969 – which established the Black Lung program.
+The program provides monthly benefit payments to coal miners totally disabled as a result of pneumoconiosis, to the widows of coal miners who died as a result of pneumoconiosis, and to their dependents.
+Jim DeMarce, the Director of OWCP’s Black Lung program, is shown presenting an award to Dr. Donald L. Rasmussen, a Beckley, West Virginia, doctor who was instrumental in first securing black lung benefits for miners.
+The WIRED initiative operates in 39 regional economies in 31 States and Puerto Rico.
+In 2004, the Department’s Center for Faith‐Based and Community Initiatives (CFBCI), in partnership with ETA, launched the Prisoner Reentry Initiative designed to strengthen urban communities by competitively awarding grants to employment‐centered organizations that provide mentoring, job training and other transitional services for ex‐offenders.
+The Prisoner Reentry Initiative has cumulatively enrolled more than 14,569 participants, helped 9,547 exprisoners find work, and lowered the participant recidivism rate to 15 percent, which is less than half the Justice Department’s national benchmark.
+BLS has increased the use of electronic data collection methods, such as its Internet Data Collection Facility (IDCF), which offers a wider range of reporting options as well as greater efficiency.
+Use of IDCF has increased nine‐fold from FY 2004 (100,145) to FY 2008 (972,605), with further increases projected for FY 2009 and 2010.
+For high school sophomores, the Morris Business and Professional Women operate a "Reality Store," which shows them the standard‐of‐living they can expect to achieve based on their career choices.
+The Reality Store gives students a realistic look at the quality of life they can expect to attain from their chosen occupations, motivating them to take more seriously their remaining years in high school and possibly continuing on to higher education.
+Sara, of Minooka Community High School, had "heard the numbers before, but this really helped me realize what some things cost – groceries and kids are both expensive!
+The Department has always put an emphasis on sound management and it was only fitting that – when President George W. Bush introduced his Management Agenda (PMA) in 2001 – DOL eagerly began implementing its initiatives and made solid, demonstrable progress.
+In fact, by the third Quarter of FY 2005, DOL became the first agency to achieve green status scores for all five government‐wide initiatives.
+As highlighted on the September 30, 2008 PMA scorecard, DOL has continued its momentum and has also achieved green scores in the agency‐specific initiatives of Eliminating Improper Payments, Faith‐Based and Community Initiative, and Real Property Asset Management.
+DOL received its twelfth consecutive unqualified audit opinion and its eighth consecutive Certificate of Excellence in Accountability Reporting from the Association of Government Accountants, both of which demonstrate the effective stewardship of taxpayers’ hard‐earned dollars.
+President’s Quality Awards for Expanded Electronic Government (2006), Performance in Integrating Management Systems (2005), Strategic Management of Human Capital (2004), and Budget and Performance Integration (2004).
+DOL’s Performance and Accountability Report (PAR) has been ranked #1 or #2 in each of the last six years by the George Mason University Mercatus Center, including four consecutive #1 rankings for DOL’s 2002‐2005 reports.
+In addition, Mercatus cited DOL’s 2007 PAR Highlights Report as the best in government.
+The Performance Institute’s Top E‐Gov Award (2002).
+Government Executive’s Grace Hopper Government Technology Award for GovBenefits.gov (2002).
+Improving financial management continues to be a cornerstone of the Department’s efforts to deliver services effectively and efficiently to its constituents.
+By providing tools to ensure more informed decision‐making throughout the organization, focusing on transparency and accountability, and maintaining a strong internal control system, the Department continues to maximize the value of each taxpayer dollar it receives.
+In FY 2008, DOL continued its efforts to provide program managers with timely and reliable cost information for use in managerial decisions to improve operating economy and efficiency.
+DOL’s managerial cost accounting initiative, Cost Analysis Manager (CAM), allows the Department to determine the full costs of achieving each of its quarterly performance results.
+As one of the first Department‐wide managerial cost accounting initiatives in the federal sector, the CAM Program has maintained high profile visibility within the DOL, the Office of Management and Budget (OMB), the U.S. Congress, and the Government Accountability Office (GAO).
+Since inception, the OCFO CAM Team has worked closely with 15 agencies to develop 18 models and train over 200 users across the Department’s national and regional offices.
+The CAM Program Team maintains constant dialogue with the users and facilitates a quarterly DOL CAM User Group meeting for agency CAM Team leads as well as representatives from the Office of Inspector General and the DOL Center for Program Planning and Results (CPPR).
+These meetings enable agency executives and program managers to share best practices, review lessons learned, and communicate the status of the CAM Program.
+The CAM Program continues to provide a structured approach that follows a Federal Accounting Standards Advisory Board (FASAB) endorsed best practice methodology that senior stakeholders, budget directors, and program managers use to report managerial cost accounting information.
+DOL’s CAM Program directly supports the section of the PAR that highlights Program Net Costs and the Statement of Net Costs.
+Total Net Costs of DOL activities for FY 2008 were $58.3 billion.
+The Debt Collection Improvement Act (DCIA) of 1996 designated the Department of the Treasury as the centra agency for collection of debts owed the Federal government.
+Debt management accounts for a relatively smal part of DOL’s financial management activities; however, the majority of debts managed by DOL relate to the assessment of fines and penalties as a result of its enforcement programs.
+Through the third quarter of FY 2008, DOL referred debt in the amount of $79,558,619 to the Treasury for collection.
+This amount represents 65 percent of delinquent debt required to be referred for collection.
+DOL continues to monitor and aggressively pursue delinquent debt and will continue to refer eligible debt to Treasury for collection.
+The Department continues to make improvements in its efforts to meet guidance and regulations outlined in the Prompt Payment Act (PPA).
+The PPA requires Executive agencies to pay commercial obligations within discrete time periods and to pay interest penalties when those time constraints are not met.
+During FY 2008, approximately $1.3 billion in gross payments were made.
+Included in this amount was just over $164,000 in interest penalty fees.
+Also during FY 2008, there were over 111,000 payments made to vendors and travelers.
+Of this amount, 3,348 invoices were paid late resulting in only 3 percent of the total payments incurring interest penalties.
+The Department continues to work aggressively with its agencies to increase the number of vendors receiving payments through electronic fund transfer (EFT).
+The total number of vendors receiving EFT payments in FY 2008 remains the same as in FY 2007 at 99 percent as the fiscal year ended.
+Although our Employment Standards Administration is continuing to promote EFT payments for their benefit and medical programs, their percentage rates continue to remain below Treasury’s goal of 98 percent.
+The principal financial statements summarize the Department's financial position, net cost of operations, and changes in net position, provide information on budgetary resources and financing, and present the sources and disposition of custodial revenues for FY 2008 and FY 2007.
+Highlights of the financial information presented in the principal financial statements are shown below.
+The Department's Balance Sheet presents its financial position through the identification of agency assets, liabilities, and net position.
+The Department's total assets decreased from $92.8 billion in FY 2007 to $89.9 billion in FY 2008.
+The Department invests in non‐marketable, special issue Treasury securities balances held in the Unemployment Trust Fund.
+The decrease in total assets primarily was accounted for in these investments as a result of increasing unemployment costs.
+Liabilities increased from $21.3 billion at the end of FY 2007 to $22.6 billion in FY 2008.
+This increase was due primarily to increases in liabilities for current and future benefits, as a result of rising unemployment, and an increase in energy compensation and injuries claims.
+The Department's total net cost of operations in FY 2008 was $58.3 billion, an increase of $10.0 billion from the prior year.
+Income Maintenance programs continue to comprise the major portion of costs.
+These programs include costs such as unemployment benefits paid to individuals who are laid off or out of work and seeking employment, as well as payments to individuals who qualify for disability benefits due to injury or illness suffered on the job.
+Income maintenance increased by $10.5 billion from FY 2007 to FY 2008.
+The primary reasons for this increase were the increase in regular unemployment paid and the additional weeks of emergency unemployment compensation provided by the enactment of the Supplemental Appropriations Act, 2008 in June.
+Employment and Training programs comprise the second largest cost.
+These programs are designed to help individuals deal with the loss of a job, research new opportunities, find training to acquire different skills, start a new job, or make long‐term career plans.
+Statement of Budgetary Resources.
+This statement reports the budgetary resources available to DOL during FY 2008 and FY 2007 to effectively carry out the activities of the Department as well as the status of these resources at the end of each fiscal year.
+The Department had direct obligations of $62.5 billion in FY 2008, an increase of $10.4 billion from FY 2007.
+Limitations on the Principal Financial Statements.
+As required by the Government Management Reform Act of 1994 (31 USC 3515 (b)), the principal financial statements report the Department's financial position and results of operations.
+While the statements have been prepared from the Department's books and records, in accordance with formats prescribed by OMB, the statements differ from the financial reports used to monitor and control budgetary resources, which are prepared from the same books and records.
+The statements should be read with the realization that they are a component of the U.S. Government, a sovereign entity, and that liabilities reported in the financial statements cannot be liquidated without legislation providing resources to do so.
+During FY 2008, DOL continued to pursue its financial management system strategy to improve reporting, accountability, and decision‐making, while furthering implementation of key provisions of the President’s Management Agenda, e‐Gov requirements, and other regulatory mandates.
+The Department seeks to maintain financial management systems, processes, and controls that ensure financial accountability, provide usefu information to management, and satisfy Federal laws, regulations, and guidance.
+Currently, the DOL’s financial management functions, processes, and activities are distributed across multiple information systems and financial applications, all centered on the Department of Labor Accounting and Related Systems (DOLAR$) mainframe accounting system.
+DOLAR$ has been in service since 1989 and has been both enhanced and extended to meet Departmental and external requirements.
+While DOLAR$ has served DOL well over its history and continues to exceed its intended useful life, the DOLAR$ technology is antiquated and no longer able to efficiently and effectively meet DOL’s financial management requirements.
+DOLAR$ was implemented prior to all of the modern day laws and regulations that drive Federal accounting, financial management systems, financial management reporting and security, such as: the Chief Financial Officers Act of 1990, the Government Performance and Results Act of 1993, the Federal Financial Management Improvement Act of 1996, the Reports Consolidation Act of 2000, and the Federal Information Security Management Act (FISMA) of 2002.
+DOL released on January 15, 2008, Request for Proposal (RFP) on Federal Business Opportunities (FBO) for the purpose of obtaining the services of a Financial Management Line of Business (FMLoB) Shared Service Provider (SSP) to modernize DOL’s core financial functions from the current 19 year old mainframe system to the New Core Financial Management System (NCFMS).
+Technology Hosting and Administration Services – involves providing the IT infrastructure (facilities and infrastructure software) that serves as the foundation for running business software applications and the services to maintain that infrastructure.
+Application Management Services – involves providing the software and services for running and managing access to business software applications, in this case, financial management software and the feeder systems that provide data to the financial management software.
+System Implementation Services – includes services to help an agency through a migration of their current financial management operations to the FMLoB SSP environment.
+After detailed evaluation of the responses received, DOL selected and issued an award to Global Computer Enterprises (GCE) on June 26, 2008.
+GCE began work on July 1, 2008 to have the system fully implemented and operational by October 2009.
+Improved financial performance through the reduction of improper payments continues to be a key financial management focus of the Federal government.
+At DOL, developing strategies and the means to reduce improper payments is a matter of good stewardship.
+Accurate payments lower program costs.
+This is particularly important as budgets have become increasingly tight.
+In accordance with the Improper Payments Information Act (IPIA) of 2002, as implemented by the OMB Circular A‐123, Appendix C, Requirements for Effective Measurement and Remediation of Improper Payments, the Department reviews its programs and activities annually, identifies programs that may be susceptible to significant improper payments, performs testing of programs considered high risk, establishes improper payment reduction targets in accordance with OMB guidance and develops and implements corrective actions for high risk programs.
+The Department has 3 programs that are classified to be at risk of significant improper payments in accordance with OMB criteria or classification‐‐the Unemployment Insurance (UI) benefit program, the Federal Employees’ Compensation Act (FECA) benefit program and the Workforce Investment Act (WIA) grant program.
+The Department performed detailed testing of these three programs to identify improper payments and their major causes.
+Additionally, in FY 2008 a recovery audit was performed to identify FY 2007 improper contractor payments.
+The Department met its improper payments reduction targets.
+The table below shows the estimated improper payments error rates for the last three fiscal years for the three programs designated as high risk.
+The Department has implemented various corrective actions to address the causes and reduce improper payments in each of these programs.
+Like many other Federal agencies, the Department faces challenges in meeting its improper payment reduction and recovery targets, particularly with programs that are sensitive to the U.S. economy fluctuations or natural disasters, such as the UI program.
+Furthermore, meeting improper payment reduction and recovery targets of programs such as UI and WIA are contingent upon the cooperation and support of State agencies and other outside stakeholders who are intricately involved in the day‐to‐day management of these programs' activities.
+See Other Accompanying Information section of this report for additional information on improper payments.
+FMFIA requires that agencies establish internal control and financial systems that provide reasonable assurance that the integrity of Federal programs and operations is protected.
+It requires that the head of the agency provide an annual assurance statement whether the agency has met this requirement.
+Appendix A of OMB Circular A‐123 provides specific requirements for conducting management’s assessment of internal control over financial reporting, and also requires the agency head to provide an assurance statement on the effectiveness of internal controls over financial reporting.
+FFMIA requires that agencies implement and maintain financial management systems that comply substantially with the Federal financial management system requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+The agency head is to make an annual determination whether the financial systems substantially comply with FFMIA.
+The Department of Labor's management is responsible for establishing and maintaining effective internal control and financial management systems that meet the objectives of the Federal Managers' Financial Integrity Act (FMFlA).
+DOL conducted its assessment of the effectiveness of internal control over the efficiency and effectiveness of operations and compliance with applicable laws and regulations in accordance with OMB Circular A-123, Management's Responsibility for Internal Control.
+Based on the results of this evaluation, DOL can provide reasonable assurance that its internal control over the effectiveness and efficiency of operations and compliance with applicable laws and regulations as of September 30, 2008, was operating effectively and no material weaknesses were found in the design or operation of the internal controls.
+DOL is also in conformance with Section 4 of FMFlA.
+In addition, DOL conducted its assessment of the effectiveness of internal control over financial reporting, which includes safeguarding of assets and compliance with applicable laws and regulations, in accordance with the requirements of Appendix A of OMB Circular A-123.
+Based on the results of this evaluation, DOL can provide reasonable assurance that its internal control over financial reporting as of June 30, 2008, was operating effectively and no material weaknesses were found in the design or operation of the internal control over financial reporting.
+The Federal Financial Management Improvement Act of 1996 (FFMIA) requires agencies to implement and maintain financial management systems that are substantially in compliance with Federal financial management systems requirements, Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
+LL.
+HowajM.
+The Top Management Challenges identified by the Office of the Inspector General (OIG) for the Department of Labor are discussed below.
+This year the Department’s response and presentation of its progress on the Top Management Challenges is integrated with the OIG’s statement of these challenges.
+The OIG’s Top Management Challenges are below.
+The Department’s presentations of its actions and planned actions to address each challenge are displayed in a table below each OIG challenge, and include information from Government Accountability Office (GAO) audits and planned actions identified for FY 2008 from the FY 2007 PAR.
+At the top of the tables are the Department’s own progress assessments for FY 2008 using a stoplight system: ●Green – Actively Implementing All Remedial Actions; ●Yellow – Actively Implementing Most Remedial Actions; and, ●Red – Not Implementing Most Remedial Actions.
+The narrative in the heading of the table indicates the strategic and performance goals affected by the challenge and when the challenge was first identified.
+Each table’s three columns break out the Management Challenges into specific issues (left column), actions taken in FY 2008 (center column), and actions remaining/expected completion date (right column).
+Throughout the past year, the Department closely tracked its progress in addressing the Top Management Challenges, with agencies reporting quarterly on their corrective actions.
+Additional information on many of these management challenges and their specific issues is in the performance goal narratives.
+The Department aggressively pursues corrective action for all significant challenges, whether identified by the OIG, GAO, the Office of the Chief Financial Officer (OCFO) or other sources within the Department.
+The Department’s FY 2008 Top Management Challenges identified by the Office of Inspector General (OIG) are below.
+For 2008, the OIG considers workplace protection, accountability, integrity of benefit programs, and the delivery of goods and services as the most serious management and performance challenges facing the Department.
+The OIG assessed the Department’s progress in these areas and continues to review and monitor how these complex issues are addressed.
+For each challenge, the OIG presents an overview of the challenge, a description of the challenge, and the OIG’s assessment of the Department’s progress in addressing the challenge.
+The stoplight rating and the assessment contained in the tables represent the Department’s view of its progress in addressing each management challenge.
+OVERVIEW: The Department of Labor administers the Federal Mine Safety and Health Act of 1977 (Mine Act), as amended by the Mine Improvement Emergency Response Act of 2006, and the Occupational Safety and Health Act of 1970.
+The workplace safety and health of our nation’s workers depends on DOL’s strong enforcement of these laws.
+CHALLENGE FOR THE DEPARTMENT: The OIG has consistently revealed a pattern of weak oversight, inadequate policies, and a lack of accountability on the part of MSHA made more of a challenge by years of resource shortages.
+Congress has allocated additional funding.
+However, it will take several years for the Department to be fully functional with these increased resources.
+Insufficient resources during a period of increasing mining activity made it difficult for the Department to ensure that it had enough resources in the right places to ensure the safety of miners.
+These resource issues further reemphasize the need for MSHA to have adequate procedures in place for carrying out its mission.
+Further, MSHA management must monitor performance to ensure that its employees are following those procedures and documenting their activities.
+The OIG’s recent audits have documented the need for MSHA to improve its operating procedures and management oversight.
+For example, an OIG report on MSHA inspections found that MSHA did not complete 147 required safety inspections at 107 underground coal mines where approximately 7,500 miners worked during FY 2006.
+Likewise, the Independent Review Team established to evaluate MSHA’s actions prior to the August 2007 accident at the Crandall Canyon Mine and during the subsequent rescue activities, identified many serious deficiencies in MSHA’s actions, including inadequate evaluation of the engineering data to justify mining in the North and South Barriers and inadequate oversight of the plan evaluation and approval process by MSHA management.
+The review concluded that MSHA’s failure to adequately evaluate the roof control plans contributed to the August accident.
+An OIG audit of how MSHA determines whether a fatality is mining‐related found that investigators and decision makers lacked independence and investigative documentation was not always complete.
+The OIG also found that decisions about the cause of a fatality were sometimes made on a manager’s preliminary assessment and a full investigation was not done.
+OSHA’s mission is to prevent work‐related injuries, illnesses and deaths and to ensure that every working man and woman in the nation has safe and healthful work conditions; however, work‐related fatalities reported in the BLS Census of Fatal Occupational Injuries were 5,764 in 2004, 5,734 in 2005, 5,840 in 2006, and 5,488 in 2007.35 Because it is impossible for OSHA to inspect the more than seven million workplaces in the nation, it is essentia that OSHA target its limited resources to inspect workplaces with the highest risk of hazardous conditions or which have a history of causing significant injuries or fatalities.
+Recent fatal workplace accidents involving cranes, combustible dust, and refineries highlight this challenge.
+In addition, OSHA must ensure that voluntary compliance programs are effective.
+OSHA’s Consultation Program was designed to encourage employers to volunteer for an inspection and then resolve work place safety and health issues without the use of enforcement fines and penalties.
+However, an OIG audit found that consultation program officials seldom ensured that interim protection was in place before granting employers’ requests for extensions to correct serious hazards, and employers who did not complete corrective actions in a timely fashion were seldom referred for enforcement actions.
+In response to concerns about the effectiveness of OSHA’s enforcement program, the OIG is conducting an audit to determine whether OSHA has accurately identified high‐risk employers based on OSHA’s definition of these employers under its Enhanced Enforcement Program.
+OIG’S ASSESSMENT OF THE DEPARTMENT’S PROGRESS: MSHA and OSHA have made progress in addressing this challenge.
+For example, with supplemental funding provided by Congress, MSHA has hired more mine inspectors to improve completion of statutorily required inspections.
+However, MSHA needs to ensure that its recently hired inspectors are properly trained.
+While new inspectors are trained, MSHA has re‐allocated current resources by rotating inspectors into understaffed districts for two week intervals to assist in completing all mandated inspections.
+MSHA has also increased and clarified the documentation required to support mine inspection activities and defined specific steps for reviewing mine plans.
+Further, MSHA has issued guidance to standardize its roof control plan approval process and has developed checklists to detail required information and documentation when inspectors review roof control plans.
+To address concerns about independence of decisions about mining fatalities, the Fatality Review Committee now includes a representative outside of MSHA.
+However, this individual is still a DOL employee.
+MSHA also needs to remain vigilant to ensure that approvals of roof control plans are done in accordance with its new procedures.
+The OIG continues to believe that an individual who is not employed by the Department will provide a greater degree of independence and integrity to the work of the Fatality Review Committee.
+In response to an OIG report on OSHA’s Consultation Program, OSHA has implemented measures to ensure that employers are referred for enforcement action when serious safety hazards are not corrected in a timely manner.
+OSHA has also established a new performance measure tied to the initial hazard correction due date to ensure that serious hazards are corrected in a timely manner without the need for granting time extensions to correct the hazard.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: In FY 2007, the Department’s Employment and Training Administration (ETA), issued $5.5 billion in formula grants and almost $1 billion in discretionary grants for job training and employment services.
+Since 2001, ETA has spent nearly $900 million in discretionary grant funds on the High Growth Job Training Initiative (High Growth), Community‐Based Job Training Initiative (Community Based), and the Workforce Innovation in Regional Economic Development (WIRED).
+These initiatives were designed to give greater emphasis to the employment and training needs of high‐growth, high‐demand industries.
+All state and local government and nonprofit recipients that expend $500,000 or more in Federal assistance in one year are required by the Single Audit Act to obtain an annual audit by an independent public accountant.
+The Act mandates the examination of a recipient’s financial records, financial statements, federal award transactions and expenditures, the general management of its operations, the systems of internal control, and the federal assistance itself received during the audit period.
+ETA grants are awarded to state and local governments and other non‐DOL organizations.
+The Department relies on audits conducted under the Single Audit Act to provide oversight of its grants – both formula and discretionary.
+CHALLENGE FOR THE DEPARTMENT: DOL continues to face challenges in ensuring that discretionary grants are properly awarded and that the Department receives the quality of services that the taxpayers deserve.
+Successfully meeting the employment and training needs of citizens requires selecting the best service providers, making expectations clear to grantees, ensuring that success can be measured, providing active oversight, evaluating outcomes, and disseminating and replicating proven strategies and programs.
+Both OIG and GAO have found in the past year that ETA continues to have weaknesses in managing its grants to this end.
+Moreover, ETA continues to be challenged to provide adequate oversight and monitoring of the grants it awards, as the agency lacks reliable and timely performance data that would allow identification of problems in time to correct them.
+Finally, ETA has not evaluated the usefulness of individual grant products or the overall effectiveness of its discretionary grant initiatives.
+Another challenge for the Department related to both formula and discretionary grants is that grantees’ audits conducted under the Single Audit Act by independent public accountants are not always completed timely and information from single audits is not always reliable.
+The OIG has found serious deficiencies in these audits that demonstrate that the Department is not receiving timely, accurate, reliable information that will assist it making the best possible program and funding decisions.
+OIG’S ASSESSMENT OF THE DEPARTMENT’S PROGRESS: As a result of the audits by the OIG and GAO, ETA has recently increased the emphasis placed on awarding discretionary grants competitively, developed procedures designed to better document decisions and discussions that lead to grant actions, implemented new procedures to ensure the proper justification of any future non‐competitive awards, and provided training to agency grant officers on these new procedures.
+ETA has also stated that future agreements for pilots and demonstration grants will require grantees to obtain an independent evaluation of grant results.
+While these actions should help to improve performance accountability, ETA needs to focus its future efforts on determining how best to prioritize its available resources to adequately monitor grant performance and how to evaluate grants to ensure desired results are achieved.
+The Department has implemented procedures requiring written notifications be sent to grantees when single audit reports are submitted more than three months past the due date.
+The notifications serve to remind the grantees of the timeframes established in OMB Circular A‐133, to ensure awareness that the reports were submitted untimely, and to prevent future untimely submissions.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The purpose of the Job Corps program is to assist eligible at‐risk youth who need intensive education and training services in a safe, residential environment.
+Job Corps has contracts with private companies to operate 98 centers and interagency agreements with the Departments of Interior and Agriculture to operate 28 centers.
+The program was appropriated nearly $1.6 billion in FY 2008.
+CHALLENGE FOR THE DEPARTMENT: The OIG’s work has consistently identified challenges to the effectiveness of the Department’s Job Corps program.
+These challenges include ensuring the safety and health of students and having accurate, reliable data about the program’s performance.
+A cornerstone of the Job Corps program is removing students from unsafe environments and placing them in a safe residential training program.
+Ensuring maintenance of its facilities is a challenge for Job Corps.
+Unsafe conditions resulting from inadequate maintenance adversely impacts the overall success of the Job Corps program.
+OIG audits have documented numerous health and safety problems at certain centers, such as water‐damaged and collapsing ceiling tiles; mold on student dormitory walls and ceilings; and missing or inoperable emergency exit signs.
+Further, Job Corps officials need to do more to address the problems of illegal drugs and violence at its facilities.
+OIG audits have also found that contractors have manipulated performance data to inflate their success.
+The OIG has repeatedly found problems with the reporting of student outcomes, on‐board strength and attendance.
+This is a particular challenge for Job Corps when centers are operated by contractors through performance‐based contracts which tie incentive fees and bonuses directly to contractor performance largely measured by on‐board strength, attendance, and outcomes.
+Under such contracts, there is a risk that contractors will inflate their performance reports so they can continue to operate centers.
+It is essential for Job Corps to have reliable, accurate, and timely data, so that the Department can evaluate how well student needs are being met.
+OIG’S ASSESSMENT OF THE DEPARTMENT’S PROGRESS: Job Corps has addressed a number of student safety and health issues and indicated that it will provide more rigorous monitoring of all centers.
+Also, Job Corps has taken action to improve financial and performance data reliability at all centers.
+Although, each center will conduct mandatory audits of student records concurrent with annual center quality assessments, more needs to be done to resolve problems with inaccurate performance data.
+Although Job Corps is continuing its efforts to maintain a safe and healthy environment for its students, it must be held accountable to monitor and verify that all centers are being managed and maintained to ensure safe and healthy environments.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Department partners with the states to administer unemployment benefit programs.
+State Unemployment Insurance (UI) provides benefits to workers who are unemployed and meet eligibility requirements established by their respective states.
+UI benefits are financed through employer taxes imposed by the states and collected by the Internal Revenue Service, which holds them in the Unemployment Trust Fund (UTF) until needed to pay benefits.
+The Department funds State Workforce Agencies (SWAs) which administer the UI program through grant agreements.
+These grant agreements are intended to ensure that SWAs administer the UI program efficiently and that they comply with Federal laws and regulations.
+In addition, the SWAs are required to have disaster contingency plans in place to enable them to administer benefits in the aftermath of a disaster such as a hurricane.
+Disaster Unemployment Assistance (DUA), is a Federally funded program that provides financial assistance to individuals who lose their jobs as a direct result of a major disaster and are ineligible for other UI.
+CHALLENGE FOR THE DEPARTMENT: Reducing and preventing UI and DUA overpayments, combating fraud against these programs, and timely detecting and recovering overpayments that do occur remains a major challenge for the Department and states.
+In FY 2007, the Department reported more than $3 billion in UI overpayments—a slight drop from $3.1 billion in FY 2006.
+However, the Department did not meet its target goal of identifying and establishing for recovery 60 percent of UI overpayments in FY 2007.
+OIG work following Hurricanes Katrina and Rita identified potential benefit overpayments as a result of claimants concurrently filing under the UI and DUA programs; states not timely verifying eligibility for DUA; and other reasons.
+For example, the OIG found that Louisiana paid unemployment benefits to claimants when the Nationa Directory of New Hires (NDNH) database reported those individuals as having obtained jobs.
+This one example represented potential overpayments of $51 million.
+Following the 2005 hurricanes, the OIG opened over 300 cases of potential UI and DUA fraud resulting in 142 indictments and 86 convictions.
+To date, 240 of these cases have been closed.
+It is a challenge for the Department, other Federal agencies, and the states to have systems and controls in place to quickly prevent or respond to improper payments during national emergencies or disasters.
+The Department needs to promote states’ use of the National Directory of New Hires (NDNH) database to prevent and timely detect overpayments.
+The Department also needs to ensure that SWAs have adequate Information Technology (IT) Contingency Plans that will enable them to continue to pay UI benefits in the event of a disaster such as a hurricane.
+It is critical that all SWAs have IT contingency plans for UI to ensure individuals who rely on these benefits receive this vital support in a time of need and uncertainty.
+Preventing fraud against the UI program is also a challenge.
+The OIG investigates fraud committed by individuals who do not report or underreport outside income while receiving UI benefits.
+In addition to single claimants and fictitious employer‐related schemes, OIG investigations have uncovered schemes in which individuals have used identity theft to illegally obtain benefits and schemes in which UI benefits have been paid to ineligible claimants.
+OIG’S ASSESSMENT OF THE DEPARTMENT’S PROGRESS: The Department has taken some measures to reduce and prevent UI and DUA overpayments.
+The Department stated in its FY 2006 Performance and Accountability Report that it has developed a new core performance measure on overpayment detection.
+Although the Department implemented this new performance measure two years ago, there has been only a slight drop in the UI overpayment rate.
+The Department is also working with state agencies to encourage the use of the NDNH database, which will improve the states’ efforts to detect overpayments early.
+The OIG is currently conducting an audit to assess the states’ use of this tool.
+In coordination with other Federal partners and the National Association of State Workforce Agencies, the Department has developed action plans using lessons learned from recent disasters.
+The Department has also brought together Federal partners to develop a resource guide to facilitate coordination and streamline the delivery of services in the event of a major disaster.
+The OIG is working with UI’s state partners to more effectively provide training to detect and prevent UI fraud.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Federal Employees’ Compensation Act (FECA) Program provides income and pays medical expenses for covered Federal civilian employees injured on the job or who have work‐related occupational diseases, and dependents of employees whose deaths resulted from job‐related injuries or occupational diseases.
+This program is administered by the Department and impacts employees and budgets of all Federal agencies.
+FECA benefit expenditures totaled $2.6 billion in 2007.
+Most of these costs were charged back to individual agencies for reimbursement to the Department’s Office of Workers’ Compensation Programs (OWCP).
+CHALLENGE FOR THE DEPARTMENT: The structure and operation of the FECA program is both a Departmental and a government‐wide challenge.
+All Federal agencies rely upon OWCP to adjudicate the eligibility of claims, to manage the medical treatment of those claims, and to make compensation payments and to pay medical expenses.
+Ensuring proper payments while being responsive and timely to eligible claimants is a challenge for OWCP.
+Among these challenges are moving claimants off the periodic rolls when they can return to work or their eligibility ceases, preventing ineligible recipients from receiving benefits, and preventing fraud by service providers and by individuals who receive FECA benefits while working.
+The OIG recognizes that it is difficult to identify and address improper payments and/or fraud in the FECA program.
+Another difficulty is that OWCP does not have the legal authority to match FECA compensation recipients against social security wage records.
+Currently, OWCP must obtain permission from each individual claimant each time in order for it to check records.
+Being able to do the match would enable OWCP to identify individuals who are collecting FECA benefits while working and collecting wages.
+OIG’S ASSESSMENT OF THE DEPARTMENT’S PROGRESS: The Department has taken several steps to improve the administration of FECA.
+The Department completed the roll‐out of its new FECA benefit payment system, Integrated Federal Employee Compensation System, which tracks due dates of medical evaluations; revalidates eligibility for continued benefits; uses data mining to prevent improper payments; boosts efficiency; and promises improved customer satisfaction.
+The Department needs to continue to seek legislative reforms to the program.
+The OIG supports the Department’s efforts to seek legislative reforms to the FECA program which would enhance incentives for employees who have recovered to return to work, address retirement equity issues, discourage unsubstantiated or otherwise unnecessary claims, and make other benefit and administrative improvements.
+Through the enactment of these proposals, the Department estimates savings to the government over ten years to be $384 million.
+These legislative reforms would assist the Department to focus on improving case management and to ensure only eligible individuals receive benefits.
+To help ensure proper payments in the FECA program, the Department is seeking legislative authority to easily and expeditiously access SSA wage records.
+The OIG continues to provide training to DOL and to other Federal agencies in the detection and prevention of fraud against the FECA program.
+In addition, the OIG has started an audit to determine whether OWCP is complying with Federal regulations and internal policies and procedures when assessing the wage earning capacity of FECA periodic roll claimants.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Department contracts for many goods and services to assist in carrying out its mission.
+In FY 2007, the Department’s acquisition authority exceeded $1.8 billion and included over 10,700 acquisition actions.
+CHALLENGE FOR THE DEPARTMENT: Ensuring integrity in procurement activities is a continuing challenge for the Department.
+The OIG’s work continues to identify violations of Federal procurement regulations, preferential treatment in awards, procurement actions that were not in the government’s best interest, and conflicts of interest in awards.
+For example, an OIG audit of an employment and training contract raised concerns about preferential treatment in how work was directed to a specific subcontractor.
+Another audit found no evidence that DOL Contracting Officers were checking required sources – existing government inventories of excess personal property or nonprofit agencies affiliated with the Committee for Purchase from People Who Are Blind or Severely Disabled ‐‐ before making GSA Schedule procurements.
+The Services Acquisition Reform Act (SARA) of 2003 requires that executive agencies appoint a Chief Acquisition Officer (CAO) whose primary duty is acquisition management.
+However, the Department’s current organization is not in compliance with this requirement, as the Assistant Secretary for Administration and Management is serving as the CAO while retaining other significant non‐acquisition responsibilities.
+Until procurement and programmatic responsibilities are properly separated and effective controls are put in place, the Department will be at risk for wasteful and abusive procurement practices.
+In addition, a recent OIG audit of procurements for Job Corps found that procurement personnel did not always comply with the Federal Acquisition Regulation in obtaining adequate justification for sole source contracts.
+The OIG also determined that there was a lack of training and inadequate oversight during the contracting process.
+As a result, contracting integrity, as well as fair and open competition, could be compromised.
+OIG’S ASSESSMENT OF DEPARTMENT’S PROGRESS: The Department has taken preliminary steps to implement SARA.
+In January 2007, the Secretary issued Order 2‐2007, which formally established the position of CAO within DOL.
+This Order specifically stated that the CAO will have acquisition management as a primary duty.
+Further, the Order emphasized that the CAO will report to the Secretary with day‐to‐day guidance from the Deputy Secretary and that the CAO will have responsibility for overseeing other Department acquisition activities.
+Unfortunately, the Department still has not satisfied the full intent of SARA, as the delegated CAO continues to perform many other duties unrelated to acquisition management, such as serving as the Department’s Chief Information Officer and overseeing the Department’s budget operations.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Department’s Foreign Labor Certification (FLC) programs provide United States (U.S.) employers access to foreign labor to meet worker shortages under terms and conditions that do not adversely affect U.S. workers.
+The Permanent Foreign Labor Certification Program allows an employer to hire a foreign worker to work permanently in the U.S., if a qualified U.S. worker is unavailable.
+The H‐1B program allows the Department to certify employers’ applications to hire temporary foreign workers in specialty occupations such as medicine, biotechnology, and business.
+The H‐2B program permits employers to hire foreign workers to come temporarily to the U.S. and perform temporary non‐agricultural labor on a one‐time, seasonal, peak load, or intermittent basis.
+In March 2005, ETA created the PERM (Permanent Electronic Review Management) system which removed the states from a direct role in reviewing and auditing applications for foreign labor certification, eliminated the 100 percent review of such applications, and established a random sampling and targeted approach to auditing applications to ensure compliance with the law and program requirements.
+CHALLENGE FOR THE DEPARTMENT: Maintaining the integrity of its FLC programs, while also ensuring a timely and effective review of applications to hire foreign workers, is a continuing challenge for the Department.
+OIG investigations, some of which have been initiated based on referrals from ETA, have identified fraud against these programs, and is the fastest growing area of OIG investigations.
+OIG investigations continue to uncover schemes carried out by immigration attorneys, labor brokers, and transnational organized crime groups, some with possible national security implications.
+Further, OIG investigations have revealed schemes involving fraudulent applications that are filed with DOL on behalf of fictitious companies—or applications using names of legitimate companies without their knowledge.
+An OIG audit of the PERM system found that ETA had changed its methodology for selecting applications to audit.
+Furthermore, ETA had not conducted audits of all the applications selected for audit.
+As employers and representatives such as labor brokers and others learn what elements in an application are likely to trigger an audit, they may be able to structure applications in a way that could lessen the likelihood of applications being audited.
+OIG’S ASSESSMENT OF DEPARTMENT’S PROGRESS: The Department has instituted measures to reduce fraud in its FLC programs.
+As a result of OIG investigations repeatedly demonstrating the need to eliminate the practice of substituting a new foreign worker for the one originally named on a permanent labor certification application, in July 2007 the Department enacted the Fraud Rule which prohibited the practice of substitution.
+In addition, the OIG and the Department have been working collaboratively to identify and reduce fraud in the FLC process by providing training and instruction to ETA personnel on better and more creative ways of identifying and referring to the OIG possible labor‐related visa fraud.
+In March 2008, ETA's OFLC launched its Fraud Detection and Protection Unit designed to recognize visa fraud and more expeditiously respond to OIG requests for programrelated information.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: It is essential for the Department to ensure that its information systems are secure.
+These systems contain vital sensitive information that is central to the Department’s mission and to the effective administration of its programs—systems and information that provide the nation’s leading economic indicators such as the Consumer Price Index, unemployment rate, injury and illness rates, workers’ compensation benefits, participant pension and welfare plan information and job and training services.
+The Congress and the public have voiced concerns over the ability of government agencies to provide effective information security and to protect critical data.
+CHALLENGE FOR THE DEPARTMENT: Security of information technology (IT) systems is a government‐wide challenge and is a continuing challenge for DOL.
+Keeping up with new threats and IT developments, providing assurances that information technology systems will function reliably, and safeguarding information assets will continue to challenge the Department today and in the future.
+The OIG’s IT audits have identified access controls, oversight of contractor systems, and the effectiveness of the Chief Information Officer’s oversight of the Department’s full implementation of mandatory, minimum information security controls as DOL’s most significant challenges.
+The OIG has reported on access control weaknesses over the Department’s major information systems since FY 2001.
+These weaknesses represent a significant deficiency over access to key systems and may permit unauthorized users to obtain or alter sensitive information, including unauthorized access to financial records and data.
+Another challenge for the Department is ensuring that information systems operated by contractors have the same level of IT security controls as systems operated by the Department.
+OIG audit work has disclosed security deficiencies in contractor operated systems.
+An OIG FY 2008 Federal Information Security Management Act (FISMA) audit found that the DOL security program did not fully implement minimum security controls.
+The OIG identified pervasive and obvious weaknesses across DOL, including access controls, certification, accreditation and security assessment, configuration management, contingency planning, and incident response.
+The OIG has identified these same deficiencies in past years’ FISMA audits.
+The recurring cycle of the same weaknesses, especially obvious access control vulnerabilities, identified by the OIG since FY 2006 demonstrates that DOL’s information security program must improve its current effort to fully implement and monitor information security controls throughout the Department.
+In light of these challenges, the OIG continues to recommend the creation of an independent Chief Information Officer (CIO) to provide exclusive oversight of IT issues.
+Accountability can be further enhanced by developing and implementing new reporting lines of communication for the Chief Information Security Officer (CISO) and the Component Program Information Security Officers (CPISO).
+These new communication lines will require the CISO to report directly to both the CIO and an Executive in the Secretary’s Office dealing with major security matters, including progress on maintaining an effective Department‐wide information security program.
+The CPISOs would continue to report directly to their respective component program Assistant Secretary while also reporting to DOL’s CISO.
+These steps will help to establish a greater degree of accountability for an overall effective information security program.
+OIG’S ASSESSMENT OF DEPARTMENT’S PROGRESS: In efforts to fully comply with FISMA, the Department is taking steps to improve the security of its information systems by focusing on access controls, policies and procedures, account management, and system authorization.
+The Department’s Chief Information Officer plans to improve upon the testing and monitoring of system security, focusing on those agencies identified as having greater identified vulnerabilities/risks.
+Finally, the Department has required all employees to complete Computer Security Awareness Training annually.
+DEPARTMENT’S REPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Department’s mission is to protect the security of retirement, health and other private sector, employer‐provided benefits for America’s workers, retirees and their families.
+These benefit plans consist of approximately $5.6 trillion in assets covering more than 150 million workers and retirees.
+EBSA is charged with overseeing the administration and enforcement of the fiduciary, reporting, and disclosure provisions of Title I of the Employee Retirement Income Security Act (ERISA).
+CHALLENGE FOR THE DEPARTMENT: Protecting these benefit plan assets against fraud is a challenge for the Department.
+OIG labor racketeering investigations demonstrate the continued vulnerability of plan assets to criminal activity.
+Employer benefit plan audits by independent public accountants provide a first‐line defense for plan participants against financial loss.
+Ensuring that audits by independent public accountants meet quality standards adds to the Department’s challenge in providing adequate oversight.
+However, DOL’s authority to require plan audits to meet standards remains limited because the Department does not have the authority to suspend, debar, or levy civil penalties against employee benefit plan auditors.
+The Department must obtain legislative change to correct substandard benefit plan audits and ensure that auditors with poor records do not perform additional plan audits.
+Other legislative changes recommended by OIG include the repeal of ERISA’s limited scope audit exemption that prevents independent public accountants from rendering an opinion on the plans’ financial statements or assets held in other regulated entities such as financial institutions, requiring plan administrators or auditors to report potential ERISA violations directly to DOL, and strengthening criminal penalties in Title 18 of the U.S. Code to provide a stronger fraud deterrent.
+Another challenge is the Department’s responsibility for regulatory oversight of ERISA health care provisions.
+DOL needs to continue to work closely with State insurance commissioners and the Department of Justice to assist in the identification and prosecution of fraudulent Multiple Employer Welfare Arrangements.
+The OIG is planning an audit to determine how EBSA evaluates the effectiveness of its National enforcement projects and uses this information to direct future enforcement activities.
+Further, the OIG is beginning an audit to evaluate whether EBSA’s Rapid ERISA Action Team project proactively identifies employers facing financial hardships in order to protect the rights and benefits of pension and health plan participants when the plan sponsor faces severe financial hardship.
+OIG’S ASSESSMENT OF DEPARTMENT’S PROGRESS: While the Department has sought the recommended legislative changes, these changes have not been enacted.
+DOL continues to utilize a multi‐pronged strategy to help ensure compliance with ERISA Title I. EBSA has also reached out to other Federal enforcement agencies to broaden its enforcement efforts.
+A Memorandum of Understanding (MOU) was signed on July 29, 2008, between EBSA and the Securities and Exchange Commission.
+The MOU establishes a process for both agencies to share information and meet regularly on matters of mutual interest, including findings and trends, enforcement cases, and regulatory requirements.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+OVERVIEW: The Federal Records Act of 1950 requires that the head of each Federal agency establish and maintain an active records management program.
+The National Archives and Records Administration has oversight responsibilities for Federal records management programs.
+The Department’s Assistant Secretary for Administration and Management is responsible for managing the Department’s records and for providing overall policy direction for the Department’s records management program.
+The Department’s records management program consists of records creation, maintenance and use, and disposition of records to achieve adequate and proper documentation of the Department’s policies and transactions.
+CHALLENGE FOR THE DEPARTMENT: It is a challenge for the Department to ensure that it preserves records in accordance with laws and regulations, and properly disposes of those records it is not required to keep.
+It is also a major challenge for the Department to have an effective recordkeeping and document management system to manage e‐mails and electronic file needs.
+DOL may be at risk of not being able to address in a timely and complete manner e‐mail and electronic file needs required as a result of legal hold orders and litigation discovery.
+An additional challenge is the proper handling for both hard copy and electronic records that do not have legal retention requirements.
+Although these documents and files are not considered long‐term Federal records, they may be subject to legal holds, congressional requests, and requests under the Freedom of Information Act.
+It is therefore important that they are disposed of in accordance with an appropriate records management program.
+The OIG’s recent audit of the Department’s Records Management Program found that the Department had not: conducted comprehensive periodic evaluations of its records management program; provided records management training to all staff, or effectively managed transitory records or documents that have no legal retention requirements.
+OIG’S ASSESSMENT OF DEPARTMENT’S PROGRESS: Records management is an emerging challenge for the Department and agencies government‐wide, particularly as reliance on electronic documents continues to increase.
+In FY 2008, the Department implemented mandatory Records Management Training for all its employees.
+The Department will conduct periodic evaluations of agency’s records management programs over a five year cycle beginning in FY 2009.
+The Department has undertaken other efforts to improve its records management program, including issuing guidance and specific instructions on how to handle electronic records, issuing an updated Records Management Handbook, and updating agency records schedules.
+The Department has also stated that it will update its cost‐benefit analysis regarding the establishment of an electronic recordkeeping and document management system.
+Such a system would provide capabilities for storing, indexing, locating and tracking e‐mails that are Federal records and addresses the unnecessary retention of e‐mails that are transitory records or nonrecords.
+DEPARTMENT’S RESPONSE: Following are DOL FY 2008 Actions, Remaining Actions, and Expected Completion Dates to Challenges Identified by the OIG, GAO, and DOL.
+Congress enacted the Energy Employees Occupational Illness Compensation Program Act to provide timely, uniform, and adequate compensation to civilian men and women suffering from cancer and other illnesses incurred as a result of their work in the nuclear weapons production and testing programs of the Department of Energy and its predecessor agencies.
+As of August of this year, the Department had received 167,018 claims, and issued decisions to approve or deny benefits on nearly 82 percent of these claims.
+The Department had approved slightly more than 39 percent of claims and paid nearly $3.8 billion in compensation plus more than $200 million in medical reimbursements.
+Recent inquiries by several members of Congress and the public have raised concerns as to whether the Department unfairly denies too many claims and whether claims decisions are timely.
+In response to concerns about the Energy workers’ program, the OIG is conducting an audit to determine whether claim decisions issued by the Department complied with applicable law and regulations, and whether the Department has a system in place to ensure that claims are adjudicated as promptly as possible and claimants are kept informed.
+In FY 2008, the Department continued its focus on implementing the President’s Management Agenda (PMA) and securing the taxpayer benefits tied to PMA success.
+Announced in 2001, the PMA remains the key strategy for improving the management and performance of the Federal government.
+The objective is to ensure a Federal government that is citizen‐centered, not bureaucracy‐centered; results‐oriented, not output‐oriented; and marketbased – actively promoting rather than stifling innovation through competition.
+The Office of Management and Budget (OMB) regularly assesses all Federal agencies’ implementation of the PMA, issuing a quarterly Executive Branch Management Scorecard rating of green, yellow or red for both status and progress on each initiative.
+On June 30, 2005, the Department of Labor became the first Executive Branch department or agency to achieve green status scores on all five government‐wide PMA initiatives.
+While not an end in itself, this achievement represents an ongoing commitment to good management to bring quality services to the American people.
+As noted on the table below, as of September 30, 2008, DOL is pleased to have again achieved all‐green status scores on the five government‐wide initiatives.
+DOL has also achieved all‐green status scores on the three PMA program initiatives managed by DOL.
+Government‐wide PMA results can be found at www.results.gov.
+To ensure that the good‐government principles are used in day‐to‐day management, the Department uses a similar scorecard on a semi‐annual basis to measure DOL individual agency progress on the PMA.
+As we approach the eighth year of PMA implementation, it is useful to review the Department’s accomplishments in all five government‐wide initiatives and the three PMA initiatives managed by DOL.
+The Human Capital initiative requires Federal agencies and departments to develop and use a comprehensive human capital plan, with the aim of significantly reducing mission‐critical skill gaps.
+To develop future leaders with the critical skills and experience needed to effectively manage DOL programs, the Department has established the MBA Fellows, Senior Executive Service (SES) Candidacy, and Management Development programs.
+Each of these programs is structured to develop the core competencies required for successful performance in the SES and necessary to continue the Department’s mission.
+Since their inception, these programs have trained 230 participants, who are now better prepared to successfully manage DOL’s programs.
+Of the 92 MBA Fellows, DOL has retained 70 (76 percent), exceeding our own established target.
+The Management Development Program has been similarly effective, as 54 percent of the 48 graduates from the first two classes have been promoted to managerial or supervisory positions.
+Because attrition in the Department’s ranks of SES is anticipated to be up to 70 percent over the next five years, the SES Career Development Program is critical to our succession planning.
+We are pleased to report that the Department retained 45 (80 percent) of the 56 graduates from the program since its inception.
+Of the 19 graduates who are now in SES positions, 17 were retained for at least three years following graduation and 15 continue to be employed by DOL.
+The Commercial Services Management initiative – which in FY 2008 replaced the Competitive Sourcing initiative – is aimed at making a more competitive Federal workforce.
+Commercial Services Management allows the government to take advantage of market‐based competition by having current Federal employees compete against private sector bidders for work that is deemed commercial activity through OMB Circular No.
+A‐76, Performance of Commercial Activities.
+The skills and competencies that are not required to be performed by government personnel can often be performed more effectively and efficiently when subject to the competition of the marketplace.
+The competition process generally results in savings regardless of whether the performance decision is in favor of the government or the private sector.
+Before 2001 DOL held no competitions under Circular A‐76, and to the extent that DOL agencies used contractor support, it was done without the benefit of competition.
+Since implementing its Commercial Services Management initiative, DOL has completed 28 A‐76 competition studies covering 1,068 FTE positions, saving the government approximately $67 million.
+Of the 28 competitions, 26 were retained “in house,” with the work continuing to be performed by Federal employees.
+The Improved Financial Performance initiative is focused on ensuring responsible stewardship of public funds.
+The Office of the Chief Financial Officer (OCFO) has devoted significant resources to secure the Department’s achievement of excellence in financial management in the Federal Government.
+This excellence is evidenced by DOL’s clean audit opinion for FY 2008, which marks the 12th straight year for this achievement.
+Prior to 2001, the arduous task of closing the Department’s books meant delaying the issuance of the audited financial statements.
+Beginning in 2004, the Department accelerated the closing of its books and has been able to issue its audited financial statements by November 15th – three months earlier than in the past.
+Producing timely financial statements and receiving a clean audit opinion demonstrate the Department’s commitment to secure the best performance and highest measure of accountability to the American people.
+Cost Analysis Manager (CAM), the Department’s managerial cost accounting system, provides program managers with the cost of significant outputs of their major programs, which enhances decision‐making and assists in the efficient and effective operation of programs.
+CAM produced the data for the cost of the Department’s goals at the strategic and performance goal levels for this report; and for the third straight year CAM provided cost data at the performance indicator level.
+These data provide insight into the cause‐and‐effect relationship between the costs of outputs and the activities performed by the Department.
+In other words; CAM data enable DOL to identify what was spent, how it was spent, what was produced, and what goals were supported.
+As a result of the data provided by CAM some DOL agencies have been able to refine their budgeting to more accurately reflect costs.
+This initiative requires Federal agencies and departments to develop secure Information Technology (IT) systems and strictly adhere to IT project cost, schedule, and performance projections.
+One example of this approach is E‐Grants.
+E‐Grants is a web‐based grants management tool used by all DOL grant‐making programs to award some $9 billion in grants each year.
+E‐Grants lowers administrative costs, strengthens internal controls, and improves efficiency and customer service.
+Estimated savings and cost avoidance associated with E‐grants is nearly $20 million over the system’s twelve‐year life.
+Another example is the Safety and Health Information Management System (SHIMS), which is a Web‐based system for collecting, submitting and tracking Federal workers’ injury and illness compensation claims.
+SHIMS, a “best practice” of U.S. Government agencies, will lead to efficiency gains by providing timely and accurate workplace safety data.
+The increased speed and accuracy expected from SHIMS will greatly enhance the timeliness of submission of workers’ compensation claims; provide managers, supervisors, and employees access to safety data; and furnish DOL with a mechanism for performing analysis of injury trends and safety incidents.
+The estimated cost avoidance from SHIMS is $2.4 million dollars over the system’s life time.
+DOL also continues to seek other creative strategies and efficiencies to better serve our stakeholders.
+In April 2002, GovBenefits.gov was launched – with DOL serving as the managing partner.
+GovBenefits’ mission is to use the Internet to connect citizens to government benefit program eligibility information; increase access to information, particularly for people with disabilities; reduce the burden and difficulty of doing business with the government; and continue to add programs to become the single source for Federal, State, and local government benefit programs.
+In April 2005, DOL launched GovBenefits en Español – and in April 2007, GovBenefits.gov was named as one of the Top 50 most innovative government programs in the Innovations in American Government Award program of Harvard University’s John F. Kennedy School of Government.
+In fact, GovBenefits.gov was one of only six Federal programs so recognized.
+Since its 2002 launch, GovBenefits.gov has had over 25 million visits – and now includes over 1,000 programs, both Federal and State.
+The Performance Improvement Initiative – which, as of July 1, 2007, replaced the Budget and Performance Integration initiative of the PMA – seeks to ensure that performance is routinely considered in funding and management decisions and that agency programs achieve expected results while working toward continual improvement.
+At DOL, it has also resulted in a gradual cultural shift that fosters a closer dialogue among program, performance, budget, and finance staff.
+Prior to 2001, the budget process was a tedious, paper‐based exercise.
+However, DOL has automated the budget formulation process with the use of the Departmental E‐Budget System (DEBS).
+DEBS allows budget analysts the ability to easily and electronically merge budget data with justification narrative using a web browser.
+After a pilot phase, the DEBS system was rolled out to all of DOL for the FY 2009 budget cycle.
+DOL recently concluded two re‐assessments through the 2008 PART process – the Federal Employees Compensation Act (FECA) and the WIA Youth Activities.
+FECA’s PART rating remained at Moderately Effective, while the WIA Youth program improved upon its previous Ineffective rating (2003 PART assessment) to a rating of Adequate.
+The reduction in the volume of assessments in 2008 is due to the government‐wide initiative to review all PART performance measures.
+The PART performance measures analysis consisted of an independent review for their clarity, outcome orientation and ambitiousness.
+DOL will use the findings of the independent review as well as an internal, DOL review of the measures, to make improvements to our performance measures.
+PART assessments, scores, ratings, and Improvement Plans are published on www.ExpectMore.gov.
+DOL hired a contractor to conduct an independent study of the WIA Adult and Dislocated Workers programs effectiveness – using administrative data – to be completed in 2008.
+Also in 2008, DOL launched a rigorous, sevenyear evaluation to determine WIA Adult, Dislocated Worker and Youth services’ long‐term impact on participants employment and earnings outcomes, compared to those who do not receive program services.
+The Government Performance and Results Act of 1993, calls for six‐year strategic plans that must be updated every three years.
+The Department’s current strategic plan was issued in September 2006 and covers Fiscal Years 2006 through 2011.
+DOL will soon begin to develop an updated Strategic Plan – covering Fiscal Years 2009 through 2014 – which will be in place no later than September 30, 2009.
+The Department’s four strategic goals of A Prepared Workforce, A Competitive Workforce, Safe and Secure Workplaces, and Strengthened Economic Protections have served us well – but the 2009 strategic planning process will offer a new opportunity to re‐examine DOL’s goals, program strategies and performance targets.
+This will allow DOL to continue to articulate the critical results the Department will seek to achieve and describe the planned strategies to ensure success.
+The 2009 planning process will also allow DOL to solicit feedback from key stakeholders, such as Congressional leadership and the public.
+In addition, DOL is responsible for three of the PMA components found in selected departments: Eliminating Improper Payments, Faith‐Based and Community Initiative, and Federal Real Property Asset Management.
+The Eliminating Improper Payments initiative seeks to better detect and prevent improper payments to ensure taxpayer dollars are spent wisely and efficiently.
+At DOL, developing strategies and the means to reduce improper payments is good stewardship – and good business.
+Accurate payments lower program costs, thereby improving efficiency.
+In FY 2005, when the Administration introduced this PMA scorecard initiative, the Department received a yellow rating.
+Within one year, DOL's programs classified as high risk for improper payments met the improper payments reduction targets and other requirements of the PMA initiative and earned DOL a green in both progress and status on this scorecard.
+DOL is required annually to estimate the amount of improper payments made in the identified high risk programs; report those estimates to Congress; and convey what actions DOL is taking to reduce the improper payments.
+The Department has three programs classified as high‐risk for improper payments.
+Two are benefit programs – Unemployment Insurance (UI) in ETA and the Federal Employees' Compensation Act (FECA) program in ESA – and the third is the Workforce Investment Act (WIA) Adult, Dislocated Worker, and Youth grant programs in ETA.
+DOL continues to develop strategies to improve payment integrity for its programs.
+For example, through the efforts of the Department’s Office of the Chief Financial Officer and ETA, 48 States now use a cross‐match of National Directory of New Hires data with State UI claimant data to identify individuals who returned to work and are, therefore, no longer eligible to receive UI benefits.
+The FECA and WIA programs have developed systems and audit procedures to help identify and reduce improper payments.
+The Faith‐Based and Community Initiative is focused on tapping into the unique work of local faith‐based and community organizations (FBCOs) to help more Americans overcome barriers to employment, find jobs and stay employed.
+Prior to 2001, the Federal government often impeded or ignored the efforts of faith‐based and community groups to address social problems by imposing an improperly restrictive view of their appropriate role.
+Now, the Department has regulations clarifying how faith and community‐based organizations can participate in competitions for and use DOL funding.
+The Department employs a wide range of grants, technical assistance and other tools to draw upon the unique strengths of FBCOs in efforts such as serving the unemployed and underemployed, aiding homeless and incarcerated veterans, helping ex‐offenders transition from prison to work, and reducing exploitive child labor abroad.
+DOL’s Center for Faith‐Based and Community Initiative (CFBCI) worked with the Employment and Training Administration to develop the Grassroots Grants program, dedicating $10.9 million Federal dollars to 247 grassroots FBCOs in 42 States to serve (in partnership with One‐Stop Career Centers) more than 37,700 hard‐to‐serve individuals – ranging from ex‐offenders to homeless individuals to persons with disabilities – placing 15,376 of those individuals in jobs.
+Since 2001, efforts supported by the Bureau of International Labor Affairs, Office of Child Labor, Forced Labor and Human Trafficking, have withdrawn or prevented more than 1.2 million children around the world from exploitive child labor, largely through the work of international and nonprofit organizations, including indigenous community and faith‐based groups.
+The Federal Real Property Asset Management initiative is aimed at better managing the Department’s properties.
+Prior to 2001, DOL component agencies managed their owned real property assets independent of any centralized, coordinated, and consistent oversight process.
+For DOL nationwide office space occupied through agreements with GSA, the Department had no automated reporting system to help manage this space.
+The appointment of a Senior Real Property Officer, establishment of a Real Property Working Group, incorporation of Federal Real Property Council performance measures into property site survey/data collection activities and the creation of an online Space Management System has brought centralized oversight, more consistent real property management practices, and increased information sharing among DOL agencies with real property assets.
+From 2001 to 2008, DOL closed more than 100 offices and released more than 100,000 square feet of space – thus achieving a cost avoidance of approximately $3 million in rent during this period.
+These key results and related Real Property successes of all DOL agencies – especially the Office of Job Corps, MSHA, and OASAM – led to an upgrade to green in DOL’s status on DOL’s Real Property scorecard in March 2008 – completing a clean sweep of green on all eight of our second‐quarter FY 2008 PMA scorecards.
+Legislation establishing the U.S. Department of Labor was signed by President William Howard Taft on March 4, 1913 – just hours before leaving office.
+While the Department’s Centennial is still over four years away, Secretary Chao appointed two co‐chairs to begin planning events to commemorate this momentous occasion.
+While future Secretaries will decide upon the executive leadership and make other key decisions for the 100th anniversary events, the recently appointed two career‐level co‐chairs will help avoid any delay in the momentum for planning this event.
+The Performance Section of this report presents results at the Strategic Goal and Performance Goal levels.
+The four Strategic Goals established in our FY 2006‐2011 Strategic Plan are general outcomes clearly linked to the Department’s mission.
+Performance goals articulate more specific objectives associated with one or more programs administered by a distinct DOL agency.
+Progress in achieving these goals is measured by one or more quantifiable performance indicators, for which targets are established in the annual Performance Budget Overview.
+Each of the four strategic goal sections is introduced by an overview of results, net cost and future plans for its component performance goals.
+Performance Goal statements appear at the top of the page, followed by number that help organize this report but also correspond to commitments in DOL’s annual budget\performance plans.
+The first two digits correspond to the funding (budget) period; in this report, “08” indicates goals reporting on a fiscal year and “07” those reporting on a program year.
+The single digit following the hyphen identifies the strategic goal and the letter distinguishes the performance goal from others in the same group (e.g., 08‐1A).
+Indicators, Targets and Results tables list each indicator, its targets and results for the reporting period and previous years that have data for the same indicators.
+Indicators that were dropped prior to the current year are not shown; however, a note indicates where additional historical performance information (legacy data) can be obtained.
+Where all data for any year are shown, goal achievement is indicated.
+Where “baseline” appears in the target cell for new indicators, no data were available for establishing a numerical target, and these data do not count towards goal achievement.
+If results improve over the prior year but do not reach the target, “I” appears in the target cell.
+Program Perspectives and Logic narratives describe the purpose of the program, how its activities are designed and managed to have a positive impact on the goal, and how it measures success and external factors that influence performance.
+Photos and vignettes communicate examples of programs’ impact at the personal level.
+Analysis and Future Plans narratives interpret results, assess progress, explain shortfalls and describe strategies for improvement.
+Performance data at the indicator level and net cost at the goal level are displayed in charts where sufficient data are available to illustrate trends.
+PART, Program Evaluations and Audits tables provide updated information on Program Assessment Rating Tool reviews and improvement plans.
+Relevant audits and evaluations completed during the fiscal year are summarized in tables that summarize relevance, findings and recommendations, and next steps.
+This report is published six weeks after the end of the fiscal year.
+Since the Department uses a wide variety of performance data submitted by diverse systems and governed by agreements with State agencies and grant recipients, it is not possible in all cases to report complete data for the reporting period.
+The Department requires each agency responsible for performance goals in this report to submit a Data Estimation Plan in February that identifies, for each indicator, whether complete data are expected by the deadline for final review of the report in early October.
+If the data will not be available by then, the agencies must submit an acceptable plan to estimate results for the remainder of the year.
+Methodologies developed by agencies’ program analysts are reviewed by the Department’s Center for Program Planning and Results and the Office of Inspector General (OIG).
+The most common methods are substitution or extrapolation of two or three quarters of data and – for data with significant seasonal variation – use of the missing period’s results from the previous year.
+Estimates are clearly identified wherever they are used in this report.
+With very few exceptions, final (actual) data are available by the end of the calendar year; these data will be reported in the FY 2010 President’s Budget and the FY 2009 Performance and Accountability Report.
+OIG assesses the internal controls of DOL agencies – systems used to validate, verify and record data submitted by field staff and partners (e.g., grantees).
+These systems are identified as Data Sources at the bottom of each performance goal history.
+Lack of findings does not imply that data are factual.
+Material inadequacies are disclosed in the Secretary’s Message, which includes a statement on the adequacy of program performance data that is supported by signed attestations from each agency head responsible for a performance goal in this report.
+OMB Circular No.
+A‐11, Preparation of Submission and Execution of the Budget, defines “material inadequacy” as a condition that significantly impedes the use of program performance data by agency managers and government decision makers.
+For Departmental management, this threshold is established at the performance goal level as data that are insufficient to permit determination of goal achievement.
+DOL uses a Data Quality Assessment process to improve the quality of performance information reported to the public.
+By doing so, DOL not only increased the transparency of data quality among performance goals, but also implemented a forward‐looking method for systematically evaluating data systems using widely accepted criteria.
+By increasing the visibility of data quality, DOL is using the assessment process as an important benchmark for monitoring progress and stimulating change.
+Data assessments are based on seven criteria, of which two – accuracy and relevance – are weighted twice as much as others in the rating system (see box below).
+If data do not satisfy the standards for both of these criteria, the rating is Data Quality Not Determined.
+This reflects the DOL policy that further assessments of quality are irrelevant if the information is not reasonably correct or worthwhile.
+In FY 2008, no data assessments resulted in this rating.
+After three years, the DOL data quality assessment process continues to challenge agencies’ data systems.
+Designed to encompass more than the mechanics of data collection, the assessments also question the value of information collected and the extent to which it provides evidence of goal achievement.
+In FY 2006, DOL established the data quality assessment scale recognizing that the Department lacked a systematic process for advancing the department‐wide goal to improve the quality of data presented in the PAR.
+The data quality assessment process supports this goal by exposing data quality issues and seeking targeted remedies strictly within the parameters of the performance goal data for that fiscal year.
+The data quality assessment process matures each year to realistically reflect the pace of progress and to incorporate further guidance from OMB.
+In the first year, DOL conducted baseline assessments of data for all performance goals.
+In FY 2007, DOL reviewed these assessments to determine whether ratings merited an upgrade or downgrade.
+By contrast, the prior year assessment process primarily collected improvement plans based on the recently completed baseline assessments.
+The FY 2008 assessment required updates on activities to strengthen data, as defined by the rating scale criteria, or to maintain already robust systems.
+Agencies sought upgrades based on improvements to this fiscal year’s data.
+Downgrades were also possible, as evidenced with last year’s downgrade of Senior Community Service Employment Program (SCSEP) within ETA, but did not occur in FY 2008.
+Data for sixty‐three percent of performance goals are rated Very Good or Excellent, and with the inclusion of Good, the total reaches 92 percent.
+No performance goals were rated Unsatisfactory, nor were any rated Data Quality Not Determined (DQND) due to fundamental problems with accuracy and relevance.
+Three performance goals received upgrades – two of which were rated DQND in FY 2007.
+PBGC implemented new performance measures from its FY 2007 PART which better reflect the mission of the program, thus satisfying the threshold criterion of relevance.
+ETA’s SCSEP expeditiously addressed the issues of accuracy and completeness related to the quality of its performance data, which had undermined its ability to report results in the FY 2007 PAR.
+Grantee reporting was carefully reviewed for anomalies and variations throughout the year to ensure improved data quality and complete reporting by year’s end.
+MSHA improved the timeliness of its health indicators by fully implementing more rigorous reporting requirements for its field and district offices, thereby increasing its score from a Good to Very Good.
+The last section of each performance goal narrative contains additional information about data quality.
+At the Departmental level, certain criteria are met more frequently than others.
+With the two performance goal upgrades, all DOL performance goals satisfy the threshold criteria of accurate and relevant.
+Over two‐thirds of performance goals are supported by data that is valid, timely, and complete.
+As indicated in the adjacent table, the clear challenges for many performance goals are data reliability and the ability to verify the data.
+Less than half of all performance goals have data quality controls in place that routinely monitor data and are fully integrated into the data collection system.
+Verifiability emerges as a predominate issue largely as a result of ETA’s numerous grant programs and its challenges monitoring and enforcing standards among grantees’ diverse data systems.
+As agencies refine performance measures, methodologies, and definitions to improve performance reporting, they can find it more difficult to demonstrate meaningful trends.
+In FY 2009, in addition to the agencies’ self‐assessments and OASAM’s review of those assessments, the Department will undertake an independent evaluation of the data for selected programs/performance goals.
+This evaluation will also analyze the current rating scale and make recommendations to improve the scale and process, particularly in support of the heightened requirements in OMB Circular No.
+Develop a prepared workforce by providing effective training and support services to new and incumbent workers and supplying high‐quality information on the economy and labor market.
+America’s engine of prosperity is its skilled workforce.
+Maintaining a country’s strong national economy depends, in part, on developing a steady stream of workers who possess skills required by today's employers.
+To expand the size and capabilities of the labor pool, DOL provides comprehensive training programs that focus on specific occupational skills while taking into account job seekers’ circumstances.
+The Department also produces labor statistics that individuals and businesses can use to better understand the job market and the economy.
+Center for Faith‐Based and Community Initiatives.
+A prepared workforce has the skills and the education that employers demand.
+Education – from literacy to vocational training – plays a fundamental role in preparing workers for lifelong employment.
+In addition, DOL programs focus on helping those who face exceptional barriers to successful employment.
+These individuals, such as low‐income youth and homeless veterans, benefit from training tailored to their unique needs.
+Despite not meeting its indicator targets, Job Corps continued to place nearly three quarters of the disadvantaged youth it served in employment, postsecondary education, or advanced occupational skills training.
+Fifty‐seven percent of the Workforce Investment Act (WIA) Youth program’s participants attained credentials such as a General Equivalency Diploma (GED), high school diploma or certificate – the program exceeded the target by 12 percentage points.
+For the third consecutive year, the fraction of workers in apprenticeship programs who remained employed for nine months after entry rose – to 84 percent, and their average wages rose to nearly $16 per hour.
+Entered employment and employment retention rates for all veterans served by One‐Stop Career Centers reached 61 percent and 81 percent, respectively.
+Jenira, age 19, is a freshman at Penn State University’s Shenango Valley campus.
+Her high school principal referred her to the WIA Youth program at PA CareerLink Mercer County during her senior year of high school because she became homeless in the 11th grade when her mother was incarcerated.
+Jenira enrolled in the program, was able to obtain part‐time employment, and with the help of some of her teachers at Sharon High School, was able to find a small place of her own.
+She graduated in June, 2007 and continues to support herself and pursue her college education with the help of scholarships.
+Jenira wants to pursue a career as a Registered Nurse and work with the elderly.
+She says, “Growing up, I didn’t even believe graduating from high school was a possibility, let alone attending college. All my inspiration comes from people putting their trust in me and seeing my best qualities. I have potential...I can make it.”
+Disabled veterans also reached their entered employment and employment retention targets with outcomes of 57 percent and 80 percent, respectively – notable results, considering their significant barriers to employment.
+For more specific information, see the Performance Goal narratives.
+The chart below presents FY 2008 achievements as measured by performance goals and indicators.
+The performance goal number, goal statement, and responsible agency appear on the left axis, the total percentage of indicator targets reached or improved is indicated in the horizontal bars, and the goal result is on the right axis.
+Corresponding strategic goal and DOL‐wide averages are presented at the bottom of the chart.
+If the goal is achieved, the bar will run all the way across because, by definition, all indicator targets were reached.
+If the goal is substantially achieved, the total can range from 80 percent to 100 percent and includes indicators for which the target was not reached, but results improved over the previous year.
+As indicated in the chart above, DOL had five performance goals under Strategic Goal 1 in FY 2008, of which two were achieved (40 percent) – below the Department‐wide average of 50 percent.
+BLS did not achieve its goal; only four of its six targets were reached.
+Job Corps did not reach any of its targets for placement in employment or education; credential attainment; and literacy or numeracy gains.
+The WIA Youth Program, which uses the same measures but has different targets, achieved its goal by reaching targets for placement and student academic attainment; baseline data were also collected for the literacy/numeracy measure.
+The Office of Apprenticeship did not achieve its goal; the employment retention target was reached, but not the average hourly wage gain target.
+VETS’ goal was achieved; targets for all four of the indicators for which they had data were reached.
+These measures reflect shared outcome goals and facilitate comparison for management purposes.
+The charts below provide results to date for both programs.
+Although both programs target out‐of‐school and at‐risk youth, the results for the three indicators may continue to differ because of the distinct design of each program.
+One is primarily a longer‐term residential program, while the other provides services to youth in their communities.
+Also, they have followed different common measures implementation trajectories.
+For more detailed discussion, see each program’s performance goal narrative in the pages that follow.
+Those with labels that begin with “07” operate on a Program Year (PY) basis, and are reporting on the period from July 1, 2007 to June 30, 2008 due to the forward funding authorized in the Workforce Investment Act of 1998.
+Improve information available to decision‐makers on labor market conditions, and price and productivity changes.
+The Bureau of Labor Statistics is the principal fact‐finding agency in the Federal government in the broad field of labor economics.
+As an independent national statistical agency within the Department of Labor, BLS collects, processes, analyzes, and disseminates essential statistical data to the American public, the U.S. Congress, other Federal agencies, State and local governments, business, and labor.
+BLS provides information that supports the formulation of economic and social policy, and decisions that affect virtually all Americans.
+BLS reports performance for this goal by aggregating the underlying performance measures of output, timeliness, accuracy, and long‐term improvement for its statistical programs into four comprehensive performance indicators.
+BLS demonstrates continuous improvement by setting more ambitious targets on its indicators.
+In addition, the performance measures that underlie those indicators encompass enhancements to BLS products.
+Examples of these enhancements include new price indexes for four specialty trade contractors, and the addition of three new countries (Argentina, Slovakia, and the Philippines) to the BLS manufacturing series.
+BLS measures customer satisfaction with its Occupational Outlook Handbook (OOH) Web page (www.bls.gov/OCO/), a nationally recognized source of career information.
+OOH is one of the most frequently used BLS Web pages, and the performance indicator allows BLS to assess enhancements and identify potential areas for further improvement.
+In addition, BLS reports on the efficiency of its Internet Data Collection Facility (IDCF), a single, secure architecture that BLS surveys use to collect information from respondents online.
+IDCF is an important tool for offering a wider range of reporting options to respondents, as well as a more economical means of data collection.
+BLS reached targets for four of its six performance indicators.
+BLS reached 86 percent of the underlying targets for its labor force statistics indicator, missing the target by six percentage points.
+The Current Employment Statistics (CES) and Local Area Unemployment Statistics programs did not reach their timeliness targets because the September 2007 Metropolitan Area Employment and Unemployment news release, which includes data from both programs, was issued a few minutes late due to a systems error.
+The CES program also missed a workload measure target because BLS released fewer series than planned due largely to confidentiality and reliability reviews.
+In addition, the Quarterly Census of Employment and Wages program missed one of its workload targets because business establishment growth was lower than projected.
+BLS reached 71 percent of the underlying targets for its productivity and technology indicator, missing the target by 29 percentage points.
+The Major Sector Productivity program missed its timeliness target because a Productivity and Costs news release was delayed to correct an error in the text.
+The Industry Productivity program also missed its workload measure due to discontinuation of 32 productivity‐related measures for four manufacturing industries.
+BLS reached 92 percent of the underlying targets for its prices and living conditions indicator, exceeding its target by two percentage points.
+The International Price Program missed two workload targets, and the Consumer Expenditure Survey missed one workload target.
+BLS reached 96 percent of the underlying targets for its compensation and working conditions indicator.
+To generate the highest yields for their clients, investment firms must be able to reliably anticipate market movements.
+Jeff works as Chief Economist for a money management firm that manages portfolios for both institutional and individual investors.
+Jeff uses the BLS Employment Situation and other BLS Labor Force Statistics data to get a macroeconomic view of the economy to help guide his investment decisions.
+In particular, Jeff recently used data from the Job Openings and Labor Turnover Survey (JOLTS) to examine labor market churn and wage inflation.
+Sector‐specific data are particularly useful to Jeff as he analyzes the different sectors of the economy.
+The JOLTS data assist Jeff in his economic research and Federal Reserve analysis.
+BLS statistics help Jeff manage his portfolios and anticipate labor market movements throughout the business cycle.
+Census of Fatal Occupational Injuries missed its accuracy measure due largely to delays in obtaining data from one State.
+Using the American Customer Satisfaction Index survey to measure the OOH Web page, BLS exceeded its target of 79 percent.
+BLS also exceeded its target for decreasing the cost per transaction of its IDCF.
+The cost per transaction of $0.76 in FY 2008 decreased from $1.12 in FY 2007, and surpassed the target of $1.11.
+Costs associated with this performance goal were virtually unchanged from FY 2007‐08.
+BLS has instituted rigorous, systematic, and comprehensive controls to ensure that the data quality retains its Excellent rating.
+The data are highly relevant; the BLS executive team meets with program management on a quarterly basis to discuss progress toward meeting performance indicators.
+BLS also conducts its own program reviews and contracts for external reviews, as necessary.
+These assessments ensure that survey data are accurate, reliable, and released in a timely fashion; systems and procedures are documented adequately; program performance meets or exceeds standards; and prerelease data are kept confidential.
+Note: Costs for this goal are net costs as defined in a footnote to the Cost of Results discussion in Management’s Discussion and Analysis.
+Costs for PY 2006 have been restated since publication of the FY 2007 Performance and Accountability Report to correct improper inclusion of $198 million in revenue and apply a more accurate means of splitting grant costs.
+Costs are not allocated to the indicator level for placement, credential and literacy/numeracy measures because program activities are not separable into categories associated with one or another.
+Job Corps is an intensive educational and vocational training program (primarily residential) for economically disadvantaged youth ages 16 through 24 who often face multiple barriers to gainful employment.
+This program provides career counseling, technical skills and academic training, social education, and other support services, such as housing, transportation and family support resources to more than 60,000 individuals at 122 centers nationwide.
+Job Corps centers, ranging in size from 200 to 2,000 students, are located in both urban and rural communities.
+Job Corps centers provide individually tailored services to help students achieve the skills and credentials required to be successful, productive citizens and to obtain work opportunities that lead to long‐term employment.
+Job Corps’ performance can be influenced by external factors such as local labor market conditions and national economic trends.
+In recent years, an increasingly knowledge‐based labor market has challenged Job Corps to revise its training strategies.
+In response, Job Corps developed and has begun to implement its New Vision, an approach that focuses on applied academics by increasing the rigor and relevance of academic and career technical training; incorporating industry‐based standards and certifications; reinforcing a standards‐based curriculum approach; and providing a more comprehensive system of on‐center and post‐center support services.
+This approach is providing students with valuable credentials and competitive skills they need to pursue challenging careers – and the timing is critical since recent statistics indicate that national youth unemployment rates are rising.
+Performance of the Job Corps program is assessed using the Federal job training program common measures for youth – placement in employment or education, attainment of a degree or certificate, and literacy or numeracy gains – as indicators of student achievement in improving their long‐term employability.
+Like many young people, Alison didn’t recognize the value of education – until she came to Job Corps.
+With focus and hard work, Alison graduated from Job Corps in 2007, earning a high school diploma and a certificate in accounting.
+She currently works as a Federal civilian employee, processing national invoices and regional tort claims for Job Corps’ National Office.
+Above, Alison consults with Margaret Carson, Division Chief, Budget and Facilities Support.
+Alison credits her Job Corps classroom and work‐based learning experiences with helping her develop the organizational, communication, and data entry skills that prepared her for the position.
+Alison also recognizes opportunity when she sees it, which is why – thanks to her employee benefits package – she is currently enrolled in a business management class at Southeastern University.
+Alison now gives back by speaking with friends and other young people who are interested in Job Corps.
+Job Corps’ performance was significantly below the desired outcomes for all three indicators.
+Placement of Job Corps graduates and former enrollees in employment, the military or post‐secondary education mirrored the national employment picture and declined in PY 2007.
+The result of 73 percent is far below the 82 percent target but just one percentage point lower than the PY 2006 result.
+Job Corps attributes its National Certification Initiative, which increased emphasis and rigor for career technical training programs, for the impact on the PY 2007 certificate attainment rate; the result of 53 percent is four points lower than last year and 11 points below the target.
+Job Corps anticipates that the more stringent requirements for career technical training completion will continue to affect the results of the certificate attainment rate as all necessary support structures for the Certification Initiative – which would assist more students with successful completion of their training program – have not yet been fully implemented.
+This in turn will temporarily affect the placement rate, as a decreased graduation rate leads to a larger proportion of non‐graduating former enrollees.
+Former enrollees traditionally have a lower placement rate than graduates because they have not attained the qualifications (educational or career technical training) that would make them more competitive in the labor market.
+Also, non‐graduating former enrollees’ placement window, the period during which placement assistance is offered and placement data are captured, is just 90 days, versus the six‐month window for graduates.
+Job Corps expects PY 2008 performance indicator results to continue the downward trend, although changes are expected to be small – a few percentage points.
+Literacy/numeracy gains were also lower than expected; the PY 2007 result of 53 percent was five percentage points short of the target and PY 2006 result of 58 percent.
+Literacy/numeracy gains may not recover, either, in part due to a continued adjustment from paper/pencil to the online version of the Test for Adult Basic Education – a diagnostic test used by Job Corps to determine skill levels and aptitudes.
+Finally, implementation of the New Vision focus on applied academics is expected to continue to impact students’ learning gains.
+Pre‐employment Drug Testing Pilot identifies random samples of applicants who are screened for drugs prior to enrollment.
+Program research shows that testing positive on the initial drug test is a reliable predictor of students separating from the program due to Zero Tolerance infractions.
+In addition, Job Corps is working to expand services to English Language Learners in an effort to increase successful outcomes for students across the country with limited English proficiency.
+Plans also include improving services to students with cognitive disabilities.
+Specifically, Job Corps has made periodic updates to its data collection system to improve tracking of students with disabilities.
+Coordinator and qualified personnel on how to best accommodate the student’s needs.
+During PY 2008, Job Corps will convert the part‐time Regional Disability Coordinators to full‐time.
+Costs associated with this performance goal increased by seven percent from PY 2006‐07.
+The following factors contributed to this increase: higher utility and heath care costs, salary increases and adjustments for academic and career technical training instructors, and additional unforeseen costs associated with expansion of the program to include a new Job Corps Center.
+When the OIG cited insufficient management controls over performance data in 2004, DOL designed and implemented new data integrity procedures which require regional offices to utilize targeted samples (highlighting where error or manipulation may have occurred) for audit reviews conducted in conjunction with on‐site assessments.
+When Regional Offices find that Center operators have not complied with contractual obligations, liquidated damages are identified and assessed.
+Since 2004, $585,397 in liquidated damages have been recovered.
+The Office of Job Corps is confident that the new data integrity strategy is producing more reliable student outcome data from Job Corps centers and career transition service providers.
+To address Ensuring the Effectiveness of the Job Corps Program (see the Top Management Challenges section of Management’s Discussion and Analysis), DOL is improving the way Regional Offices monitor the performance of contractors that operate 94 of its Job Corps centers.
+In FY 2007, a new process that included both a fiscal and a performance review was implemented.
+Over a one‐year period all six Regional Offices received specialized training on monitoring contractor performance of financial management and cost reporting, data integrity, and asset management.
+The Departments of Interior and Agriculture operate the remaining 28 Job Corps centers via Interagency Agreements with DOL.
+In March 2008, a new Interagency Agreement was signed with USDA – which requires Agriculture to be more accountable for the funds transferred to them and allows DOL the flexibility it needs to operate the centers.
+In addition, effective July 1, 2008, the three centers formerly operated by the National Park Service were transferred to the USDA’s Forest Service.
+The Workforce Investment Act authorizes services to low‐income youth (age 14‐21) with barriers to employment.
+The program serves both in‐ and out‐of‐school youth, including youth with disabilities and other youth who may require specialized assistance to complete an educational program or to secure and hold employment.
+Youth are prepared for employment and post‐secondary education by stressing linkages between academic and occupationa learning.
+Services available to youth include tutoring, alternative schools, summer employment, occupational training, work experience, leadership development, mentoring, counseling, supportive services such as assistance with child care and housing, and follow‐up services such as on‐going career counseling after a youth exits the program.
+DOL collects data for three performance indicators, all Federal job training program common measures for youth that enable the program to describe and compare the outcomes of its core purposes to other education, employment and job training programs.
+The first measure, percent of youth participants who are in employment or enrolled in post‐secondary education or training, indicates whether DOL is transitioning youth into the workforce or post‐secondary education — a key to successful careers.
+The second, percent of participants who attain a diploma, GED, or certificate, is a proxy for the effectiveness of the program in preparing youth participants to compete in the 21st century economy.
+The third indicator measures literacy/numeracy gains by out‐of‐school youth participants who are deficient in basic skills.
+Progam Year 2007 is the first full year in which complete data on this measure is available for analysis.
+DOL will use the PY 2007 data as a baseline to establish targets for PY 2008.
+The WIA Youth program achieved its performance goal in PY 2007.
+The program exceeded its placement in employment or education target by six percentage points and surpassed the degree or certificate attainment target by twelve percentage points.
+At 17, Maira came to the Wisconsin’s Waukesha County Workforce Development Center in 2003 for help with school.
+She was behind in class and getting poor grades – due in part to major family difficulties.
+After enrollment in the WIA Youth program, Maira earned a High School Equivalency Diploma (HSED) and prepared for college.
+A summer work experience with the Waukesha Police Department convinced Maira to pursue a career in police science.
+While attending Waukesha County Technical College, Maira gave birth to a baby girl (Isabella) and still completed that semester with good grades.
+In May 2007, Maira graduated with a criminal justice degree and was selected to attend the Recruit Academy at Milwaukee Area Technical College for a 13 week training program.
+After completing the training program, she accepted an officer position with the Fond du Lac Police Department with a starting wage of $19.00/hour.
+The Department will continue to implement strategies that recognize out‐of‐school and at‐risk youth as an important part of the new workforce.
+WIA youth programs connect these youth with quality secondary and post secondary educational opportunities, in addition to high‐growth and other employment opportunities.
+In 2006, DOL formed the Shared Youth Vision (SYV) Federal Partnership with the Departments of Health and Human Services, Education, Justice, Housing and Urban Development and Transportation, plus the Social Security Administration and the Corporation for National and Community Service.
+The Partnership assists States in coordinating resources and program delivery strategies to achieve positive outcomes for the neediest youth.
+DOL and the SYV Federal Partnership have continued to work with the 16 SYV Pilot States that were awarded funds in 2006 to develop and implement projects that integrate services for specific populations of the neediest youth.
+Through a peer‐to‐peer mentoring initiative, the Pilot States are sharing knowledge and best practices on serving the neediest youth with 12 non‐pilot States.
+Costs associated with this performance goal rose by seven percent from PY 2004‐05, fell 15 percent between PY 2005‐06, then rose again by 12 percent from PY 2006‐07, reflecting fluctuation in the timing of expenditures; States have three years to expend funds.
+Annual variations in costs are also attributable to fluctuations in the number of participants served.
+The data quality score for this performance goal also applies to Performance Goals 2A and 2B, which rely on the same data collection system to determine employment outcomes for WIA program participants.
+Data verification remains an area for improvement, and extensive efforts have been directed toward improving data quality through the use of ETA’s data validation system and monitoring at both the national and regional levels (see also Improving Performance Accountability of Grants in the Top Management Challenges section of Management’s Discussion and Analysis).
+In particular, the Department provided technical assistance to States on the integration of quality controls into data collection and reporting systems, conducted several regional training sessions and webinars to address technical and policy questions about performance reporting, and issued revised guidance in October 2007 on WIA incentives and sanctions that included data validation results as one of the criteria for determining eligibility for WIA incentive awards.
+In addition, in PY 2006, revisions to the draft Core Monitoring Guide were made to better address data validation concerns.
+The Core Monitoring Guide is continually revised to address new issues that arise during site visits.
+Site visits are conducted to ensure compliance with reporting standards.
+Improve the registered apprenticeship system to meet the training needs of business and workers in the 21st Century.
+Established in 1937, the National Registered Apprenticeship System is a partnership of the Department of Labor, State agencies, sponsors, industry leaders, employers, employer associations, labor and management organizations, and educational institutions.
+It provides opportunities for jobseekers to secure jobs with career paths, earn competitive wages, and obtain nationally‐recognized industry credentials.
+The apprenticeship training system promotes and registers programs and apprentices, certifies standards, safeguards the welfare of the apprentices, and provides a nationally recognized system for skilled and technical occupational training programs throughout the United States.
+Apprenticeship programs use a combination of classroom training and on‐the‐job training under close supervision of a skilled worker to teach apprentices the practical and theoretical requirements of a highly skilled occupation.
+Most of the training costs are borne by apprenticeship program sponsors.
+The Department promotes the apprenticeship training system to potential sponsors and participants and registers and monitors these partners’ apprenticeship programs, in some cases via State Apprenticeship Agencies (SAAs) – which are delegated this authority by the Secretary of Labor.
+SAA’s certify that standards are met for quality, fairness, and opportunity, and that apprenticeship programs incorporate appropriately supervised on‐the‐job learning and occupation‐related technical instruction.
+As a system based on voluntary industry participation, apprenticeship program performance is directly impacted by external factors such as the wage rates determined by local apprenticeship sponsors and by the demand for skilled and technical labor in local markets.
+Two performance indicators, “apprentices employed nine months after registration” and “average hourly wage gain for tracked entrants,” are used to indicate progress towards program completion and the value of skills obtained.
+The Apprenticeship system did not achieve its performance goal for FY 2008 since the wage gain target was not reached.
+The retention result continues a three‐year trend of improvement since the baseline was established in FY 2005.
+While the 61‐cent average hourly wage gain (from $15.27 to $15.87) was far below the target of $1.51, it translates to an annual increase of $1,269.
+The decline in construction associated with a deteriorating housing market had a significant impact on the number of registered apprentices.
+DOL expects that even fewer apprentices will be registered in the construction industry in FY 2009 and that this will continue to exert downward pressure on retention and average earnings measures of Apprenticeship program performance.
+Occupational demands are projected to continue shifting toward high growth industries.
+For example, United Parcel Service recently registered a large number of apprentice truck drivers with higher‐than‐average starting wages.
+These apprenticeships also feature above average annual increases that will help offset the expected impact of continued reductions in construction and related industries.
+Phillina was on public assistance and struggling to raise her child.
+She had few skills to secure a livable‐wage job when she signed up for construction‐readiness training after a presentation by a recruiter from the Women in Apprenticeship and Nontraditional Occupations program, which is cosponsored by the Office of Apprenticeship and the Women’s Bureau.
+Phillina knew she could do the work, but needed direction and help.
+She excelled in every class and the hard physical work gave her a strong sense of accomplishment.
+Phillina participated in the cement mason apprenticeship program, which requires applicants to complete an examination that includes pushing a wheelbarrow with a 100 pound load.
+She stayed after class every day to practice, passed the test and graduated first in her class of 75 candidates.
+Phillina is now working full‐time – earning over $16 per hour plus benefits – and looking for an apartment to move out of transitional housing.
+With the assistance of the Office of Apprenticeship and her dedication and perseverance, Phillina is well on her way to providing a better life for herself and her child.
+To improve performance, the Department is seeking changes to existing apprenticeship standards that would measure apprentices’ attainment of certain skills and competencies in addition to using the traditional, time‐based approach.
+Also, DOL will continue providing technical assistance to Women in Apprenticeship and Non‐Traditional Occupations (WANTO) grantees, a new consortium that is training over 200 women apprentices.
+In order to measure outcomes after apprentices have completed the program, the Office of Apprenticeship is converting to the common measures and will baseline its performance indicators in FY 2009.
+Therefore, the Apprenticeship program will not appear in the FY 2009 Annual Performance and Accountability Report, but will return in the FY 2010 Annual Performance and Accountability Report.
+Two evaluations will be completed in FY 2009.
+Evaluation of Apprenticeship involves surveys of registered apprenticeship sponsors and visits to five States to determine sponsor views and the costs and benefits of apprenticeship, types of data maintained, linkages with the One‐Stop service delivery system, and administration of the apprenticeship system.
+Retrospective Look at Apprenticeship includes a review of modernization policies that the Office of Apprenticeship has implemented and examines their implications on the future of the program.
+Costs associated with this performance goal remained fairly constant from FY 2005‐08.
+Costs are not allocated to the performance indicator level, as funding supports both measured outcomes for apprentices served by the federally administered programs.
+All Federally‐administered programs (in 25 States) participate in RAPIDS.
+RAPIDS established greater quality controls to ensure timely, complete, and valid data are collected from the program sponsors that utilize the system.
+Verification testing of RAPIDS was completed in the 3rd Quarter of FY 2008 with no major findings.
+Additional testing is scheduled for completion at the end of FY 2009.
+Revisions to the regulations to the National Apprenticeship Act that address the quality, flexibility, evaluation and performance data requirements of Apprenticeship programs were published on October 29, 2008.
+As noted in the Analysis and Future Plans section, the Apprenticeship program will be converting to the common measures in FY 2009.
+By March 2009, the Office of Apprenticeship will have three quarters (Quarter 4, FY 2006; and Quarters 1 and 2, FY 2007) of data for the common measures to develop baseline performance targets.
+The transition to common measures is scheduled to coincide with the availability of unemployment insurance wage record data from the Wage Record Interchange System, which will be matched against apprenticeship data to determine performance outcomes.
+The methodology for calculating the common performance measures will further mirror and align apprenticeship results with those used for other DOL employment and training programs.
+RAPIDS implementation also addresses Improve Apprenticeship Data Quality (see the Top Management Challenges section of Management’s Discussion and Analysis) by developing a cost‐effective strategy for collection of data from programs in 25 States and three territories that are not administered by the Department.
+DOL’s oversight of the Federally‐administered State programs to ensure compliance with Federal guidelines and regulations continues, as recommended by the Government Accountability Office (GAO‐05‐886).
+Costs are not allocated to the indicator level for employment and retention measures because program activities are not separable into categories associated with one or another of them.
+However, this goal includes two programs with three distinct target populations.
+Costs for each group (all veterans, disabled and homeless veterans) are provided in the cost cell opposite the retention indicators, where available.
+HVRP data for PY 2007 are not available because the reporting system was shut down for a mandatory system redesign.
+The Homeless Veterans’ Reintegration Program (HVRP) is a much smaller competitive grant program emphasizing stable employment as the critical factor in mitigating homelessness among veterans.
+Program participants are served by community‐based grantees that provide pre‐employment services, establish linkages with service providers funded by other Federal agencies, and rely on the specialists to assist them in finding employment once they are job‐ready.
+One‐Stop Career Centers serve younger, recently separated veterans who have limited civilian work experience and older veterans with civilian experience who have become unemployed.
+HVRP grantees serve homeless veterans who have minimal attachment to the workforce.
+DOL applies the Federal job training program common measure definitions of entry to employment and retention in employment as the critical indicators of successful outcomes for all veterans and all disabled veterans who receive One‐Stop services.
+During PY 2007, VETS issued guidance adding the average earnings indicator for all veterans and all disabled veterans who receive One‐Stop services, and HVRP completed the transition to common measure definitions of its outcome measures.
+In setting performance targets, VETS seeks to improve service to veterans at a rate that is ambitious yet attainable.
+Results for HVRP were not available in time for inclusion in this report; they will be included in future reports.
+Therefore, achievement of this goal for PY 2007 is based on the four indicators for One‐Stop services.
+Based on those results, this goal was achieved, as the targets were reached for all four indicators.
+The entered employment rate for all veterans equals the target, while the results for the other three indicators exceed the targets by one percentage point.
+Results in the charts below are for the first two indicators, which include disabled veterans.
+The positive results for these indicators appear to be attributable primarily to measurement effects.
+In fact, the rebound of approximately two percentage points in the results for these indicators for the current year is nearly identical to the slump of approximately two percentage points experienced for these same indicators the prior year.
+This is believed to reflect the disruption in interstate sharing of data on employment outcomes during PY 2006 that was resolved during PY 2007.
+The anticipated publication during PY 2008 of final regulations on priority of service for veterans is likely to enhance the delivery of veterans’ employment services, leading to an improvement in employment outcomes for all veterans.
+In addition, to improve the outcomes of disabled veterans, VETS continues to expand the Recovery and Employment Assistance Lifelines program by assigning program outreach staff at major medical installations throughout the country.
+This program, which is complemented by efforts of the Departments of Defense and Veterans Affairs, provides individualized job training, counseling and re‐employment services to seriously injured or wounded veterans of Operation Iraqi Freedom, Operation Enduring Freedom and other recent conflicts.
+Finally, VETS and the Department of Defense will be implementing a joint initiative during PY 2008 to increase the rate of participation by transitioning service members in Transition Assistance Program (TAP) employment workshops.
+That initiative is expected to result in an increase the number of veterans accessing One‐Stop Career Centers and experiencing positive employment outcomes.
+Net costs for this performance goal rose by ten percent from PY 2004‐07 due to increased appropriations.
+The trend is uneven due to grantees’ flexibility in the timing of expenditures.
+Data for this performance goal, rated Good by the Department’s criteria,28 are tracked using two systems, one external to VETS.
+The four indicators addressing the outcomes of veterans and disabled veterans served by One‐Stop Career Centers rely upon the reporting system for One‐Stop Career Centers (Performance Goal 07‐2C).
+Therefore, in general, the data quality assessment for that goal (Very Good) also applies to these indicators.
+The two indicators addressing outcomes for homeless veterans served by HVRP rely on the Veterans' Employment and Training Operations and Program Activity Report (VOPAR).
+VOPAR was out of service for most of PY 2007 pending redesign of the system that is expected to be completed in PY 2008.
+This affects the completeness criterion in the DOL data quality rating system, which in combination with the verifiability criterion not met for the other four indicators leads to a Good overall assessment for this goal’s data.
+VETS issued revised guidance during PY 2007 that updated and improved several aspects of the agency’s performance measurement systems.
+In addition, intensive workshops on common measures were conducted at the annual conference attended by all grantees’ representatives, with further field follow‐up planned.
+VETS has no DOL top management challenges.
+Meet the competitive labor demands of the worldwide economy by enhancing the effectiveness and efficiency of the workforce development and regulatory systems that assist workers and employers in meeting the challenges of global competition.
+To succeed in the 21st Century, America must be prepared to adapt to changes in the global economy – and that success will largely depend on a workforce that meets employers’ needs for new and skilled workers.
+Through partnerships with State and local workforce agencies, business and industry, education and training providers, faith‐based and community organizations, and economic development agencies, DOL makes strategic investments in job training and increases accessibility and quality of information to help match workers with employers.
+Bureau of International Labor Affairs (ILAB).
+Fostering a competitive workforce means helping American workers acquire the necessary tools and skills to succeed.
+Increasingly, advanced skills are required to meet the rapidly evolving workforce needs of employers.
+Customized training and assistance to workers – including those with unique needs such as dislocated workers, individuals with disabilities, and veterans – improve their chances to obtain better paying jobs, to keep those jobs and to advance their careers.
+DOL serves America's workers and employers by creating partnerships between the workforce system and business.
+New approaches are being applied to help business and industry better access the services of the state and local workforce investment system and to educate the public and the workforce system about the jobs in demand with promising career paths.
+To complement these services, the Foreign Labor Certification program assists employers whose needs cannot be supplied locally.
+A competitive economic environment also demands a regulatory structure in which benefits of regulations exceed their costs.
+DOL conducts periodic reviews to determine if regulations have or will have a significant economic impact.
+These reviews examine the regulations’ compliance costs and whether the regulatory burdens of all employers, large and small, are reduced.
+Sasha was pregnant for the first time at 12 and abusing drugs by 13; she lived with substance abuse as a driving force for decades.
+With ten children to care for between the ages of 32 and six, Sasha left prison knowing that things could not continue as before.
+In addition to working the 12 steps of recovery as treatment for her addiction, Sasha sought out courses in anger management and parenting and requested assistance with housing.
+Project REACH, a collaborative effort between One‐Stop Career Centers and faith‐based and community organizations, was able to place her in a supportive home for women until she was employed.
+Sasha found a job doing what she loves best: cleaning.
+One day she was vigorously cleaning outdoor windows at the women’s home.
+A business owner happened by, saw Sasha working hard, and called later to ask the coordinator of the home to tell Sasha to stop by his diner if she needed employment.
+Sasha was hired on the spot – her first job ever!
+She has been working there for six months now.
+DOL‐supported international technical assistance projects focus on raising living standards through workplace‐related interventions, supporting the expansion of free and fair trade, eliminating exploitive child labor, and promoting the basic rights of workers.
+Each day for eight and a half years, Melissa worked tirelessly as a sewing machine operator in Harrodsburg, Kentucky.
+When her company downsized and she was laid‐off, she applied for unemployment benefits and learned she was eligible for additional benefits and services through the Trade Adjustment Assistance program.
+With the assistance of counseling and assessments, Melissa set her sights on a high‐demand career in the healthcare field.
+Through hard work and dedication, she earned her Associates degree in Medical Information Technology from Bluegrass Community and Technical College on May 3, 2008.
+She is now employed full‐time with a regional medical center, and making more than in her previous job.
+She enjoys her work and the people she works with, and says she is extremely grateful for this opportunity.
+The Employment Service results show the system provided employment assistance and/or workforce and labor market information to nearly 16 million individuals.
+Retention in employment improved for WIA Adult, Employment Service, and TAA program participants but fell slightly for the WIA Dislocated Worker program.
+Average earnings rose for participants in the WIA Adult, WIA Dislocated Worker, Employment Service, and TAA programs – with three of the programs exceeding their targets by a thousand or nearly a thousand dollars.
+Nearly 70 percent of businesses participating in the Women’s Bureau Flex‐Options program – 3.5 percent more than in FY 2007 – created or enhanced a flexible workplace practice such as telecommuting, job sharing, and compressed work week schedules.
+Ninety‐four percent of permanent foreign labor certification applications were processed within six months – up from 74 percent last year.
+Timeliness for all three temporary foreign labor programs also increased.
+For example, the H‐1B Specialty Occupations Program for highly skilled professionals processed 100 percent of applications within the statutory seven‐day timeframe.
+DOL‐supported projects withdrew or prevented 196,312 children from exploitive labor by providing education and/or training opportunities.
+This brings to almost 1.3 million the total number of children rescued from exploitive labor around the world through DOL assistance.
+Through technical support and outreach from DOL‐funded projects, 44 countries increased their capacity to eliminate the worst forms of child labor – 11 more countries than the target of 33.
+For more information, please see the Performance Goal narratives.
+The chart below presents FY 2008 achievements as measured by performance goals and indicators.
+The performance goal number, goal statement, and responsible agency appear on the left axis, the total percentage of indicator targets reached or improved is indicated in the horizontal bars, and the goal result is on the right axis.
+Corresponding strategic goal and DOL‐wide averages are presented at the bottom of the chart.
+If the goal is achieved, the bar will run all the way across because, by definition, all indicator targets were reached.
+If the goal is substantially achieved, the total can range from 80 percent to 100 percent and includes indicators for which the target was not reached, but results improved over the previous year.
+DOL achieved or substantially achieved six of nine performance goals (67 percent) in Strategic Goal 2, which is above the Department’s average of 50 percent.
+The WIA Adult program goal was not achieved, but two of the three Federal job training program common measure30 targets were reached.
+The WIA Dislocated Worker goal was not achieved, either, missing the entered employment and retention targets but reaching the average earnings target.
+All three targets for the One‐Stop employment and workforce information services were reached (goal achieved).
+The Senior Community Service Employment Program substantially achieved its goal by reaching its employment and retention targets and improving upon the FY 2007 result for average earnings.
+The TAA program, which did not achieve its goal, reached the average earnings target, missed on entered employment, improved retention but did not reach the target.
+The Foreign Labor Certification program substantially achieved its goal by reaching three targets and improving results for the fourth indicator.
+ODEP, the Office of the Assistant Secretary for Policy and ILAB achieved their goals by reaching all FY 2008 targets.
+Five of the ten performance goals in Strategic Goal 2 are for employment and training programs whose results are measured by entered employment rate (percent of participants who obtain jobs subsequent to receipt of services) and by employment retention rate (percent of those who obtained jobs who are still employed six months later).
+Earnings results are not included because the programs that measure earnings used different indicators prior to this year.
+Significant differences in results between programs are generally explained by differences in types of services offered and populations served.
+Those with labels that begin with “07” operate on a Program Year (PY) basis, and are reporting on the period from July 1, 2007 to June 30, 2008 due to the forward‐funding authorized in the Workforce Investment Act of 1998 (WIA).
+The WIA Adult Program helps adult workers (unemployed and employed) acquire the skills they need to compete in a global economy.
+Funds are distributed by formula to States, which operate networks of One‐Stop Career Centers that provide comprehensive services to workers and employers.
+Services include assessments of skills needs, individual career planning, occupational skills training, on‐the‐job training, skills upgrading, entrepreneurial training, and adult literacy activities.
+States also use the WIA Adult Program to leverage additional Federal and non‐Federal resources to increase the quality and variety of assistance.
+Through collaboration with its program partners, the WIA Adult Program assists individuals in their career goals, reduces welfare dependency, and improves the quality, productivity and competitiveness of the nation’s workforce.
+DOL measures the success of this program with the Federal job training program common measures.
+The common measures enable comparisons to be made to government‐wide education, employment and job training programs that share similar core purposes.
+The common measures are entered employment, employment retention, and average earnings.
+A high entered employment rate indicates success in placing individuals in jobs.
+A high retention rate indicates employment stability.
+Increased average earnings indicate that participants are getting better jobs at better wages.
+The performance goal for the WIA Adult Program was not achieved.
+DOL reached two of three performance indicator targets.
+The exception was the entered employment rate of 68 percent, which is three percentage points below the target.
+The barrier to achieving this target is in large part due to the policies of a number of States, including several large States, to co‐enroll a significant number of participants in both the WIA Adult program and Wagner‐Peyser employment services (Performance Goal 07‐2C).
+Co‐enrollment, therefore, appears to pull down performance of the WIA Adult and Dislocated Worker Programs.
+The Department is working with the States with co‐enrollment policies to determine whether action is necessary to ensure the ability to accurately measure the outcomes of these programs in the context of integrated service delivery.
+Nancy entered the WIA program at the Pennsylvania (PA) CareerLink Cambria County in January 2006 as a customer in a self‐directed job search.
+She had not worked in 26 years; she had been a stay‐at‐home mom and had battled cancer.
+CareerLink staff referred Nancy to New Choices‐New Options, a program for displaced homemakers.
+She began typing tutorials and was referred to the Office of Vocational Rehabilitation for additional services.
+Her assessment determined math deficiencies and high interest and aptitude in business.
+She attended Adult Basic Education classes, entered WIA Workfind, and was temporarily placed at the PA CareerLink Cambria County to learn office skills.
+Nancy now works as an administrative professional at a business located minutes from her home.
+Due partly to co‐enrollment, in PY 2005‐07, the number of people served by the WIA Adult Program grew from approximately 400,000 to over two million – with many of these new participants receiving WIA core services.
+WIA core services are lower cost interventions such as job search and placement assistance that may be followed by higher cost services such as intensive services and training.
+While the outcomes appear to be stabilizing, the number of participants served continues to rise as new States adopt co‐enrollment practices as a service delivery approach.
+DOL will continue to gather information from States on the impact of their co‐enrollment policies and practices, and is talking to States about actions that would support an optimal co‐enrollment policy – a policy that increases leveraged resources and yields positive outcomes.
+Other program results remained strong.
+The employment retention rate of 84 percent surpassed the target by one percentage point; this means that many people who initially gain employment after receiving services maintain their employment after six months.
+At $13,641, the six‐month average earnings result exceeded the target for PY 2007 by more than one thousand dollars.
+Increasing numbers of WIA Adult Program exiters are entering higher paying positions in managerial, technical, production, repair and other fields.
+DOL will continue to focus on assisting participants to enter skilled jobs in high growth occupations that pay good wages.
+The WIA Adult Program will continue to improve services to WIA participants by strengthening strategic partnerships with business and industry, and the education community.
+Through strategic planning efforts and grant application requirements, these partnerships develop workforce solutions in the context of state and regional economies.
+The Department recently announced a new project to assist welfare recipients maintain employment and enter or advance in high‐growth careers.
+Costs associated with this goal decreased six percent from PY 2006 to PY 2007.
+This reflects normal spending fluctuations since States have three years to expend funds.
+Costs are allocated to the performance goal rather than at the indicator level, as funding supports all the outcomes for the WIA Adult Program.
+Integration between the community colleges and the workforce system is hampered by the WIA performance system measures and the WIA funding issues.
+WIA requirements to meet the performance levels in their Adult, Dislocated Worker and Youth programs provide a disincentive for the One‐Stops to serve certain populations such as those on Temporary Assistance for Needy Families (TANF) or youth.
+GAO found that Labor has not acted on a prior recommendation to develop a systematic way to account for differences in the population groups served by the states’ One‐Stop Centers and apply it to all States when establishing their performance levels.
+DOL generally agrees with the findings and conclusions of the report.
+However, DOL expressed concern with comments from community colleges and state workforce officials regarding the disincentives resulting from the WIA performance measures.
+The Department issued guidance that allows for a thorough negotiation process with the States in setting performance levels.
+States and DOL negotiate targets that drive continuous improvement while recognizing the need to allow for harder‐to‐serve populations.
+States use adjustment models to show the effect on measured outcomes by efforts to increase access to populations with barriers to employment.
+DOL is considering alternative measures for a pilot.
+Additional Information: The report (GAO‐08‐547) is available at http://www.gao.gov/cgi‐bin/getrpt?
+Challenges section in Performance Goal 1C, which shares the same data collection system, for a discussion of improvement efforts.
+Originally from Missouri, Chad had spent most of his life in correctional institutions, on parole or on probation.
+After arriving at the Burlington half‐way house, he met with a WIA employment specialist, and he agreed to try making a change.
+While working two jobs, Chad attended Southeastern Community College and took classes such as trigonometry, physics and Computerized Numerical Control (CNC) programming.
+His WIA specialist assisted him with applying for a Pell grant, covered the cost of psychiatric treatment for issues related to his past drug abuse, and helped provide a suit and tie for job interviews.
+Today, Chad has been out of prison for seven‐and‐a‐half years and has been drug‐free for over six years.
+He is a homeowner and has worked at the Winegard Company for the past six years as a machinist.
