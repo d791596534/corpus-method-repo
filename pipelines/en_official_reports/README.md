@@ -41,6 +41,7 @@
 | `05_select_supplement` | `_select_en25000_sentences.py` | 每时期挑总统讲话约 25k 词（占该期 10%），按文件均分，只整句截取 |
 | | `_select_en25000_2020s.py` | 2020s 同口径 |
 | | `_supplement_en250k.py` | 用年度报告补足到每时期 25 万词（讲话 10% + 报告 90%），缺口在相邻年份间再分配 |
+| | `_count_words.py` | 按同一 `TOKEN` 口径重算成品词数，核对 `data/` 里逐年代表的合计 |
 
 ## 清洗判据
 

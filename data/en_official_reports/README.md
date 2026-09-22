@@ -34,12 +34,14 @@ sources/    5 个源 PDF 样本（2004–2026 之间的政府原生电子档）
 | 1950s | 21 | 250,252 | 2020s | 14 | 241,465 |
 | 1960s | 21 | 250,385 | **合计** | **247** | **3,244,916** |
 
-表里的数可以在本目录下直接重算，口径与选句脚本 `TOKEN` 一致：
+表里的数可以在**仓库根目录**下重算（不依赖 shell 的引号转义，bash 与 PowerShell 都能跑）：
 
 ```bash
-python -c "import re,glob;T=r\"[A-Za-z\u00C0-\u02AF0-9']+(?:-['A-Za-z\u00C0-\u02AF0-9]+)*\";print(sum(len(re.findall(T,open(f,encoding='utf-8').read())) for f in glob.glob('cleaned/*/*.txt')))"
-# 3244916
+python pipelines/en_official_reports/05_select_supplement/_count_words.py data/en_official_reports/cleaned
+# 247 个文件 3244916 词
 ```
+
+口径就是该脚本里的 `TOKEN`，与 `05` 选句时用的同一个正则。
 
 ## 版权与来源
 
